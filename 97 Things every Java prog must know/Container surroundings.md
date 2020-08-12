@@ -1,10 +1,10 @@
 ---
 created: 2020-08-12T17:01:42+05:30
-modified: 2020-08-12T17:06:54+05:30
+modified: 2020-08-12T17:16:43+05:30
 type: Checklist
 ---
 
-# Container surroundings
+# 3. Container surroundings
 
 - [ ] Linux Docker supports JDK8 191 and later
 - [ ] Older JVMs will access metrics from host OS
