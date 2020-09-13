@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-09-13T23:04:07+05:30
+modified: 2020-09-13T23:10:17+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Posses not one jot of talent.
 - [ ] Let's explore the stars
 - [ ] Mysteries of the skin
+- [ ] A face difficult to turn away from, a face to dream about
