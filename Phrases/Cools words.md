@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-13T23:29:33+05:30
+modified: 2020-09-13T23:31:36+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Conquest of hearts
 - [ ] A knife of radiance
 - [ ] Hounded by the blows of fortune
+- [ ] Conventions of the Era
