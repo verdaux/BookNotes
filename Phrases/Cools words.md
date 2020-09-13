@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-13T23:20:39+05:30
+modified: 2020-09-13T23:29:33+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Lodged in my skull
 - [ ] Conquest of hearts
 - [ ] A knife of radiance
+- [ ] Hounded by the blows of fortune
