@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-09-13T23:10:17+05:30
+modified: 2020-09-13T23:43:32+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Let's explore the stars
 - [ ] Mysteries of the skin
 - [ ] A face difficult to turn away from, a face to dream about
+- [ ] Turn your tongue into a weapon of cruelty
