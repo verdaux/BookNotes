@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-14T22:41:32+05:30
+modified: 2020-09-19T21:13:21+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Hounded by the blows of fortune
 - [ ] Conventions of the Era
 - [ ] Anchored to the table
+- [ ] Savage joy
