@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-19T21:13:21+05:30
+modified: 2020-09-19T22:06:37+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Conventions of the Era
 - [ ] Anchored to the table
 - [ ] Savage joy
+- [ ] Anarchic sense of humor
