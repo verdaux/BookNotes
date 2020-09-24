@@ -1,6 +1,6 @@
 ---
 created: 2020-09-24T12:54:48+05:30
-modified: 2020-09-24T13:00:15+05:30
+modified: 2020-09-24T13:01:09+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Looking away
 - [ ] Blocking - covers eyes, face
 - [ ] Distancing - moving away
+- [ ] Forehead touch
