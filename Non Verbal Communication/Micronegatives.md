@@ -1,6 +1,6 @@
 ---
 created: 2020-09-24T12:54:48+05:30
-modified: 2020-09-24T13:01:09+05:30
+modified: 2020-09-24T13:04:17+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Blocking - covers eyes, face
 - [ ] Distancing - moving away
 - [ ] Forehead touch
+- [ ] Anxiety- shake jiggle hands, be jittery, fidgety, crack knuckles,
