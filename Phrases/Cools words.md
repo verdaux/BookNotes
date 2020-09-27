@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-19T22:06:37+05:30
+modified: 2020-09-27T09:58:35+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Anchored to the table
 - [ ] Savage joy
 - [ ] Anarchic sense of humor
+- [ ] My rock, my anchor
