@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-27T10:16:48+05:30
+modified: 2020-09-27T10:53:58+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Anarchic sense of humor
 - [ ] My rock, my anchor
 - [ ] As a matter of strict moral doctrine
+- [ ] Sterling companion
