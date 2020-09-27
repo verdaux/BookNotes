@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-09-19T21:12:55+05:30
+modified: 2020-09-27T10:34:18+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] A face difficult to turn away from, a face to dream about
 - [ ] Turn your tongue into a weapon of cruelty
 - [ ] Indispensable other that dwelled in my skin
+- [ ] Each one an inseparable half of a single, two-part human organism
