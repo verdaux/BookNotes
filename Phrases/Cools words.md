@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-27T09:58:35+05:30
+modified: 2020-09-27T10:16:48+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Savage joy
 - [ ] Anarchic sense of humor
 - [ ] My rock, my anchor
+- [ ] As a matter of strict moral doctrine
