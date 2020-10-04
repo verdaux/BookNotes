@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-09-29T20:31:01+05:30
+modified: 2020-10-04T19:57:24+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Daunting Enigma
 - [ ] Marathon sobfest
 - [ ] In record time
+- [ ] Idiotic optimist, Intelligent pessimist
