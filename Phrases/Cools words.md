@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-04T20:11:59+05:30
+modified: 2020-10-04T20:34:34+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] In record time
 - [ ] Idiotic optimist, Intelligent pessimist
 - [ ] Almighty truth
+- [ ] One man emergency team
