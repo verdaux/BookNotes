@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-09-27T10:34:18+05:30
+modified: 2020-10-04T19:08:59+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Turn your tongue into a weapon of cruelty
 - [ ] Indispensable other that dwelled in my skin
 - [ ] Each one an inseparable half of a single, two-part human organism
+- [ ] A chance to spend a few moments in the ephemeral kingdom of earthly grace.
