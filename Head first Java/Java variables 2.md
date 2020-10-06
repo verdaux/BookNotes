@@ -1,6 +1,6 @@
 ---
 created: 2020-10-06T08:30:10+05:30
-modified: 2020-10-06T08:42:32+05:30
+modified: 2020-10-06T08:43:21+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Instance variables are declared inside a class and OUTSIDE a method
 - [ ] Local variables are declared within a method
 - [ ] Local variables must be initialised before use.
+- [ ] Method parameters are virtually the same as local variables
