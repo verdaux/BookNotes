@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-04T20:34:34+05:30
+modified: 2020-10-06T23:16:44+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Idiotic optimist, Intelligent pessimist
 - [ ] Almighty truth
 - [ ] One man emergency team
+- [ ] Fractured being
