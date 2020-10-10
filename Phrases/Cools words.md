@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-10T19:44:08+05:30
+modified: 2020-10-10T20:37:44+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Fractured being
 - [ ] Blind happenstance
 - [ ] Screaming contest
+- [ ] Dissolve into a fit of giggles
