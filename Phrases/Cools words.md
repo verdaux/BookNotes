@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-10T11:01:27+05:30
+modified: 2020-10-10T19:44:08+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] One man emergency team
 - [ ] Fractured being
 - [ ] Blind happenstance
+- [ ] Screaming contest
