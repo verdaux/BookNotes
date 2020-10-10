@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-06T23:16:44+05:30
+modified: 2020-10-10T11:01:27+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Almighty truth
 - [ ] One man emergency team
 - [ ] Fractured being
+- [ ] Blind happenstance
