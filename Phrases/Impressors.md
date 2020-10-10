@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-10-04T19:08:59+05:30
+modified: 2020-10-10T12:37:36+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Indispensable other that dwelled in my skin
 - [ ] Each one an inseparable half of a single, two-part human organism
 - [ ] A chance to spend a few moments in the ephemeral kingdom of earthly grace.
+- [ ] Missed a thing in the way a smoker misses cigarettes
