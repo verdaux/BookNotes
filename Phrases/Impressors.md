@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-10-10T12:37:36+05:30
+modified: 2020-10-10T19:14:03+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Each one an inseparable half of a single, two-part human organism
 - [ ] A chance to spend a few moments in the ephemeral kingdom of earthly grace.
 - [ ] Missed a thing in the way a smoker misses cigarettes
+- [ ] The best thing about being 21 is that you don't have to be 21 for more than a year.
