@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-10-20T20:48:05+05:30
+modified: 2020-10-20T22:48:30+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] The best thing about being 21 is that you don't have to be 21 for more than a year.
 - [ ] A man who had suffered and could still crack jokes.
 - [ ] There's a violent curse against each and every one who has done me wrong
+- [ ] The Queen of all earth and every city in heaven.
