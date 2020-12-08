@@ -1,7 +1,6 @@
 ---
 created: 2020-12-08T12:37:22+05:30
-modified: 2020-12-08T12:40:03+05:30
-type: Checklist
+modified: 2020-12-08T12:41:52+05:30
 ---
 
 # Resume
