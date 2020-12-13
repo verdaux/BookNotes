@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2020-12-13T22:59:10+05:30
+modified: 2020-12-13T23:00:00+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Putting the “do” in “weirdo.”
 - [ ] Gifted napper
 - [ ] Yes, I get emotional when it comes to math. It happens.
+- [ ] Recovering ice cream addict.
