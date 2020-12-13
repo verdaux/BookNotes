@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2020-12-13T23:00:00+05:30
+modified: 2020-12-13T23:30:11+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Gifted napper
 - [ ] Yes, I get emotional when it comes to math. It happens.
 - [ ] Recovering ice cream addict.
+- [ ] Recommended by 4 out of 5 people that recommend things
