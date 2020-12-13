@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2020-12-13T22:55:21+05:30
+modified: 2020-12-13T22:57:28+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] My best evolutionary guess
 - [ ] The way of the dodo-for instance, the dodo
 - [ ] Putting the “do” in “weirdo.”
+- [ ] Gifted napper
