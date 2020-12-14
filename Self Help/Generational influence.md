@@ -1,6 +1,6 @@
 ---
 created: 2020-12-14T10:57:45+05:30
-modified: 2020-12-14T11:00:11+05:30
+modified: 2020-12-14T11:00:27+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] The first is a revolutionary generation that brings about great change
 - [ ] which is followed by a generation of order and stability
 - [ ] The third generation focuses on pragmatism and comfort,
+- [ ] while the fourth generation is one of inquiry and cynicism
