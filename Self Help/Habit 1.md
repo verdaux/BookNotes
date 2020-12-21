@@ -1,7 +1,7 @@
 ---
 created: 2020-12-21T22:03:57+05:30
 type: Checklist
-modified: 2020-12-21T22:18:16+05:30
+modified: 2020-12-21T22:18:36+05:30
 ---
 
 # Habit 1
@@ -11,4 +11,5 @@ modified: 2020-12-21T22:18:16+05:30
 - [ ] Inside this circle is the smaller Circle of Influence, which represents all the things you can actually do something about.
 - [ ] Proactive people focus on their Circles of Influence, choosing to work on the things within their control.
 - [ ] Whether at home or at work, whenever you catch yourself blaming someone or something external for a problem you face, remind yourself that the root cause is your reaction to the problem.
-- [ ] Focus on finding solutions instead of accusing others. 
+- [ ] Focus on finding solutions instead of accusing others.
+- [ ] Exercise the tiny freedom you have before you respond, and you’ll find your capacity for proactivity flourishing.
