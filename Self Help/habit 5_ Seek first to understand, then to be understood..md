@@ -1,6 +1,6 @@
 ---
 created: 2020-12-28T21:04:34+05:30
-modified: 2020-12-28T21:11:13+05:30
+modified: 2020-12-28T21:12:11+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] So if you want to be respected as a listener and an imparter of advice, you need to develop the skill of empathic listening.
 - [ ] Empathic listening means trying to get inside the other person’s frame of reference so you can understand them both intellectually and emotionally.
 - [ ] you shouldn’t just listen to the words; you should attend to the feeling, behavior and meaning behind them.
+- [ ] One way to work on your empathic listening skills is to observe a conversation without hearing the words.
