@@ -1,6 +1,6 @@
 ---
 created: 2021-01-04T12:11:50+05:30
-modified: 2021-01-04T12:19:48+05:30
+modified: 2021-01-04T12:21:41+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Accept your emotions, thoughts, and stories.
 - [ ] Create space between you and your thoughts, emotions, and stories.
 - [ ] See them for what they are and not as defining you
+- [ ] Have-to goals are driven by external pressures, want-to goals are driven by internal values
