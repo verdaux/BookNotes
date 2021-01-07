@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2020-10-20T22:48:30+05:30
+modified: 2021-01-07T09:10:17+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] A man who had suffered and could still crack jokes.
 - [ ] There's a violent curse against each and every one who has done me wrong
 - [ ] The Queen of all earth and every city in heaven.
+- [ ] It's my duty to please that booty
