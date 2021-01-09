@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2020-12-27T16:51:58+05:30
+modified: 2021-01-09T09:17:13+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Recovering ice cream addict.
 - [ ] Recommended by 4 out of 5 people that recommend things
 - [ ] Why don't we sit crooked and talk straight?
+- [ ] Quite spectacularly so
