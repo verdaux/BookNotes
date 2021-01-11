@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-11T22:06:58+05:30
+modified: 2021-01-11T23:02:06+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] That is nothing more than a happy coincidence
 - [ ] I'm in all kinds of trouble
 - [ ] It's clearly a mixed ability group
+- [ ] The president declared a national emergency because of all the stolen hearts
