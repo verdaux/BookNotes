@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-11T23:11:57+05:30
+modified: 2021-01-11T23:41:04+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] The president declared a national emergency because of all the stolen hearts
 - [ ] If you're not laughing you're learning and that's great too
 - [ ] Walking, talking, stephen Hawking
+- [ ] I can smell that with my eyes
