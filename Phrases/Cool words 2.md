@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-01-09T09:20:39+05:30
+modified: 2021-01-11T22:39:04+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Why don't we sit crooked and talk straight?
 - [ ] Quite spectacularly so
 - [ ] I think I'm starting to realise that
+- [ ] Yeah! I just said that. Deal with it.
