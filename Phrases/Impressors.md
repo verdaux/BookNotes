@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-11T22:05:23+05:30
+modified: 2021-01-11T22:06:58+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] I don't wanna be crude. Well, I do wanna be crude. But not untill later on. I'll ease it in.
 - [ ] That is nothing more than a happy coincidence
 - [ ] I'm in all kinds of trouble
+- [ ] It's clearly a mixed ability group
