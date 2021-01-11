@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-07T09:10:17+05:30
+modified: 2021-01-11T22:02:06+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] There's a violent curse against each and every one who has done me wrong
 - [ ] The Queen of all earth and every city in heaven.
 - [ ] It's my duty to please that booty
+- [ ] I don't wanna be crude. Well, I do wanna be crude. But not untill later on. I'll ease it in.
