@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-11T23:41:04+05:30
+modified: 2021-01-12T22:02:16+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] If you're not laughing you're learning and that's great too
 - [ ] Walking, talking, stephen Hawking
 - [ ] I can smell that with my eyes
+- [ ] Cheese is now coursing through my veins. I'm on borrowed time.
