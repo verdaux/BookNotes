@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-12T22:02:16+05:30
+modified: 2021-01-12T22:05:06+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Walking, talking, stephen Hawking
 - [ ] I can smell that with my eyes
 - [ ] Cheese is now coursing through my veins. I'm on borrowed time.
+- [ ] I'm doing the " I have to shit myself box step"
