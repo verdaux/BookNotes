@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-12T22:06:32+05:30
+modified: 2021-01-12T22:09:57+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Cheese is now coursing through my veins. I'm on borrowed time.
 - [ ] I'm doing the " I have to shit myself box step"
 - [ ] But sooner or later I'm going to blame myself. But not today.
+- [ ] My skin learned at a very young age that it couldn't rely on me.
