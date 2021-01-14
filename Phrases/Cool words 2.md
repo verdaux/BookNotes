@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-01-14T20:18:16+05:30
+modified: 2021-01-14T21:34:29+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Yeah! I just said that. Deal with it.
 - [ ] Absolutely mortified
 - [ ] Brutal but brilliant
+- [ ] I apologise for the blunt delivery
