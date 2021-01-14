@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-12T22:09:57+05:30
+modified: 2021-01-14T21:36:44+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] I'm doing the " I have to shit myself box step"
 - [ ] But sooner or later I'm going to blame myself. But not today.
 - [ ] My skin learned at a very young age that it couldn't rely on me.
+- [ ] I finally know what I want. And that in itself is a miracle. I want you.
