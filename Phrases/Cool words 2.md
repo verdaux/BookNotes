@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-01-11T23:10:43+05:30
+modified: 2021-01-14T20:18:16+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] I think I'm starting to realise that
 - [ ] Yeah! I just said that. Deal with it.
 - [ ] Absolutely mortified
+- [ ] Brutal but brilliant
