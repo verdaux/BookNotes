@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-15T22:22:01+05:30
+modified: 2021-01-16T18:39:53+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] My skin learned at a very young age that it couldn't rely on me.
 - [ ] I finally know what I want. And that in itself is a miracle. I want you.
 - [ ] I don't necessarily agree with you but I appreciate it
+- [ ] All my options are still options
