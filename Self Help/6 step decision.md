@@ -1,7 +1,7 @@
 ---
 created: 2021-01-16T10:13:36+05:30
 type: Checklist
-modified: 2021-01-16T10:16:42+05:30
+modified: 2021-01-16T10:17:02+05:30
 ---
 
 # 6 step decision
@@ -11,3 +11,4 @@ modified: 2021-01-16T10:16:42+05:30
 - [ ] roughly gauge how likely each outcome is. Is it inevitable?
 - [ ] compare the probability of each outcome you like with those you dislike. 
 - [ ] repeat the first four steps for all other considerations.
+- [ ] compare the preferences, payoffs, and probabilities of each option before reaching your final decision. 
