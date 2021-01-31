@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-01-14T21:34:29+05:30
+modified: 2021-01-31T16:45:39+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Absolutely mortified
 - [ ] Brutal but brilliant
 - [ ] I apologise for the blunt delivery
+- [ ] Origin of one's Enigma
