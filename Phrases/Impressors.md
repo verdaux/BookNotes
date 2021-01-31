@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-01-31T16:49:57+05:30
+modified: 2021-01-31T17:03:29+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] All my options are still options
 - [ ] Allah ka karam hai, Biryani Garam hai
 - [ ] Stir me to my depths
+- [ ] These discussions between my brain and my heart which went on without my knowledge may have been terrible
