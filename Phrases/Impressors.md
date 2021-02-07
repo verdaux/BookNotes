@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-07T23:35:53+05:30
+modified: 2021-02-07T23:52:21+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] I don't know what that means but I'm in
 - [ ] There's a certain level of accountability with permanence
 - [ ] That's a moment of my life I'll never get back.
+- [ ] I've never seen a human being question himself so many times in a split second.
