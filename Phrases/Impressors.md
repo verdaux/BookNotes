@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-07T21:09:40+05:30
+modified: 2021-02-07T23:10:16+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Everything else must take second place
 - [ ] It's the most complete, most painful magic. You are here, as much as I and more intensely; wherever I am you're there as much as I am, and indeed more so.
 - [ ] I don't know what that means but I'm in
+- [ ] There's a certain level of accountability with permanence
