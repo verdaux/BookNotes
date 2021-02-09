@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-01-31T16:45:39+05:30
+modified: 2021-02-09T23:08:04+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Brutal but brilliant
 - [ ] I apologise for the blunt delivery
 - [ ] Origin of one's Enigma
+- [ ] Hard hitting
