@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-09T23:12:43+05:30
+modified: 2021-02-09T23:26:20+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Be better than me. It's up to you now. I've always wanted to say that at a funeral.
 - [ ] My favourite game is close your fucking eyes for 12 hours
 - [ ] Take your broken wings and fly away
+- [ ] They hired and fired you. They were wrong twice.
