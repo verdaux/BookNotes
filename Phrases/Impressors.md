@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-07T23:52:21+05:30
+modified: 2021-02-09T23:07:46+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] There's a certain level of accountability with permanence
 - [ ] That's a moment of my life I'll never get back.
 - [ ] I've never seen a human being question himself so many times in a split second.
+- [ ] Be better than me. It's up to you now. I've always wanted to say that at a funeral.
