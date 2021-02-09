@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-09T23:26:20+05:30
+modified: 2021-02-09T23:40:35+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] My favourite game is close your fucking eyes for 12 hours
 - [ ] Take your broken wings and fly away
 - [ ] They hired and fired you. They were wrong twice.
+- [ ] I won. By like a landslide
