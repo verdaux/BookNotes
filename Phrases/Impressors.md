@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-12T00:13:52+05:30
+modified: 2021-02-12T00:36:47+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] They hired and fired you. They were wrong twice.
 - [ ] I won. By like a landslide
 - [ ] I don't do drugs because it's too tedious. Everything becomes routine. You just stay there for 9 hours going aaaargh. Then you run out of aaarrgh. Then you buy more drugs. It's an endless cycle of repitition. I don't get it.
+- [ ] Comedy is a lot like sex if they haven't made a noise change what you're doing
