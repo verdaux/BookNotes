@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-09T23:40:35+05:30
+modified: 2021-02-12T00:11:52+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] Take your broken wings and fly away
 - [ ] They hired and fired you. They were wrong twice.
 - [ ] I won. By like a landslide
+- [ ] I don't do drugs because it's too tedious. Everything becomes routine. It's 9 hours of aaaargh. Then you run out of aaarrgh. Then you buy more drugs. It's an endless cycle.
