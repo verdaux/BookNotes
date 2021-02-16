@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2021-02-13T23:21:51+05:30
+modified: 2021-02-16T09:49:16+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] If I were kidding, I'd be dressed like you.
 - [ ] Who are you? Have I joined a cult?
 - [ ] Sorry, could we do this some other time when I'm not here?
+- [ ] I don't trust him, he has no nasal hair
