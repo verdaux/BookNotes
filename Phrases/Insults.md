@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2021-02-16T09:49:16+05:30
+modified: 2021-02-17T19:53:29+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Who are you? Have I joined a cult?
 - [ ] Sorry, could we do this some other time when I'm not here?
 - [ ] I don't trust him, he has no nasal hair
+- [ ] When I say different I mean wrong
