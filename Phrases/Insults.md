@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2021-02-17T22:06:03+05:30
+modified: 2021-02-17T22:06:39+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] I don't trust him, he has no nasal hair
 - [ ] When I say different I mean wrong
 - [ ] I think you should wash your beard. Shave it off. Nail it to a frisbee and then throw it off a rainbow.
+- [ ] He has that characteristic that makes people wanna kill themselves.
