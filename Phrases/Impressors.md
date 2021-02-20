@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-02-16T23:08:21+05:30
+modified: 2021-02-20T22:32:05+05:30
 type: Checklist
 ---
 
@@ -54,3 +54,4 @@ type: Checklist
 - [ ] Comedy is a lot like sex if they haven't made a noise change what you're doing
 - [ ] You have the right to remain sexy
 - [ ] I know songs that will melt your face.
+- [ ] Look at her. She's got goodness running out of her ear.
