@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-02-12T00:01:28+05:30
+modified: 2021-03-03T00:05:09+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Hard hitting
 - [ ] I don't want any part of that
 - [ ] Maximize my resources
+- [ ] A healthy injection of cynicism
