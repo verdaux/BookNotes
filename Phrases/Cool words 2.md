@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-03-04T20:29:21+05:30
+modified: 2021-03-04T21:04:01+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Maximize my resources
 - [ ] A healthy injection of cynicism
 - [ ] You keep an eye on her. I've got a universe to master.
+- [ ] It's the only way I know how to live
