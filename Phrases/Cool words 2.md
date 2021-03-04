@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-03-03T00:05:09+05:30
+modified: 2021-03-04T20:29:21+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] I don't want any part of that
 - [ ] Maximize my resources
 - [ ] A healthy injection of cynicism
+- [ ] You keep an eye on her. I've got a universe to master.
