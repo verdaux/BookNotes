@@ -1,7 +1,6 @@
 ---
 created: 2020-09-13T18:08:35+05:30
-modified: 2021-03-06T23:51:57+05:30
-type: Checklist
+modified: 2021-03-06T23:52:19+05:30
 ---
 
 # Psyche
