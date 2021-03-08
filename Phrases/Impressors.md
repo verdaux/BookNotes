@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-03-08T23:52:55+05:30
+modified: 2021-03-08T23:54:29+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] Look at her. She's got goodness running out of her ear.
 - [ ] She was lost in the fever of pain and pleasure.
 - [ ] I suffer from an extreme case of not being Ricky Gervais
+- [ ] Me: eats a snack while looking for a different snack
