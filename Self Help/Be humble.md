@@ -1,7 +1,6 @@
 ---
 created: 2021-03-18T20:29:41+05:30
-modified: 2021-03-31T19:27:49+05:30
-type: Checklist
+modified: 2021-03-31T19:28:17+05:30
 ---
 
 # Be humble
