@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-03-14T14:56:47+05:30
+modified: 2021-04-24T15:38:21+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] You keep an eye on her. I've got a universe to master.
 - [ ] It's the only way I know how to live
 - [ ] Hair blowing and freedom in their brains
+- [ ] Spectacularly fail
