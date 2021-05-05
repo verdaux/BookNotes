@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-04-24T15:38:21+05:30
+modified: 2021-05-05T23:12:14+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] It's the only way I know how to live
 - [ ] Hair blowing and freedom in their brains
 - [ ] Spectacularly fail
+- [ ] In possession of better information
