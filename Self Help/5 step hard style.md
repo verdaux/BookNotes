@@ -1,0 +1,9 @@
+---
+created: 2021-05-07T09:16:02+05:30
+modified: 2021-05-07T09:16:15+05:30
+type: Checklist
+---
+
+# 5 step hard style
+
+- [ ] Ask
