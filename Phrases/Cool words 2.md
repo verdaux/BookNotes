@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-05-05T23:12:14+05:30
+modified: 2021-05-11T10:02:09+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Hair blowing and freedom in their brains
 - [ ] Spectacularly fail
 - [ ] In possession of better information
+- [ ] I cleverly have no personal life
