@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-05-11T10:02:09+05:30
+modified: 2021-05-18T08:26:18+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Spectacularly fail
 - [ ] In possession of better information
 - [ ] I cleverly have no personal life
+- [ ] Porcelain complexion
