@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-05-08T15:15:44+05:30
+modified: 2021-06-27T12:25:56+05:30
 type: Checklist
 ---
 
@@ -61,3 +61,4 @@ type: Checklist
 - [ ] Filled with the kind of depth that you can't get anywhere else.
 - [ ] I've never in my life seen anything like it
 - [ ] Aapki soan papdi aapke ghar, humara laddoo humare ghar
+- [ ] Imagine there's a man in this world that's allowed to kiss her.
