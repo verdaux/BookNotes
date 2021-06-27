@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-05-29T23:48:10+05:30
+modified: 2021-06-27T12:24:56+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,5 @@ type: Checklist
 - [ ] I cleverly have no personal life
 - [ ] Porcelain complexion
 - [ ] I'm really glad you interrupted me for that
+- [ ] Fairly fabulous
+- [ ] Surreal but nice
