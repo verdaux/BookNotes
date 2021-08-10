@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-08-10T22:16:26+05:30
+modified: 2021-08-10T22:26:25+05:30
 type: Checklist
 ---
 
@@ -64,3 +64,4 @@ type: Checklist
 - [ ] Imagine there's a man in this world that's allowed to kiss her.
 - [ ] He's generally acknowledged to be the worst secret keeper in the world but yeah...
 - [ ] Aesthetic consumerism of vacation photography
+- [ ] Life, at last, was bearable
