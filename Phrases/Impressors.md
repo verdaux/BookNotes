@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-06-27T13:29:29+05:30
+modified: 2021-08-10T22:16:26+05:30
 type: Checklist
 ---
 
@@ -63,3 +63,4 @@ type: Checklist
 - [ ] Aapki soan papdi aapke ghar, humara laddoo humare ghar
 - [ ] Imagine there's a man in this world that's allowed to kiss her.
 - [ ] He's generally acknowledged to be the worst secret keeper in the world but yeah...
+- [ ] Aesthetic consumerism of vacation photography
