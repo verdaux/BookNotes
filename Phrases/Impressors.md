@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-08-10T22:26:25+05:30
+modified: 2021-08-14T22:06:26+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] He's generally acknowledged to be the worst secret keeper in the world but yeah...
 - [ ] Aesthetic consumerism of vacation photography
 - [ ] Life, at last, was bearable
+- [ ] Courage comes from the belly, all else is desperation.
