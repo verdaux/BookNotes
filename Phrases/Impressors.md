@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-08-14T22:06:26+05:30
+modified: 2021-08-17T20:39:20+05:30
 type: Checklist
 ---
 
@@ -66,3 +66,4 @@ type: Checklist
 - [ ] Aesthetic consumerism of vacation photography
 - [ ] Life, at last, was bearable
 - [ ] Courage comes from the belly, all else is desperation.
+- [ ] There was a terrible sadness about her
