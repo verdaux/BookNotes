@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-08-17T20:39:20+05:30
+modified: 2021-08-18T22:18:20+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,4 @@ type: Checklist
 - [ ] Life, at last, was bearable
 - [ ] Courage comes from the belly, all else is desperation.
 - [ ] There was a terrible sadness about her
+- [ ] There's something about funerals. They make you see things better.
