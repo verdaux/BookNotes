@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-08-18T22:18:20+05:30
+modified: 2021-08-25T19:55:26+05:30
 type: Checklist
 ---
 
@@ -68,3 +68,4 @@ type: Checklist
 - [ ] Courage comes from the belly, all else is desperation.
 - [ ] There was a terrible sadness about her
 - [ ] There's something about funerals. They make you see things better.
+- [ ] Although, each night had been long, the years had gone fast.
