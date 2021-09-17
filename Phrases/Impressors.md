@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-09-17T23:58:53+05:30
+modified: 2021-09-18T00:14:54+05:30
 type: Checklist
 ---
 
@@ -70,3 +70,4 @@ type: Checklist
 - [ ] There's something about funerals. They make you see things better.
 - [ ] Although, each night had been long, the years had gone fast.
 - [ ] The thing that makes you grip your own skull and scream to death.
+- [ ] He looked at me like i had insulted generations of his family.
