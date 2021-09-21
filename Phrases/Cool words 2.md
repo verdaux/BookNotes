@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-09-18T00:24:20+05:30
+modified: 2021-09-21T07:52:53+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] That's my kyrptonite
 - [ ] Earthly burdens
 - [ ] Overwhelming resemblance
+- [ ] Pilgrims of mortality
