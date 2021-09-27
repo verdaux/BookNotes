@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-09-21T07:52:53+05:30
+modified: 2021-09-27T23:52:46+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,4 @@ type: Checklist
 - [ ] Earthly burdens
 - [ ] Overwhelming resemblance
 - [ ] Pilgrims of mortality
+- [ ] Professional horrible advice giver
