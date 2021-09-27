@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-09-18T23:57:20+05:30
+modified: 2021-09-27T23:44:15+05:30
 type: Checklist
 ---
 
@@ -72,3 +72,4 @@ type: Checklist
 - [ ] The thing that makes you grip your own skull and scream to death.
 - [ ] He looked at me like i had insulted generations of his family.
 - [ ] God put an Angel on Earth just for me. Who could rescue me from the depths of hell.
+- [ ] The only thing lower than ne standards is my self esteem.
