@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-09-27T23:44:15+05:30
+modified: 2021-09-28T08:56:17+05:30
 type: Checklist
 ---
 
@@ -73,3 +73,4 @@ type: Checklist
 - [ ] He looked at me like i had insulted generations of his family.
 - [ ] God put an Angel on Earth just for me. Who could rescue me from the depths of hell.
 - [ ] The only thing lower than ne standards is my self esteem.
+- [ ] I suffer from poor choices syndrome
