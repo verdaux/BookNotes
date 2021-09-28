@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2020-10-12T20:27:59+05:30
+modified: 2021-09-28T09:31:19+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,6 @@ type: Checklist
 - [ ] Screaming contest
 - [ ] Dissolve into a fit of giggles
 - [ ] Feel the rhythm in your bones
+- [ ] Pizza thief
+- [ ] Unpopular song rememberer
+- [ ] Movie quotes inserter
