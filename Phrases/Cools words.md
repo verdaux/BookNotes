@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:52:32+05:30
-modified: 2021-09-28T09:31:19+05:30
+modified: 2021-09-28T19:57:31+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Pizza thief
 - [ ] Unpopular song rememberer
 - [ ] Movie quotes inserter
+- [ ] Chillin like a villain
