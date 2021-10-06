@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-06T19:23:25+05:30
+modified: 2021-10-06T19:30:48+05:30
 type: Checklist
 ---
 
@@ -79,3 +79,4 @@ type: Checklist
 - [ ] Compulsive submission to immediate sensation
 - [ ] Leisurely spiteful about capitalism
 - [ ] Majesty of her tragic mood swings
+- [ ] Drawn to people who are themselves getting battered by life.
