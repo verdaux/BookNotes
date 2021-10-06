@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-09-28T08:56:17+05:30
+modified: 2021-10-06T08:14:09+05:30
 type: Checklist
 ---
 
@@ -74,3 +74,4 @@ type: Checklist
 - [ ] God put an Angel on Earth just for me. Who could rescue me from the depths of hell.
 - [ ] The only thing lower than ne standards is my self esteem.
 - [ ] I suffer from poor choices syndrome
+- [ ] If you sit on a toilet at 11:59 and the clock strikes midnight, it's the same shit different day. 
