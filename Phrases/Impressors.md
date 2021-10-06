@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-06T19:18:53+05:30
+modified: 2021-10-06T19:19:32+05:30
 type: Checklist
 ---
 
@@ -77,3 +77,4 @@ type: Checklist
 - [ ] If you sit on a toilet at 11:59 and the clock strikes midnight, it's the same shit different day.
 - [ ] Get the stale air of boredom out of my lungs
 - [ ] Compulsive submission to immediate sensation
+- [ ] Leisurely spiteful about capitalism
