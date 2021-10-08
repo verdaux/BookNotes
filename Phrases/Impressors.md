@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-06T19:31:24+05:30
+modified: 2021-10-08T16:19:21+05:30
 type: Checklist
 ---
 
@@ -81,3 +81,4 @@ type: Checklist
 - [ ] Majesty of her tragic mood swings
 - [ ] Drawn to people who are themselves getting battered by life.
 - [ ] I used to envy myself, in the pit of my misery.
+- [ ] I wanna take that cheese and do terrible things to it.
