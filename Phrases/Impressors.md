@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-08T16:19:21+05:30
+modified: 2021-10-08T17:37:17+05:30
 type: Checklist
 ---
 
@@ -82,3 +82,4 @@ type: Checklist
 - [ ] Drawn to people who are themselves getting battered by life.
 - [ ] I used to envy myself, in the pit of my misery.
 - [ ] I wanna take that cheese and do terrible things to it.
+- [ ] Somebody is getting gently laid tonight.
