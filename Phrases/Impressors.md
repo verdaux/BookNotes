@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-14T23:03:28+05:30
+modified: 2021-10-16T18:22:08+05:30
 type: Checklist
 ---
 
@@ -84,3 +84,4 @@ type: Checklist
 - [ ] I wanna take that cheese and do terrible things to it.
 - [ ] Somebody is getting gently laid tonight.
 - [ ] Also known as your new best friend
+- [ ] Say something witty but devastating.
