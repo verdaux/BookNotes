@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-16T18:22:08+05:30
+modified: 2021-10-17T08:06:57+05:30
 type: Checklist
 ---
 
@@ -85,3 +85,4 @@ type: Checklist
 - [ ] Somebody is getting gently laid tonight.
 - [ ] Also known as your new best friend
 - [ ] Say something witty but devastating.
+- [ ] My will to live has come back
