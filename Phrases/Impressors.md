@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-24T20:49:42+05:30
+modified: 2021-10-24T21:12:18+05:30
 type: Checklist
 ---
 
@@ -87,3 +87,4 @@ type: Checklist
 - [ ] Say something witty but devastating.
 - [ ] My will to live has come back
 - [ ] I saw pure unadulterated panic in his face
+- [ ] I am a fear- based person, apparently
