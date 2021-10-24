@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-17T08:06:57+05:30
+modified: 2021-10-24T20:49:42+05:30
 type: Checklist
 ---
 
@@ -86,3 +86,4 @@ type: Checklist
 - [ ] Also known as your new best friend
 - [ ] Say something witty but devastating.
 - [ ] My will to live has come back
+- [ ] I saw pure unadulterated panic in his face
