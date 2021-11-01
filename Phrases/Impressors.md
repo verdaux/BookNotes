@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-10-24T21:12:18+05:30
+modified: 2021-11-01T22:01:10+05:30
 type: Checklist
 ---
 
@@ -88,3 +88,4 @@ type: Checklist
 - [ ] My will to live has come back
 - [ ] I saw pure unadulterated panic in his face
 - [ ] I am a fear- based person, apparently
+- [ ] I am honoured to be in this chair.
