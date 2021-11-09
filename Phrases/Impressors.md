@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-11-04T15:43:51+05:30
+modified: 2021-11-09T20:26:12+05:30
 type: Checklist
 ---
 
@@ -90,3 +90,4 @@ type: Checklist
 - [ ] I am a fear- based person, apparently
 - [ ] I am honoured to be in this chair.
 - [ ] It will make you believe in God
+- [ ] You were born to wear this.
