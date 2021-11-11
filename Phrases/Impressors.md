@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-11-09T20:26:12+05:30
+modified: 2021-11-11T21:02:26+05:30
 type: Checklist
 ---
 
@@ -91,3 +91,4 @@ type: Checklist
 - [ ] I am honoured to be in this chair.
 - [ ] It will make you believe in God
 - [ ] You were born to wear this.
+- [ ] I am only attracted to girls who are afraid of success and think some stole their billion dollar idea.
