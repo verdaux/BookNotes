@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-11-17T21:07:10+05:30
+modified: 2021-11-18T00:10:43+05:30
 type: Checklist
 ---
 
@@ -93,3 +93,4 @@ type: Checklist
 - [ ] You were born to wear this.
 - [ ] I am only attracted to girls who are afraid of success and think some stole their billion dollar idea.
 - [ ] So we are forced to be clever.
+- [ ] The odds are astronomical
