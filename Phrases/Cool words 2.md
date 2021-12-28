@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-09-27T23:52:46+05:30
+modified: 2021-12-28T12:13:37+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,5 @@ type: Checklist
 - [ ] Overwhelming resemblance
 - [ ] Pilgrims of mortality
 - [ ] Professional horrible advice giver
+- [ ] Annoyingly rude about vocab
+- [ ] Bathes regularly
