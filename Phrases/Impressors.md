@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-12-23T21:29:47+05:30
+modified: 2021-12-29T18:22:04+05:30
 type: Checklist
 ---
 
@@ -97,3 +97,4 @@ type: Checklist
 - [ ] That's my number 1 favorite food wrapped around my number 3 favorite food
 - [ ] Let's workshop that term
 - [ ] Destiny is a relentless bitch
+- [ ] We can only thank god for that
