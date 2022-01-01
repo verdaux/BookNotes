@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2021-12-28T12:13:37+05:30
+modified: 2022-01-02T01:15:32+05:30
 type: Checklist
 ---
 
@@ -55,3 +55,4 @@ type: Checklist
 - [ ] Professional horrible advice giver
 - [ ] Annoyingly rude about vocab
 - [ ] Bathes regularly
+- [ ] Internal monologues
