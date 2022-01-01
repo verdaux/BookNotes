@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-01-02T01:15:32+05:30
+modified: 2022-01-02T01:29:32+05:30
 type: Checklist
 ---
 
@@ -56,3 +56,4 @@ type: Checklist
 - [ ] Annoyingly rude about vocab
 - [ ] Bathes regularly
 - [ ] Internal monologues
+- [ ] Skin-covered landmine
