@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2021-12-29T18:22:04+05:30
+modified: 2022-01-02T01:22:13+05:30
 type: Checklist
 ---
 
@@ -98,3 +98,4 @@ type: Checklist
 - [ ] Let's workshop that term
 - [ ] Destiny is a relentless bitch
 - [ ] We can only thank god for that
+- [ ] The darkest crease on the anus of the universe called...
