@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-01-02T01:22:13+05:30
+modified: 2022-01-02T01:27:55+05:30
 type: Checklist
 ---
 
@@ -99,3 +99,4 @@ type: Checklist
 - [ ] Destiny is a relentless bitch
 - [ ] We can only thank god for that
 - [ ] The darkest crease on the anus of the universe called...
+- [ ] Well, that's the dangerous tight rope walk
