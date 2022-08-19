@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-08-14T18:21:56+05:30
+modified: 2022-08-19T07:30:46+05:30
 type: Checklist
 ---
 
@@ -103,3 +103,5 @@ type: Checklist
 - [ ] Describe your most fulfilling job/day
 - [ ] I do dangerous stuff like cross the street or eat out.
 - [ ] I love it when you do both sides of the conversation. It's like white noise. So peaceful.
+- [ ] If you find my body, don't believe the suicide note.
+- [ ] You
