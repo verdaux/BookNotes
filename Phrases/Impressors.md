@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-08-19T07:31:54+05:30
+modified: 2022-08-20T23:32:41+05:30
 type: Checklist
 ---
 
@@ -91,7 +91,7 @@ type: Checklist
 - [ ] I am honoured to be in this chair.
 - [ ] It will make you believe in God
 - [ ] You were born to wear this.
-- [ ] I am only attracted to girls who are afraid of success and think some stole their billion dollar idea.
+- [ ] I am only attracted to girls who are afraid of success and think someone stole their billion dollar idea.
 - [ ] So we are forced to be clever.
 - [ ] The odds are astronomical
 - [ ] That's my number 1 favorite food wrapped around my number 3 favorite food
@@ -105,3 +105,4 @@ type: Checklist
 - [ ] I love it when you do both sides of the conversation. It's like white noise. So peaceful.
 - [ ] If you find my body, don't believe the suicide note.
 - [ ] You devious clump of overpriced fabric and hair product.
+- [ ] Humanity is divided by 2 great beliefs: it will never happen to me, and everything always happens to me.
