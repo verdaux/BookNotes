@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-03-14T09:06:11+05:30
+modified: 2022-08-21T11:23:05+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] Internal monologues
 - [ ] Skin-covered landmine
 - [ ] Gets distracted by Pizza
+- [ ] Guilt-inducing powers
