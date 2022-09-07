@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-09-02T07:24:53+05:30
+modified: 2022-09-07T07:20:45+05:30
 type: Checklist
 ---
 
@@ -109,3 +109,4 @@ type: Checklist
 - [ ] I got self esteem falling off of my butt.
 - [ ] I hate to say that I told you so that's why I will shout it out with cupped hands (imitate a loud speaker)
 - [ ] Aren't you secretly touched that I cared enough to disobey your wishes.
+- [ ] Disappointing you is like choking a mermaid with bicycle chain.
