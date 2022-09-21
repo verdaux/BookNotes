@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-09-15T21:52:59+05:30
+modified: 2022-09-21T16:41:27+05:30
 type: Checklist
 ---
 
@@ -112,3 +112,4 @@ type: Checklist
 - [ ] Disappointing you is like choking a mermaid with bicycle chain.
 - [ ] If you want my throne, you better bring an amazing ass.
 - [ ] My ambition is handicapped by laziness.
+- [ ] What are you looking for? Same as you. Love, acceptance, solid RoI
