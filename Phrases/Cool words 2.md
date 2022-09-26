@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-09-18T13:49:32+05:30
+modified: 2022-09-26T16:42:39+05:30
 type: Checklist
 ---
 
@@ -62,3 +62,4 @@ type: Checklist
 - [ ] Creative miscarriage
 - [ ] Forest of bodies
 - [ ] Heart is hungry for promises
+- [ ] It's better to extinguish all hope.
