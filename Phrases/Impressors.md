@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-09-28T22:06:27+05:30
+modified: 2022-10-08T10:40:08+05:30
 type: Checklist
 ---
 
@@ -115,4 +115,4 @@ type: Checklist
 - [ ] What are you looking for? Same as you. Love, acceptance, solid RoI
 - [ ] Let's laugh at your very well deserved misfortune.
 - [ ] “Something is always born of excess: great art was born of great terrors, great loneliness, great inhibitions, instabilities, and it always balances them.”
- 
+- [ ] Sometimes you are the shelter from storm, sometimes you are the storm itself.
