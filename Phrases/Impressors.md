@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-08T10:50:23+05:30
+modified: 2022-10-08T21:05:22+05:30
 type: Checklist
 ---
 
@@ -117,3 +117,4 @@ type: Checklist
 - [ ] “Something is always born of excess: great art was born of great terrors, great loneliness, great inhibitions, instabilities, and it always balances them.”
 - [ ] Sometimes you are the shelter from storm, sometimes you are the storm itself.
 - [ ] Time stands still. The past and the present fade away.
+- [ ] The clue to everything a man should love and fear in her was there, from the start.
