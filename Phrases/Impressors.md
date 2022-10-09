@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-09T14:48:08+05:30
+modified: 2022-10-09T20:06:00+05:30
 type: Checklist
 ---
 
@@ -119,3 +119,4 @@ type: Checklist
 - [ ] Time stands still. The past and the present fade away.
 - [ ] The clue to everything a man should love and fear in her was there, from the start.
 - [ ] Having your heart broken is a tremendous way to learn about the world.
+- [ ] No matter where you run. You just end up running into yourself.
