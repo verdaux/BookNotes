@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-09-26T16:42:39+05:30
+modified: 2022-10-09T15:00:00+05:30
 type: Checklist
 ---
 
@@ -63,3 +63,4 @@ type: Checklist
 - [ ] Forest of bodies
 - [ ] Heart is hungry for promises
 - [ ] It's better to extinguish all hope.
+- [ ] Exciting as a whispered promise.
