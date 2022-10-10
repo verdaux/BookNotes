@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-09T20:06:00+05:30
+modified: 2022-10-10T09:33:27+05:30
 type: Checklist
 ---
 
@@ -120,3 +120,4 @@ type: Checklist
 - [ ] The clue to everything a man should love and fear in her was there, from the start.
 - [ ] Having your heart broken is a tremendous way to learn about the world.
 - [ ] No matter where you run. You just end up running into yourself.
+- [ ] You have my permission to blame *whoever*
