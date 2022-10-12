@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-10T09:33:27+05:30
+modified: 2022-10-12T19:13:10+05:30
 type: Checklist
 ---
 
@@ -121,3 +121,5 @@ type: Checklist
 - [ ] Having your heart broken is a tremendous way to learn about the world.
 - [ ] No matter where you run. You just end up running into yourself.
 - [ ] You have my permission to blame *whoever*
+- [ ] Is it my turn to say something obvious now? Oh I know... You are ...
+- [ ] We'd all slowly starve to death in our own filth. But we'll be happy.
