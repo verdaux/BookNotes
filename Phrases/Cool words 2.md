@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-10-09T15:00:00+05:30
+modified: 2022-10-14T17:53:54+05:30
 type: Checklist
 ---
 
@@ -64,3 +64,4 @@ type: Checklist
 - [ ] Heart is hungry for promises
 - [ ] It's better to extinguish all hope.
 - [ ] Exciting as a whispered promise.
+- [ ] Those shoes look like you're wearing a pair of dreams.
