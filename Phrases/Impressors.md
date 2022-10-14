@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-12T19:13:10+05:30
+modified: 2022-10-14T18:03:42+05:30
 type: Checklist
 ---
 
@@ -123,3 +123,4 @@ type: Checklist
 - [ ] You have my permission to blame *whoever*
 - [ ] Is it my turn to say something obvious now? Oh I know... You are ...
 - [ ] We'd all slowly starve to death in our own filth. But we'll be happy.
+- [ ] My guilt is doing somersaults.
