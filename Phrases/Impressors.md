@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-14T18:04:03+05:30
+modified: 2022-10-20T13:43:03+05:30
 type: Checklist
 ---
 
@@ -125,3 +125,4 @@ type: Checklist
 - [ ] We'd all slowly starve to death in our own filth. But we'll be happy.
 - [ ] My guilt is doing somersaults.
 - [ ] Purity with exclusion is not purity.
+- [ ] You taste like heaven but God knows you're built for sin.
