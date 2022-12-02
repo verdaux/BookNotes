@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-10-20T13:43:03+05:30
+modified: 2022-12-02T20:03:19+05:30
 type: Checklist
 ---
 
@@ -126,3 +126,4 @@ type: Checklist
 - [ ] My guilt is doing somersaults.
 - [ ] Purity with exclusion is not purity.
 - [ ] You taste like heaven but God knows you're built for sin.
+- [ ] It's better say "I can't believe I did that" than "What if ...?"
