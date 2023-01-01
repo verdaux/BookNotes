@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2022-10-14T17:53:54+05:30
+modified: 2023-01-01T10:19:08+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,5 @@ type: Checklist
 - [ ] It's better to extinguish all hope.
 - [ ] Exciting as a whispered promise.
 - [ ] Those shoes look like you're wearing a pair of dreams.
+- [ ] Tapestry of my psyche
+- [ ] Accidents of history
