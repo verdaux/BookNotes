@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-01-01T10:19:08+05:30
+modified: 2023-01-18T19:46:37+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,4 @@ type: Checklist
 - [ ] Those shoes look like you're wearing a pair of dreams.
 - [ ] Tapestry of my psyche
 - [ ] Accidents of history
+- [ ] Frequently useful and occasionally indispensable
