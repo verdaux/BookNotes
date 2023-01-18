@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2022-12-21T18:44:19+05:30
+modified: 2023-01-19T00:11:17+05:30
 type: Checklist
 ---
 
@@ -129,3 +129,4 @@ type: Checklist
 - [ ] It's better say "I can't believe I did that" than "What if ...?"
 - [ ] Not from this generation, just living in it.
 - [ ] Hey! Wanna hang out later and distract each other from how horrifying everything is?
+- [ ] Build a relationship so strong that it can bear the weight of truth.
