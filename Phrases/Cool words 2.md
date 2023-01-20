@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-01-18T21:33:14+05:30
+modified: 2023-01-20T16:35:38+05:30
 type: Checklist
 ---
 
@@ -69,3 +69,4 @@ type: Checklist
 - [ ] Accidents of history
 - [ ] Frequently useful and occasionally indispensable
 - [ ] Heavy in thoughts.
+- [ ] Expensive trouble 
