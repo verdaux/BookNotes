@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2023-01-21T21:01:15+05:30
+modified: 2023-01-29T04:19:20+05:30
 type: Checklist
 ---
 
@@ -132,3 +132,4 @@ type: Checklist
 - [ ] Build a relationship so strong that it can bear the weight of truth.
 - [ ] I have an anti talent for queues.
 - [ ] Civilization, after all, is defined by what we forbid, more than what we permit.
+- [ ] The burden of truth is on them.
