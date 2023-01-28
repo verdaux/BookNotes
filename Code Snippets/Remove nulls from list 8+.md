@@ -1,7 +1,6 @@
 ---
 created: 2020-08-31T22:08:24+05:30
-modified: 2022-09-06T23:50:25+05:30
-type: Checklist
+modified: 2023-01-29T04:20:43+05:30
 ---
 
 # Remove nulls from list 8+
