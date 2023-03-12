@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2023-02-08T09:37:05+05:30
+modified: 2023-03-12T10:03:46+05:30
 type: Checklist
 ---
 
@@ -134,3 +134,4 @@ type: Checklist
 - [ ] Civilization, after all, is defined by what we forbid, more than what we permit.
 - [ ] The burden of truth is on them.
 - [ ] Whatever he said in a better grammar.
+- [ ] I like things that look like mistakes.
