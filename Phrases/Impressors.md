@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2023-03-12T10:03:46+05:30
+modified: 2023-03-23T12:21:48+05:30
 type: Checklist
 ---
 
@@ -135,3 +135,4 @@ type: Checklist
 - [ ] The burden of truth is on them.
 - [ ] Whatever he said in a better grammar.
 - [ ] I like things that look like mistakes.
+- [ ] Words are doing a keg stand in my heart.
