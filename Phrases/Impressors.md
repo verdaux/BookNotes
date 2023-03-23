@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2023-03-23T12:21:48+05:30
+modified: 2023-03-23T12:58:41+05:30
 type: Checklist
 ---
 
@@ -136,3 +136,4 @@ type: Checklist
 - [ ] Whatever he said in a better grammar.
 - [ ] I like things that look like mistakes.
 - [ ] Words are doing a keg stand in my heart.
+- [ ] I don't argue with the body. That's an argument you can't win.
