@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:56:25+05:30
-modified: 2023-03-23T12:58:41+05:30
+modified: 2023-03-24T11:45:23+05:30
 type: Checklist
 ---
 
@@ -137,3 +137,4 @@ type: Checklist
 - [ ] I like things that look like mistakes.
 - [ ] Words are doing a keg stand in my heart.
 - [ ] I don't argue with the body. That's an argument you can't win.
+- [ ] An order of truth that separates the profound from the merely clever.
