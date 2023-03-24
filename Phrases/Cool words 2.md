@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-03-24T10:46:13+05:30
+modified: 2023-03-24T11:46:19+05:30
 type: Checklist
 ---
 
@@ -73,3 +73,7 @@ type: Checklist
 - [ ] Clean as paper before the poem.
 - [ ] No lies detected, none at all.
 - [ ] Gratefully imperfect on a perfect day.
+- [ ] Perfumed bodies
+- [ ] Undiluted loathing
+- [ ] Wheeding cajolery
+- [ ] Amiable severity
