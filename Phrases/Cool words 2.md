@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-03-23T12:51:30+05:30
+modified: 2023-03-24T10:46:13+05:30
 type: Checklist
 ---
 
@@ -72,3 +72,4 @@ type: Checklist
 - [ ] Expensive trouble
 - [ ] Clean as paper before the poem.
 - [ ] No lies detected, none at all.
+- [ ] Gratefully imperfect on a perfect day.
