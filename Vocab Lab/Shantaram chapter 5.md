@@ -1,9 +1,4 @@
 ---
-created: 2023-03-29T21:18:14+05:30
-modified: 2023-03-29T21:19:04+05:30
 type: Checklist
 ---
 
-# Shantaram chapter 5
-
-- [ ] Cherubs - winged child angel
