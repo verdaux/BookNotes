@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-04-01T22:08:30+05:30
+modified: 2023-04-05T10:23:18+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Sometimes, you have to surrender before you win.
 - [ ] The mortifying ordeal of being explicated.
 - [ ] Mansplaining is just correctile dysfunction.
+- [ ] I spoke her name when I was alone.
