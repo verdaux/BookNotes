@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-04-05T10:23:18+05:30
+modified: 2023-04-06T19:19:49+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] The mortifying ordeal of being explicated.
 - [ ] Mansplaining is just correctile dysfunction.
 - [ ] I spoke her name when I was alone.
+- [ ] Some days I'm van Gogh's starry night, some days his suicide letter.
