@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-04-08T20:19:05+05:30
+modified: 2023-04-11T12:14:54+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] I spoke her name when I was alone.
 - [ ] Some days I'm van Gogh's starry night, some days his suicide letter.
 - [ ] They look like monuments to something that died. Something very unpopular... Like the human spirit, for example.
+- [ ] I did meet some of the most insufferable people but they also met me.
