@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-04-18T10:24:27+05:30
+modified: 2023-04-21T19:31:44+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] I taste her and I realise I have been starving.
 - [ ] It's a brutal world out there.
 - [ ] Excuse me, what's your availability for being hit on right now?
+- [ ] Life's like a box of chocolates.
