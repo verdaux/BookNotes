@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-04-21T19:31:44+05:30
+modified: 2023-05-02T09:17:29+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,5 @@ type: Checklist
 - [ ] It's a brutal world out there.
 - [ ] Excuse me, what's your availability for being hit on right now?
 - [ ] Life's like a box of chocolates.
+- [ ] Life happens.
+- [ ] Please hesitate to reach out to me.
