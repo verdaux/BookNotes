@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-02T09:17:29+05:30
+modified: 2023-05-02T09:23:50+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Life's like a box of chocolates.
 - [ ] Life happens.
 - [ ] Please hesitate to reach out to me.
+- [ ] I have pasts inside me, I didn't probably bury. Some nights I tear myself apart yet I heal in the morning.
