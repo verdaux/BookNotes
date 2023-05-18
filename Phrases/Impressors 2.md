@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-19T00:09:08+05:30
+modified: 2023-05-19T00:12:29+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] The lies we tell ourselves are the ghosts that haunt the empty house of midnight.
 - [ ] Her eyes talking to me in a language I could feel but couldn't quite understand.
 - [ ] Not easier but far more pleasant.
+- [ ] Morbid belief in love, and a fascination for the madness that love puts in its victims.
