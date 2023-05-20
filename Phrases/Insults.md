@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-05-18T22:07:40+05:30
+modified: 2023-05-20T19:41:45+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] There he is. Half iago. Half fu man chu. All bastard.
 - [ ] It's my house, though. And I'm not allowing specimens to infest my house capable of producing you.
 - [ ] Aryabhatt invented zero (the number associated with your personality)
+- [ ] Hey! Quick question. Are you fucking kidding me?
