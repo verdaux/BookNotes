@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-20T14:49:51+05:30
+modified: 2023-05-20T18:59:41+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] Not easier but far more pleasant.
 - [ ] Morbid belief in love, and a fascination for the madness that love puts in its victims.
 - [ ] I have a plan. it involves a plane ride at sunset and dinner for two.
+- [ ] You're so pretty for an anxiety ridden freak.
