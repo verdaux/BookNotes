@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-28T08:37:25+05:30
+modified: 2023-05-29T23:26:28+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] You're so pretty for an anxiety ridden freak.
 - [ ] I'm thrilled to announce I'm better than you. - LinkedIn.
 - [ ] Roses are red. So is salsa. Bring me tacos.
+- [ ] You can never tell what people have inside them until you start taking it away. One hope at a time.
