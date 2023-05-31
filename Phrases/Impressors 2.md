@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-31T15:46:01+05:30
+modified: 2023-05-31T15:47:26+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] Gives music sermons
 - [ ] Suggest soul melting songs
 - [ ] Poetry misinterpreter.
+- [ ] Aware of runner's high.
