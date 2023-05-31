@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-30T08:11:04+05:30
+modified: 2023-05-31T15:46:01+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,9 @@ type: Checklist
 - [ ] Roses are red. So is salsa. Bring me tacos.
 - [ ] You can never tell what people have inside them until you start taking it away. One hope at a time.
 - [ ] Audio cassette man in a Spotify world.
+- [ ] Erudite memer
+- [ ] Sushi theif/recovering Sushi addict
+- [ ] Movie quotes inserter
+- [ ] Gives music sermons
+- [ ] Suggest soul melting songs
+- [ ] Poetry misinterpreter.
