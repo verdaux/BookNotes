@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-02T19:14:57+05:30
+modified: 2023-06-02T19:15:37+05:30
 type: Checklist
 ---
 
@@ -13,7 +13,7 @@ type: Checklist
 - [ ] Despicable toad of a man.
 - [ ] Optimism is the first cousin of love.
 - [ ] We have to earn our future.
-- [ ] You have to awake to sad.
+- [ ] You have to be awake to be  sad.
 - [ ] Sometimes, you have to surrender before you win.
 - [ ] The mortifying ordeal of being explicated.
 - [ ] Mansplaining is just correctile dysfunction.
