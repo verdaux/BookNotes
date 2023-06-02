@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-02T12:58:29+05:30
+modified: 2023-06-02T19:14:57+05:30
 type: Checklist
 ---
 
@@ -61,3 +61,4 @@ type: Checklist
 - [ ] When you see a swordsman, draw your sword. Do not recite poetry to those who don't know poetry.
 - [ ] Her blue eyes glittered with courage and other mysteries.
 - [ ] Can mispronounce croissants and Worcestershire.
+- [ ] Dinner, 20th century style.
