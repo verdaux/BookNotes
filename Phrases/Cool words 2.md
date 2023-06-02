@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-06-02T12:14:22+05:30
+modified: 2023-06-02T12:14:40+05:30
 type: Checklist
 ---
 
@@ -78,4 +78,3 @@ type: Checklist
 - [ ] Wheeding cajolery
 - [ ] Amiable severity
 - [ ] Scholarly text.
-- [ ] Her blue eyes glittered with courage and other mysteries.
