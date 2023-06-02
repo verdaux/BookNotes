@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-05-31T15:49:15+05:30
+modified: 2023-06-02T07:57:24+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] Suggest soul melting songs
 - [ ] Gifted Poetry misinterpreter.
 - [ ] Aware of runner's high.
+- [ ] When you see a swordsman, draw your sword. Do not recite poetry to those who don't know poetry.
