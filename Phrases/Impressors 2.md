@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-02T19:15:37+05:30
+modified: 2023-06-02T19:23:25+05:30
 type: Checklist
 ---
 
@@ -62,3 +62,4 @@ type: Checklist
 - [ ] Her blue eyes glittered with courage and other mysteries.
 - [ ] Can mispronounce croissants and Worcestershire.
 - [ ] Dinner, 20th century style.
+- [ ] Undisputed gossip champion.
