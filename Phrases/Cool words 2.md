@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-03-24T11:46:19+05:30
+modified: 2023-06-02T07:57:56+05:30
 type: Checklist
 ---
 
@@ -77,3 +77,4 @@ type: Checklist
 - [ ] Undiluted loathing
 - [ ] Wheeding cajolery
 - [ ] Amiable severity
+- [ ] Scholarly text.
