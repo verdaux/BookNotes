@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-03T20:59:02+05:30
+modified: 2023-06-08T16:55:19+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] Undisputed gossip champion.
 - [ ] Personification of film moods.
 - [ ] Matchstick of my desire.
+- [ ] Endorphins seeker.
