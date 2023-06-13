@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-08T16:55:19+05:30
+modified: 2023-06-13T20:40:05+05:30
 type: Checklist
 ---
 
@@ -66,3 +66,6 @@ type: Checklist
 - [ ] Personification of film moods.
 - [ ] Matchstick of my desire.
 - [ ] Endorphins seeker.
+- [ ] Inquiring minds wish to know...
+- [ ] Drunk with pleasure on violence 
+- [ ] Sacrificial at chess.
