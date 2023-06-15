@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-13T20:40:05+05:30
+modified: 2023-06-15T14:32:52+05:30
 type: Checklist
 ---
 
@@ -69,3 +69,4 @@ type: Checklist
 - [ ] Inquiring minds wish to know...
 - [ ] Drunk with pleasure on violence 
 - [ ] Sacrificial at chess.
+- [ ] Fiddling while Rome burns.
