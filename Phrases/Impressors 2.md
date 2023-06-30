@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-15T14:32:52+05:30
+modified: 2023-06-30T09:29:35+05:30
 type: Checklist
 ---
 
@@ -70,3 +70,4 @@ type: Checklist
 - [ ] Drunk with pleasure on violence 
 - [ ] Sacrificial at chess.
 - [ ] Fiddling while Rome burns.
+- [ ] The more you try to be someone else, the more you find yourself standing in the way.
