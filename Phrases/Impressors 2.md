@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-06-30T09:45:05+05:30
+modified: 2023-07-03T14:04:29+05:30
 type: Checklist
 ---
 
@@ -73,3 +73,4 @@ type: Checklist
 - [ ] The more you try to be someone else, the more you find yourself standing in the way.
 - [ ] A smile, as big as a gambler's promise.
 - [ ] The sky in her eyes held tiny storms.
+- [ ] Fate always gives you 2 choices: the one you should take, and the one you do.
