@@ -22,3 +22,6 @@ type: Checklist
 - [ ] Mirth= amusement 
 - [ ] Bemuse= confuse
 - [ ] Corroborate = confirm
+- [ ] excursions = a short journey or trip (usually leisurely), digression
+- [ ] foliage = bundlle of leaves, plant leaves, collectviely
+- [ ] 
