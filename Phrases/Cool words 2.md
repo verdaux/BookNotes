@@ -78,3 +78,5 @@ type: Checklist
 - [ ] Wheeding cajolery
 - [ ] Amiable severity
 - [ ] Scholarly text.
+- [ ] Nature's infinite mystery 
+- [ ] Who are you when in the dark?
