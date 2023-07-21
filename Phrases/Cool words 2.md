@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-06-02T12:14:40+05:30
+modified: 2023-07-22T00:50:49+05:30
 type: Checklist
 ---
 
@@ -80,3 +80,4 @@ type: Checklist
 - [ ] Scholarly text.
 - [ ] Nature's infinite mystery 
 - [ ] Who are you when in the dark?
+- [ ] Unconcealed indignation
