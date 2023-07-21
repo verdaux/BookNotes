@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-07-20T10:43:18+05:30
+modified: 2023-07-21T09:06:16+05:30
 type: Checklist
 ---
 
@@ -78,3 +78,4 @@ type: Checklist
 - [ ] Luck is what happens to you when fate gets tired of waiting.
 - [ ] Some women are full of heartache and poetry. And those are the kind who try to save the wolves instead of running away from them.
 - [ ] Wonder who you are on a Sunday morning
+- [ ] It's not easy to sign a death warrant for one's own creation.
