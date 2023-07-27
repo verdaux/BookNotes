@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-07-22T00:50:49+05:30
+modified: 2023-07-27T11:16:32+05:30
 type: Checklist
 ---
 
@@ -81,3 +81,4 @@ type: Checklist
 - [ ] Nature's infinite mystery 
 - [ ] Who are you when in the dark?
 - [ ] Unconcealed indignation
+- [ ] Stunning absence
