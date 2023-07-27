@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-07-21T09:06:16+05:30
+modified: 2023-07-27T11:16:12+05:30
 type: Checklist
 ---
 
@@ -79,3 +79,4 @@ type: Checklist
 - [ ] Some women are full of heartache and poetry. And those are the kind who try to save the wolves instead of running away from them.
 - [ ] Wonder who you are on a Sunday morning
 - [ ] It's not easy to sign a death warrant for one's own creation.
+- [ ] I'm slightly amused by your astonishing capacity to talk nonsense.
