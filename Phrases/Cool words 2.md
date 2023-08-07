@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-07-27T11:16:32+05:30
+modified: 2023-08-07T18:12:19+05:30
 type: Checklist
 ---
 
@@ -82,3 +82,4 @@ type: Checklist
 - [ ] Who are you when in the dark?
 - [ ] Unconcealed indignation
 - [ ] Stunning absence
+- [ ] Scylla and Charybdis - 2 dangers of extreme.
