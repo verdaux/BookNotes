@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-07-27T11:16:12+05:30
+modified: 2023-08-09T18:39:09+05:30
 type: Checklist
 ---
 
@@ -80,3 +80,4 @@ type: Checklist
 - [ ] Wonder who you are on a Sunday morning
 - [ ] It's not easy to sign a death warrant for one's own creation.
 - [ ] I'm slightly amused by your astonishing capacity to talk nonsense.
+- [ ] Then the trickle becomes the river. And then the river becomes the flood.
