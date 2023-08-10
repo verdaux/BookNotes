@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-08-09T19:03:12+05:30
+modified: 2023-08-10T09:14:53+05:30
 type: Checklist
 ---
 
@@ -84,3 +84,4 @@ type: Checklist
 - [ ] Stunning absence
 - [ ] Scylla and Charybdis - 2 dangers of extreme.
 - [ ] Pathologically mischievous.
+- [ ] Supremely skilled
