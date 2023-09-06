@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-08-09T18:42:35+05:30
+modified: 2023-09-06T10:19:59+05:30
 type: Checklist
 ---
 
@@ -82,3 +82,4 @@ type: Checklist
 - [ ] I'm slightly amused by your astonishing capacity to talk nonsense.
 - [ ] Then the trickle becomes the river. And then the river becomes the flood.
 - [ ] And you know that you're everything and nothing.
+- [ ] That is an Often overlooked category of an [] endeavour
