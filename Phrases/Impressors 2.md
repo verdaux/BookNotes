@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-06T10:19:59+05:30
+modified: 2023-09-11T12:32:11+05:30
 type: Checklist
 ---
 
@@ -83,3 +83,4 @@ type: Checklist
 - [ ] Then the trickle becomes the river. And then the river becomes the flood.
 - [ ] And you know that you're everything and nothing.
 - [ ] That is an Often overlooked category of an [] endeavour
+- [ ] See all these buildings? These buildings were once a drawing on a paper, and before that they were an idea in someone's head. Any idea you have, you can make manifest.
