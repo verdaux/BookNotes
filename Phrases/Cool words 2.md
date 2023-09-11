@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-08-10T09:14:53+05:30
+modified: 2023-09-11T12:32:30+05:30
 type: Checklist
 ---
 
@@ -85,3 +85,4 @@ type: Checklist
 - [ ] Scylla and Charybdis - 2 dangers of extreme.
 - [ ] Pathologically mischievous.
 - [ ] Supremely skilled
+- [ ] Counter cultural chitchat.
