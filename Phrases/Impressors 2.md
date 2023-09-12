@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-11T21:55:05+05:30
+modified: 2023-09-12T16:52:08+05:30
 type: Checklist
 ---
 
@@ -86,3 +86,4 @@ type: Checklist
 - [ ] See all these buildings? These buildings were once a drawing on a paper, and before that they were an idea in someone's head. Any idea you have, you can make manifest.
 - [ ] It's 2023, you should really hone your racism skills.
 - [ ] Favorite quote - Hi, Rupa! Nahaa liya?
+- [ ] Cause the battle outside ragin'. Will soon shake your windows and rattle your walls. For the times, they are a chagin'.
