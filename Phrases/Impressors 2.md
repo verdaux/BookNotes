@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-13T16:14:39+05:30
+modified: 2023-09-13T23:48:51+05:30
 type: Checklist
 ---
 
@@ -91,3 +91,4 @@ type: Checklist
 - [ ] You think this is a coincidence? I'll bet a kidney that it isn't.
 - [ ] (when someone's phone rings a lot) you are very popular this morning.
 - [ ] Being an adult is 80% misery.
+- [ ] Beep. What's that? Oh wait! That's the sound of my self esteem flatlining.
