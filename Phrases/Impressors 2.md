@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-12T16:52:08+05:30
+modified: 2023-09-13T09:42:32+05:30
 type: Checklist
 ---
 
@@ -87,3 +87,4 @@ type: Checklist
 - [ ] It's 2023, you should really hone your racism skills.
 - [ ] Favorite quote - Hi, Rupa! Nahaa liya?
 - [ ] Cause the battle outside ragin'. Will soon shake your windows and rattle your walls. For the times, they are a chagin'.
+- [ ] The hairs on the back of my neck prickled at the sight.
