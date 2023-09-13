@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-09-11T12:57:38+05:30
+modified: 2023-09-13T09:42:48+05:30
 type: Checklist
 ---
 
@@ -87,3 +87,4 @@ type: Checklist
 - [ ] Supremely skilled
 - [ ] Counter cultural chitchat.
 - [ ] Tireless campaign.
+- [ ] Ring of prophecy.
