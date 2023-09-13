@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-13T16:09:53+05:30
+modified: 2023-09-13T16:14:00+05:30
 type: Checklist
 ---
 
@@ -89,3 +89,4 @@ type: Checklist
 - [ ] Cause the battle outside ragin'. Will soon shake your windows and rattle your walls. For the times, they are a chagin'.
 - [ ] The hairs on the back of my neck prickled at the sight.
 - [ ] You think this is a coincidence? I'll bet a kidney that it isn't.
+- [ ] (when someone's phone rings a lot) you are very popular this morning.
