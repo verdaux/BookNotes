@@ -1,6 +1,6 @@
 ---
 created: 2023-03-28T12:12:51+05:30
-modified: 2023-09-13T23:48:51+05:30
+modified: 2023-09-15T12:47:36+05:30
 type: Checklist
 ---
 
@@ -92,3 +92,4 @@ type: Checklist
 - [ ] (when someone's phone rings a lot) you are very popular this morning.
 - [ ] Being an adult is 80% misery.
 - [ ] Beep. What's that? Oh wait! That's the sound of my self esteem flatlining.
+- [ ] Your mind and body split in two, head in opposite directions, and agree to meet up the next day.
