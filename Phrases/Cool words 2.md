@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-09-13T16:11:40+05:30
+modified: 2023-09-26T11:58:03+05:30
 type: Checklist
 ---
 
@@ -91,3 +91,5 @@ type: Checklist
 - [ ] Bizzare anomaly.
 - [ ] The main piece of evidence is...
 - [ ] Mediocrity's capital.
+- [ ] Spoiler alert
+- [ ] Full disclosure.
