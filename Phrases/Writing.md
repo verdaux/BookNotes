@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T16:49:21+05:30
-modified: 2023-10-05T17:00:49+05:30
+modified: 2023-10-05T17:05:15+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,9 @@ type: Checklist
 - [ ] 6. How? Ulysses -> most crucial
 - [ ] Write a letter to yourself as if you're talking to a friend.
 - [ ] Flesh out a story structure -> skeleton -> plot -> find out if you need to know before hand.
+- [ ] Allow your story to unfold.
+- [ ] Refer -> French new wave -> Italian new wave -> Visconti , Truffaut, Goddard no 3 act structure.
+- [ ] Book can be a single moment.
+- [ ] Sometimes, you don't start at the beginning. Flashback is very common. It can be fluid.
+- [ ] It can't be random. One thing after another is incomprehensible.
+- [ ] Who is doing what to whom?
