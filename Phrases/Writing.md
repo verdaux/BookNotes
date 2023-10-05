@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T16:49:21+05:30
-modified: 2023-10-05T17:12:23+05:30
+modified: 2023-10-05T17:16:11+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] For example, in a multi generational novel- Thomas Mann's Buddenbrooks. Book should have a strong cohesion. Characters are integrated and interlocked.
 - [ ] Mirroring - reader sees and connects. Shouldn't be artificial. Should not be same.
 - [ ] Embrace false starts -> trial and error. Many attempts at finding the door that leads you to a story.
+- [ ] Talk to and investigate, interrogate yourself. End product is different.
