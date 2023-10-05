@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T16:49:21+05:30
-modified: 2023-10-05T17:05:15+05:30
+modified: 2023-10-05T17:12:23+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,7 @@ type: Checklist
 - [ ] Sometimes, you don't start at the beginning. Flashback is very common. It can be fluid.
 - [ ] It can't be random. One thing after another is incomprehensible.
 - [ ] Who is doing what to whom?
+- [ ] How the Characters' destinies are connected to each other? Different depending on the scale of the character.
+- [ ] For example, in a multi generational novel- Thomas Mann's Buddenbrooks. Book should have a strong cohesion. Characters are integrated and interlocked.
+- [ ] Mirroring - reader sees and connects. Shouldn't be artificial. Should not be same.
+- [ ] Embrace false starts -> trial and error. Many attempts at finding the door that leads you to a story.
