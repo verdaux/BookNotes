@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-13T10:20:37+05:30
+modified: 2023-10-13T10:21:58+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] You can open your fist because you can't punch the wind.
 - [ ] Violence is the last refuge of the incompetent.
 - [ ] Sometimes, emotions shout louder than logic.
+- [ ] Past behaviour is the best predictor for future performance.
