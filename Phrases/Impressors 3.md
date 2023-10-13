@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-13T10:21:58+05:30
+modified: 2023-10-13T10:51:15+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Violence is the last refuge of the incompetent.
 - [ ] Sometimes, emotions shout louder than logic.
 - [ ] Past behaviour is the best predictor for future performance.
+- [ ] When all the facts fall short of believability, fantasy feels reassuringly solid.
