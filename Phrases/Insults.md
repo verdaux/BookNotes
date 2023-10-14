@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-05-20T19:41:45+05:30
+modified: 2023-10-14T07:33:04+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,6 @@ type: Checklist
 - [ ] It's my house, though. And I'm not allowing specimens to infest my house capable of producing you.
 - [ ] Aryabhatt invented zero (the number associated with your personality)
 - [ ] Hey! Quick question. Are you fucking kidding me?
+- [ ] I hope you lose weight so there's less of you.
+- [ ] I neither have the time or crayons to explain this to you.
+- [ ] I envy everyone who has never met you.
