@@ -1,6 +1,6 @@
 ---
 created: 2020-10-12T21:28:07+05:30
-modified: 2023-09-26T13:25:58+05:30
+modified: 2023-10-14T22:59:30+05:30
 type: Checklist
 ---
 
@@ -94,3 +94,5 @@ type: Checklist
 - [ ] Spoiler alert
 - [ ] Full disclosure.
 - [ ] Put a damper on...
+- [ ] Misdiagnosed alcoholic
+- [ ] Visceral element
