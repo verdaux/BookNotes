@@ -1,7 +1,6 @@
 ---
 created: 2020-12-27T22:26:29+05:30
-modified: 2021-08-29T19:44:59+05:30
-type: Checklist
+modified: 2023-10-15T18:04:17+05:30
 ---
 
 # 5 things to never do
