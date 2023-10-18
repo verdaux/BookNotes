@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-19T04:19:46+05:30
+modified: 2023-10-19T04:34:48+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,5 @@ type: Checklist
 - [ ] I'm so embarrassed, I wish everybody else was dead.
 - [ ] The spirit is willing but the flesh is spongy and bruised.
 - [ ] You raised my hopes and dashed them quite perfectly sir.
+- [ ] Don't talk about me like I'm not here.
+- [ ] I'm not depressed. I've just been in a bad mood for the past 30 years.
