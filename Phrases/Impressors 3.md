@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-17T21:25:50+05:30
+modified: 2023-10-19T04:19:46+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,6 @@ type: Checklist
 - [ ] Past behaviour is the best predictor for future performance.
 - [ ] When all the facts fall short of believability, fantasy feels reassuringly solid.
 - [ ] Whom the gods wish to destroy they first make mad.
+- [ ] I'm so embarrassed, I wish everybody else was dead.
+- [ ] The spirit is willing but the flesh is spongy and bruised.
+- [ ] You raised my hopes and dashed them quite perfectly sir.
