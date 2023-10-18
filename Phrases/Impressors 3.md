@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-19T04:34:48+05:30
+modified: 2023-10-19T04:37:02+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] You raised my hopes and dashed them quite perfectly sir.
 - [ ] Don't talk about me like I'm not here.
 - [ ] I'm not depressed. I've just been in a bad mood for the past 30 years.
+- [ ] If that's a veiled criticism about me. I won't listen to and respond to it.
