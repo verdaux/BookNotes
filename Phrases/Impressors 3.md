@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-19T16:36:11+05:30
+modified: 2023-10-20T10:50:15+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] I'm not depressed. I've just been in a bad mood for the past 30 years.
 - [ ] If that's a veiled criticism about me. I won't listen to and respond to it.
 - [ ] Communication is the most important in a relationship but more important is memes.
+- [ ] Are you sleeping? No. There's a bug in my eye and I'm trying to suffocate him.
