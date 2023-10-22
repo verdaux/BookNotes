@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-23T00:49:53+05:30
+modified: 2023-10-23T01:02:53+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,6 @@ type: Checklist
 - [ ] Ahoy Ahoy! You have the wrong number.
 - [ ] You sit on a throne of lies.
 - [ ] Dil ka achha hone ki wajah se... [I'll do something]
+- [ ] No shame in the wanking game.
+- [ ] Landed on my feet.
+- [ ] Glad to see you make it to the other side.
