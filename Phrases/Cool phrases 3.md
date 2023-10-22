@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-19T04:48:12+05:30
+modified: 2023-10-23T00:49:53+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Fuck me gently with a chainsaw.
 - [ ] Ahoy Ahoy! You have the wrong number.
 - [ ] You sit on a throne of lies.
+- [ ] Dil ka achha hone ki wajah se... [I'll do something]
