@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-23T01:02:53+05:30
+modified: 2023-10-26T23:45:54+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,5 @@ type: Checklist
 - [ ] No shame in the wanking game.
 - [ ] Landed on my feet.
 - [ ] Glad to see you make it to the other side.
+- [ ] One of my absolute favourites.
+- [ ] Signature move/piece
