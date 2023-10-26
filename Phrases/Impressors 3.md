@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-24T21:35:17+05:30
+modified: 2023-10-26T17:34:56+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Are you sleeping? No. There's a bug in my eye and I'm trying to suffocate him.
 - [ ] I identify as a threat. My pronouns are try/me.
 - [ ] You gotta trust my knowledge as I'm older than Google.
+- [ ] What song do you associate the most with your outfit today? Or how your day went?
