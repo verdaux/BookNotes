@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-29T18:35:28+05:30
+modified: 2023-10-29T18:37:20+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Signature move/piece
 - [ ] It doesn't get better than this.
 - [ ] Irritate conformists
+- [ ] Relinquish freedom
