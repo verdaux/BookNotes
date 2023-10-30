@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-30T01:07:19+05:30
+modified: 2023-10-30T14:15:13+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Irritate conformists
 - [ ] Relinquish freedom
 - [ ] Social lubricant, liquid courage
+- [ ] Mobile corpse
