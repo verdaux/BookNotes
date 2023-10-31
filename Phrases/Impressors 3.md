@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-31T13:06:23+05:30
+modified: 2023-10-31T13:27:19+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] I always wonder how can my mother still possibly love me?
 - [ ] If at first you don't succeed, have some cake.
 - [ ] One of the greatest freedoms is how we react to things.
+- [ ] Life is finite and they saw orgasm as a wonderful distraction.
