@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-10-31T11:30:47+05:30
+modified: 2023-10-31T11:36:33+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] What song do you associate the most with your outfit today? Or how your day went?
 - [ ] They just didn't understand the full extent of the nightmare they were dealing with.
 - [ ] Your screenshot[or ickd pic] will get circulated in the group like a new born is passed around at a family function.
+- [ ] I always wonder how can my mother still possibly love me?
