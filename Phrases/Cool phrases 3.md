@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-10-30T14:15:13+05:30
+modified: 2023-11-02T17:54:38+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Relinquish freedom
 - [ ] Social lubricant, liquid courage
 - [ ] Mobile corpse
+- [ ] Well -adjusted members of the society.
