@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-02T17:54:38+05:30
+modified: 2023-11-02T17:58:29+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Social lubricant, liquid courage
 - [ ] Mobile corpse
 - [ ] Well -adjusted members of the society.
+- [ ] You're a black hole of anguish.
