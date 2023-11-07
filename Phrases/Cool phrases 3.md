@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-02T17:58:29+05:30
+modified: 2023-11-07T12:49:34+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Mobile corpse
 - [ ] Well -adjusted members of the society.
 - [ ] You're a black hole of anguish.
+- [ ] Embarassing ordeal
