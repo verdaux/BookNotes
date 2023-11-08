@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-10-27T23:53:34+05:30
+modified: 2023-11-08T14:50:08+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,5 @@ type: Checklist
 - [ ] I neither have the time or crayons to explain this to you.
 - [ ] I envy everyone who has never met you.
 - [ ] Do you believe in numbers? I'm assuming you've heard of them.
+- [ ] I'm surprised you find it comfortable saying that out loud/ what an odd thing to say out loud.
+- [ ] Did you mean to send that to the entire team?
