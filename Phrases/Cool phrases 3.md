@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-07T21:16:36+05:30
+modified: 2023-11-08T14:08:37+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] You're a black hole of anguish.
 - [ ] Embarassing ordeal
 - [ ] Down among the have-nots.
+- [ ] Avenge this affront.
