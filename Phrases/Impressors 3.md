@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-11-07T21:15:13+05:30
+modified: 2023-11-08T14:08:14+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Life is finite and they saw orgasm as a wonderful distraction.
 - [ ] My whole life had been leading up to this moment.
 - [ ] Nocturnal camaraderie that only penniless drunks can purchase.
+- [ ] Unleashed a decade of distilled fury.
