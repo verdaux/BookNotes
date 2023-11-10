@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-11-10T11:10:21+05:30
+modified: 2023-11-10T11:15:46+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] [when someone wants to quit] well it's understandable. You've been trying this approach for almost ten minutes.
 - [ ] Can we have this conversation after I finish my coffee?
 - [ ] Whenever I feel sad. I put on a sad song and let myself grieve for 15 straight minutes.
+- [ ] Grief's a crafty little fucker. Sneaks up on you.
