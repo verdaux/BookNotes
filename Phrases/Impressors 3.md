@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-11-10T10:36:13+05:30
+modified: 2023-11-10T10:36:38+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] Nocturnal camaraderie that only penniless drunks can purchase.
 - [ ] Unleashed a decade of distilled fury.
 - [ ] [when someone wants to quit] well it's understandable. You've been trying this approach for almost ten minutes.
+- [ ] Can we have this conversation after I finish my coffee?
