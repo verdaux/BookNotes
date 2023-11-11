@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-11T17:45:26+05:30
+modified: 2023-11-11T17:54:51+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Avenge this affront.
 - [ ] Demolition of fantasy/dreams
 - [ ] Rivers of regrets.
+- [ ] Half[something], half[something] and all[something]
