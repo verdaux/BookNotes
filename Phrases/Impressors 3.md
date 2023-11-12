@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-11-11T08:52:14+05:30
+modified: 2023-11-12T12:34:42+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Whenever I feel sad. I put on a sad song and let myself grieve for 15 straight minutes.
 - [ ] Grief's a crafty little fucker. Sneaks up on you.
 - [ ] Awful when hungry. Otherwise, pretty solid.
+- [ ] Marriage nowadays is used to subjugate women and sell airfryer.
