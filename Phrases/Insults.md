@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-11-08T14:50:08+05:30
+modified: 2023-11-12T12:36:12+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Do you believe in numbers? I'm assuming you've heard of them.
 - [ ] I'm surprised you find it comfortable saying that out loud/ what an odd thing to say out loud.
 - [ ] Did you mean to send that to the entire team?
+- [ ] You should say things that I agree with.
