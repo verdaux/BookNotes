@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-15T22:34:05+05:30
+modified: 2023-11-15T22:34:50+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Rivers of regrets.
 - [ ] Half[something], half[something] and all[something]
 - [ ] Since I was an embryo.
+- [ ] ... [Something good is present] so that idiots like me don't fuck up.
