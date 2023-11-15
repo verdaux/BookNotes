@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-11-12T12:36:12+05:30
+modified: 2023-11-16T00:32:50+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] I'm surprised you find it comfortable saying that out loud/ what an odd thing to say out loud.
 - [ ] Did you mean to send that to the entire team?
 - [ ] You should say things that I agree with.
+- [ ] [after sometime yells] okay.hey. I didn't know that was your trigger.
