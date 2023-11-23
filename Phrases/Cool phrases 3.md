@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2023-11-19T11:53:13+05:30
+modified: 2023-11-23T07:07:13+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] Since I was an embryo.
 - [ ] ... [Something good is present] so that idiots like me don't fuck up.
 - [ ] Can recite the lyrics to [any song]
+- [ ] A slap from the future
