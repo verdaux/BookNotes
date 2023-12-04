@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-11-30T18:50:51+05:30
+modified: 2023-12-04T21:31:58+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Marriage nowadays is used to subjugate women and sell airfryer.
 - [ ] My grandpa always said one thing that stuck with me. He said "[name] you are a disappointment". I think he was on to something.
 - [ ] The dildo of consequences rarely comes lubed.
+- [ ] I didn't write any of that. My cat walked on my keyboard and then hit send with its whiskers.
