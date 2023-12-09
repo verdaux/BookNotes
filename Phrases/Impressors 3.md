@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-12-08T06:50:47+05:30
+modified: 2023-12-09T23:52:43+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] I didn't write any of that. My cat walked on my keyboard and then hit send with its whiskers.
 - [ ] There's no light for those who don't know darkness - Taukan from Vagabond
 - [ ] I affiliate religiously with [pizza]
+- [ ] When someone asks: " who are you?". I'm the guy who does his job. You must be the other guy.
