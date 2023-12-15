@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-12-09T23:52:43+05:30
+modified: 2023-12-15T06:32:26+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] There's no light for those who don't know darkness - Taukan from Vagabond
 - [ ] I affiliate religiously with [pizza]
 - [ ] When someone asks: " who are you?". I'm the guy who does his job. You must be the other guy.
+- [ ] It's the space, I said. All the space between poems and stories. That's the void I'm trying to fill.
