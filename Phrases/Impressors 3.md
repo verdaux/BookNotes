@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-12-15T06:32:26+05:30
+modified: 2023-12-23T21:09:35+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] I affiliate religiously with [pizza]
 - [ ] When someone asks: " who are you?". I'm the guy who does his job. You must be the other guy.
 - [ ] It's the space, I said. All the space between poems and stories. That's the void I'm trying to fill.
+- [ ] It's a huge shit sandwich and we all got to take a bite.
