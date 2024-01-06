@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2023-12-28T20:43:22+05:30
+modified: 2024-01-06T13:50:32+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] It's the space, I said. All the space between poems and stories. That's the void I'm trying to fill.
 - [ ] It's a huge shit sandwich and we all got to take a bite.
 - [ ] It's insulting to human beings to think that only a system of rewards and punishment can keep you decent.
+- [ ] I love women rights, but I'm more interested in women wrongs.
