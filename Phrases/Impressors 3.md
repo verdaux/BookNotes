@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-01-06T16:41:03+05:30
+modified: 2024-01-17T15:12:39+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,4 @@ type: Checklist
 - [ ] It's insulting to human beings to think that only a system of rewards and punishment can keep you decent.
 - [ ] I love women rights, but I'm more interested in women wrongs.
 - [ ] Every curve in your body fulfills its promise.
+- [ ] I'm a lip reader and I can also read upside down.
