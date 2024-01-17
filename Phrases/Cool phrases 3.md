@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-01-13T09:55:08+05:30
+modified: 2024-01-17T10:56:40+05:30
 type: Checklist
 ---
 
@@ -41,4 +41,5 @@ type: Checklist
 - [ ] Desperation breeds ingenuity.
 - [ ] Indian dreamboat
 - [ ] Cracks beginning to show.
-- [ ] Shaky territory 
+- [ ] Shaky territory
+- [ ] Patience is not infinite.
