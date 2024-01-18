@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-01-17T10:56:40+05:30
+modified: 2024-01-18T15:42:56+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,5 @@ type: Checklist
 - [ ] Cracks beginning to show.
 - [ ] Shaky territory
 - [ ] Patience is not infinite.
+- [ ] VIP one person laughing party.
+- [ ] I am gonna make your girl leave you haircut.
