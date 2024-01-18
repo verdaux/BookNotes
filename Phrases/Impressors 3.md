@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-01-17T15:12:39+05:30
+modified: 2024-01-18T13:57:04+05:30
 type: Checklist
 ---
 
@@ -54,3 +54,4 @@ type: Checklist
 - [ ] I love women rights, but I'm more interested in women wrongs.
 - [ ] Every curve in your body fulfills its promise.
 - [ ] I'm a lip reader and I can also read upside down.
+- [ ] A riddle wrapped in a mystery inside an enigma. - Churchill on Russia.
