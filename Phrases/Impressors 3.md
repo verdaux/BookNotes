@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-01-24T12:53:48+05:30
+modified: 2024-01-25T07:25:06+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] I rarely bust out the cake emoji but today I will.
 - [ ] She was like that. She threw things off balance just to see if she can put them back together.
 - [ ] Respect people with glasses. They paid money to see you.
+- [ ] Another day older and deeper in debt.
