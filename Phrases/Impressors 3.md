@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-01-25T07:25:06+05:30
+modified: 2024-01-26T06:29:49+05:30
 type: Checklist
 ---
 
@@ -59,3 +59,4 @@ type: Checklist
 - [ ] She was like that. She threw things off balance just to see if she can put them back together.
 - [ ] Respect people with glasses. They paid money to see you.
 - [ ] Another day older and deeper in debt.
+- [ ] Sometimes, I'm obsessed with the stupidest of things. How do I rationalize a salt shaker holder?
