@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-01-26T06:29:49+05:30
+modified: 2024-02-03T06:02:09+05:30
 type: Checklist
 ---
 
@@ -60,3 +60,4 @@ type: Checklist
 - [ ] Respect people with glasses. They paid money to see you.
 - [ ] Another day older and deeper in debt.
 - [ ] Sometimes, I'm obsessed with the stupidest of things. How do I rationalize a salt shaker holder?
+- [ ] Thinly veiled conduit for my philosophical opinions.
