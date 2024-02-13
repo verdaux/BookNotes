@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-02-14T01:12:58+05:30
+modified: 2024-02-14T01:18:00+05:30
 type: Checklist
 ---
 
@@ -59,7 +59,7 @@ type: Checklist
 - [ ] She was like that. She threw things off balance just to see if she can put them back together.
 - [ ] Respect people with glasses. They paid money to see you.
 - [ ] Another day older and deeper in debt.
-- [ ] Sometimes, I'm obsessed with the stupidest of things. How do I rationalize a salt shaker holder?
+- [ ] Sometimes, I'm obsessed with the stupidest of things. How else do I rationalize a salt shaker holder?
 - [ ] Thinly veiled conduit for my philosophical opinions.
 - [ ] I hope this email blows your tits clean off
 - [ ] I hope this email finds you before I do.
