@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-02-16T09:23:29+05:30
+modified: 2024-02-21T09:03:05+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] VIP one person laughing party.
 - [ ] I am gonna make your girl leave you haircut.
 - [ ] Cognitive dissonance.
+- [ ] Optimum concern
