@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-02-20T09:11:35+05:30
+modified: 2024-02-21T09:04:23+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] I hope this email finds you before I do.
 - [ ] 7th best mosquito murderer in a family of 4.
 - [ ] The silver lining of civilisational collapse is we might finally see the end of k-pop.
+- [ ] He had been the furthest away from me he had ever been and had still managed to annoy me.
