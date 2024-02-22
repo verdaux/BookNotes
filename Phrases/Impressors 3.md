@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-02-21T09:04:23+05:30
+modified: 2024-02-22T19:43:42+05:30
 type: Checklist
 ---
 
@@ -66,3 +66,4 @@ type: Checklist
 - [ ] 7th best mosquito murderer in a family of 4.
 - [ ] The silver lining of civilisational collapse is we might finally see the end of k-pop.
 - [ ] He had been the furthest away from me he had ever been and had still managed to annoy me.
+- [ ] Why are you making me think all these thoughts about you?
