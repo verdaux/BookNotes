@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-02-22T19:46:18+05:30
+modified: 2024-02-22T19:47:34+05:30
 type: Checklist
 ---
 
@@ -68,3 +68,4 @@ type: Checklist
 - [ ] He had been the furthest away from me he had ever been and had still managed to annoy me.
 - [ ] Why are you making me think all these thoughts about you?
 - [ ] Are you a magician? because every time I see you everyone else disappears.
+- [ ] There's something wrong with my phone. It doesn't have your number in it.
