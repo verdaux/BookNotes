@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-02-21T09:03:34+05:30
+modified: 2024-02-27T13:50:36+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Cognitive dissonance.
 - [ ] Optimum concern
 - [ ] Poorly conceived
+- [ ] In the course of human history
