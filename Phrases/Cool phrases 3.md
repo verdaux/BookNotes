@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-02-27T13:51:46+05:30
+modified: 2024-03-01T17:27:53+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] Poorly conceived
 - [ ] In the course of human history
 - [ ] Once in a lifetime oaf
+- [ ] See ya. Hate to be ya.
