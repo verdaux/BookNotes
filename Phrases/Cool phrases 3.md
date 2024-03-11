@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-11T22:20:43+05:30
+modified: 2024-03-11T22:21:06+05:30
 type: Checklist
 ---
 
@@ -55,3 +55,4 @@ type: Checklist
 - [ ] Shit my lungs
 - [ ] Abandoned shrine
 - [ ] Shaking my head in wonder
+- [ ] Coupled with
