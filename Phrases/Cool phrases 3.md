@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-11T18:48:21+05:30
+modified: 2024-03-11T18:48:40+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,4 @@ type: Checklist
 - [ ] See ya. Hate to be ya.
 - [ ] Confused and full of cheese
 - [ ] Shit my lungs
+- [ ] Abandoned shrine
