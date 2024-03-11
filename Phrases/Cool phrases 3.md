@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-07T20:56:20+05:30
+modified: 2024-03-11T18:48:21+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,4 @@ type: Checklist
 - [ ] Once in a lifetime oaf
 - [ ] See ya. Hate to be ya.
 - [ ] Confused and full of cheese
+- [ ] Shit my lungs
