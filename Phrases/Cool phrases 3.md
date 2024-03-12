@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-11T22:21:06+05:30
+modified: 2024-03-12T08:52:14+05:30
 type: Checklist
 ---
 
@@ -56,3 +56,4 @@ type: Checklist
 - [ ] Abandoned shrine
 - [ ] Shaking my head in wonder
 - [ ] Coupled with
+- [ ] Best alternative to a negotiated agreement
