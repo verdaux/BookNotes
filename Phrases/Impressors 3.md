@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-03-12T15:48:55+05:30
+modified: 2024-03-12T16:07:46+05:30
 type: Checklist
 ---
 
@@ -72,3 +72,4 @@ type: Checklist
 - [ ] Born to be mysterious. Forced to link my aadhar everywhere.
 - [ ] He who jumps into the void owes no explanation to the ones who stand by and watch.
 - [ ] Fancy restaurants where you put your order in they then bring it and spend 5 minutes explaining where the carrots were grown and what the chicken liked to do in its spare time.
+- [ ] Whatever doesn't kill you makes you stronger. Unless it's polio.
