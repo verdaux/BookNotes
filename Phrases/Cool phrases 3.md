@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-12T08:52:14+05:30
+modified: 2024-03-12T09:18:55+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] Shaking my head in wonder
 - [ ] Coupled with
 - [ ] Best alternative to a negotiated agreement
+- [ ] Henceforth, I'm unable to can.
