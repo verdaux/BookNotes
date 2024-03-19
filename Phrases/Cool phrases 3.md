@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-16T01:26:24+05:30
+modified: 2024-03-19T22:59:22+05:30
 type: Checklist
 ---
 
@@ -62,3 +62,4 @@ type: Checklist
 - [ ] Words cannot express.
 - [ ] Fluent in movie quotes
 - [ ] Did I eat a whole pastry shop?
+- [ ] Victim of my own charisma
