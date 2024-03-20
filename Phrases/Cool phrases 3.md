@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-19T22:59:22+05:30
+modified: 2024-03-20T16:26:35+05:30
 type: Checklist
 ---
 
@@ -63,3 +63,4 @@ type: Checklist
 - [ ] Fluent in movie quotes
 - [ ] Did I eat a whole pastry shop?
 - [ ] Victim of my own charisma
+- [ ] A market of morons
