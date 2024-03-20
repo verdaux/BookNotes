@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-03-16T01:25:46+05:30
+modified: 2024-03-21T00:22:21+05:30
 type: Checklist
 ---
 
@@ -74,3 +74,4 @@ type: Checklist
 - [ ] Fancy restaurants where you put your order in they then bring it and spend 5 minutes explaining where the carrots were grown and what the chicken liked to do in its spare time.
 - [ ] Whatever doesn't kill you makes you stronger. Unless it's polio.
 - [ ] Got my full body check up done yesterday. Doctor said everything is good. Just, your ass is a little big.
+- [ ] Productivity is just Subodh from Dil Chahata hai 
