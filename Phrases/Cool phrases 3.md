@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-03-27T15:59:33+05:30
+modified: 2024-03-27T16:13:02+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] Victim of my own charisma
 - [ ] A market of morons
 - [ ] A thicket of wrists (for local train)
+- [ ] Black hair yet uninvaded by grey
