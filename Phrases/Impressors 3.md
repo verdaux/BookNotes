@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-03-23T11:47:03+05:30
+modified: 2024-03-31T16:53:09+05:30
 type: Checklist
 ---
 
@@ -77,3 +77,4 @@ type: Checklist
 - [ ] Productivity is just Subodh from Dil Chahata hai
 - [ ] Armed with only Thesaurus and a slightly overused coffee machine
 - [ ] Exploitation of labour and opportunity of labour at the same time.
+- [ ] Unironically true and hilariously depressing
