@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-03-31T16:53:09+05:30
+modified: 2024-04-01T15:57:09+05:30
 type: Checklist
 ---
 
@@ -78,3 +78,4 @@ type: Checklist
 - [ ] Armed with only Thesaurus and a slightly overused coffee machine
 - [ ] Exploitation of labour and opportunity of labour at the same time.
 - [ ] Unironically true and hilariously depressing
+- [ ] Where time could stand still if one wanted to.
