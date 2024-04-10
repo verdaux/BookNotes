@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-04-08T00:28:32+05:30
+modified: 2024-04-11T00:17:02+05:30
 type: Checklist
 ---
 
@@ -80,4 +80,5 @@ type: Checklist
 - [ ] Unironically true and hilariously depressing
 - [ ] Where time could stand still if one wanted it to.
 - [ ] I have a massive reserve of hate in my body
-- [ ] Tumhe zarur koi chahato se dekhega magar woh aankhein humari kahan se layega 
+- [ ] Tumhe zarur koi chahato se dekhega magar woh aankhein humari kahan se layega
+- [ ] Ice dagger of truth through my heart
