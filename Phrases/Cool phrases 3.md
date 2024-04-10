@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-04-01T16:04:05+05:30
+modified: 2024-04-11T00:17:37+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,4 @@ type: Checklist
 - [ ] A thicket of wrists (for local train)
 - [ ] Black hair yet uninvaded by grey
 - [ ] Recognition of their tacit conspiracy
+- [ ] Punchable face
