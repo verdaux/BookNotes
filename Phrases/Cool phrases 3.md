@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-04-11T00:17:37+05:30
+modified: 2024-04-12T09:02:55+05:30
 type: Checklist
 ---
 
@@ -68,3 +68,4 @@ type: Checklist
 - [ ] Black hair yet uninvaded by grey
 - [ ] Recognition of their tacit conspiracy
 - [ ] Punchable face
+- [ ] Semi professional bathroom singer
