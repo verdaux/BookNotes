@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-04-11T00:17:02+05:30
+modified: 2024-04-14T15:56:17+05:30
 type: Checklist
 ---
 
@@ -82,3 +82,4 @@ type: Checklist
 - [ ] I have a massive reserve of hate in my body
 - [ ] Tumhe zarur koi chahato se dekhega magar woh aankhein humari kahan se layega
 - [ ] Ice dagger of truth through my heart
+- [ ] Mind your business but also give me attention
