@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T16:18:30+05:30
-modified: 2024-04-15T16:38:41+05:30
+modified: 2024-04-15T16:42:02+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Mountebank - one who attracts customers with tricks or jokes. A flamboyant deceiver.
 - [ ] Beleaguered - Encircle as a military tactic. Annoy persistently.
 - [ ] Drab - dull. Lacking colour or brightness.
+- [ ] Sortilege - the act of drawing lots 
