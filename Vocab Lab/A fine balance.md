@@ -1,6 +1,6 @@
 ---
 created: 2024-04-14T16:46:35+05:30
-modified: 2024-04-15T15:55:40+05:30
+modified: 2024-04-15T15:57:15+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Incarcerated - lock up
 - [ ] Perch - Sit, as if on a branch
 - [ ] Bleary - tired to the point of exhaustion.
+- [ ] Mollify - earn the goodwill of. Cause to be more favorably inclined.
