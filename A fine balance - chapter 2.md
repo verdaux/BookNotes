@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T16:18:30+05:30
-modified: 2024-04-15T16:28:11+05:30
+modified: 2024-04-15T16:32:40+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Visage - a human face
 - [ ] Odious - unequivocally detest.
 - [ ] Mountebank - one who attracts customers with tricks or jokes. A flamboyant deceiver.
+- [ ] Beleaguered - Encircle as a military tactic. Annoy persistently.
