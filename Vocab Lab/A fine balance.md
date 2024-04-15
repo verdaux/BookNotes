@@ -1,6 +1,6 @@
 ---
 created: 2024-04-14T16:46:35+05:30
-modified: 2024-04-15T16:08:02+05:30
+modified: 2024-04-15T16:15:37+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Insolence - The trait of being rude and impertinent; inclined to take liberties
 - [ ] Sheepish - Suggestive of a sheep in timidity/meekness/docile
 - [ ] Scowl - facial expression of displeasure or dislike.
+- [ ] Desultory - marked by lack of definite plan, regularity, or purpose 
