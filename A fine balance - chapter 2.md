@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T16:18:30+05:30
-modified: 2024-04-15T16:26:56+05:30
+modified: 2024-04-15T16:27:41+05:30
 type: Checklist
 ---
 
@@ -11,4 +11,4 @@ type: Checklist
 - [ ] Solemn - dignified and somber in manner or character and committed to keeping promises.
 - [ ] Visage - a human face
 - [ ] Odious - unequivocally detest.
-- [ ] Mounteback
+- [ ] Mountebank - one who attracts customers with tricks and bangs.
