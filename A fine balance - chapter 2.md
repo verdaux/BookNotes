@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T16:18:30+05:30
-modified: 2024-04-15T16:32:40+05:30
+modified: 2024-04-15T16:38:41+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Odious - unequivocally detest.
 - [ ] Mountebank - one who attracts customers with tricks or jokes. A flamboyant deceiver.
 - [ ] Beleaguered - Encircle as a military tactic. Annoy persistently.
+- [ ] Drab - dull. Lacking colour or brightness.
