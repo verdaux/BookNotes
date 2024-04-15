@@ -1,6 +1,6 @@
 ---
 created: 2024-04-14T16:46:35+05:30
-modified: 2024-04-14T16:55:12+05:30
+modified: 2024-04-15T15:55:40+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Twine - Jute thread
 - [ ] Incarcerated - lock up
 - [ ] Perch - Sit, as if on a branch
+- [ ] Bleary - tired to the point of exhaustion.
