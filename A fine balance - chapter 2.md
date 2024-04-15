@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T16:18:30+05:30
-modified: 2024-04-15T16:23:10+05:30
+modified: 2024-04-15T16:26:38+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Buccal - of or involving mouth or cheek
 - [ ] Solemn - dignified and somber in manner or character and committed to keeping promises.
 - [ ] Visage - a human face
+- [ ] Odious - unequivocally detest.
