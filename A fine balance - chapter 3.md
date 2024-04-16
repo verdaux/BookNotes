@@ -1,6 +1,6 @@
 ---
 created: 2024-04-16T16:12:53+05:30
-modified: 2024-04-16T16:16:30+05:30
+modified: 2024-04-16T16:29:44+05:30
 type: Checklist
 ---
 
@@ -8,4 +8,5 @@ type: Checklist
 
 - [ ] Obsequious - win favours from influential people with flattery.
 - [ ] Prostrate - lying face downward.
-- [ ] Abject - unfortunate or miserable or contemptible 
+- [ ] Abject - unfortunate or miserable or contemptible
+- [ ] Paltry - not worth considering. Small in amount.
