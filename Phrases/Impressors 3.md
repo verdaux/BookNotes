@@ -1,6 +1,6 @@
 ---
 created: 2023-09-28T13:20:49+05:30
-modified: 2024-04-14T15:56:17+05:30
+modified: 2024-04-27T13:33:19+05:30
 type: Checklist
 ---
 
@@ -83,3 +83,4 @@ type: Checklist
 - [ ] Tumhe zarur koi chahato se dekhega magar woh aankhein humari kahan se layega
 - [ ] Ice dagger of truth through my heart
 - [ ] Mind your business but also give me attention
+- [ ] It's a bunch of stupid people pseudo-communicating with a bunch of other people in a protolanguage that resembles more what cavemen used to speak than the king's English.
