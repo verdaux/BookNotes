@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-04-25T08:38:08+05:30
+modified: 2024-04-27T15:01:48+05:30
 type: Checklist
 ---
 
@@ -71,3 +71,4 @@ type: Checklist
 - [ ] Semi professional bathroom singer
 - [ ] Fuckable in an emergency
 - [ ] Outrageous cast of misfits.
+- [ ] Deliriously happy
