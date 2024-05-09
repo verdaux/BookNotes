@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T22:56:16+05:30
+modified: 2024-05-09T22:56:52+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Leisurely spiteful about capitalism
 - [ ] Audio cassette man in a Spotify world
 - [ ] Semi-professional Maggi maker
+- [ ] Pizza slut
