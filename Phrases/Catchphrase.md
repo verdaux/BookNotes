@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T23:36:11+05:30
+modified: 2024-05-09T23:36:48+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Certified nerd
 - [ ] Film buff
 - [ ] Honest shopping item reviewer
+- [ ] Demotivational speaker 
