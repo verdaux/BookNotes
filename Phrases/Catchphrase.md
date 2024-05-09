@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T23:37:37+05:30
+modified: 2024-05-09T23:38:29+05:30
 type: Checklist
 ---
 
@@ -21,4 +21,5 @@ type: Checklist
 - [ ] Film buff
 - [ ] Honest shopping item reviewer
 - [ ] Demotivational speaker
-- [ ] Recovering ice cream addict 
+- [ ] Recovering ice cream addict
+- [ ] Hate cricket, unbelievably soft hands, bad swimmer
