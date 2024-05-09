@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T23:38:29+05:30
+modified: 2024-05-09T23:38:51+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Demotivational speaker
 - [ ] Recovering ice cream addict
 - [ ] Hate cricket, unbelievably soft hands, bad swimmer
+- [ ] Poetry misinterpreter
