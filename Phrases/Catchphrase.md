@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T16:51:06+05:30
+modified: 2024-05-09T22:55:28+05:30
 type: Checklist
 ---
 
@@ -13,4 +13,5 @@ type: Checklist
 - [ ] Will travel for Sushi
 - [ ] Expert unnecessary song rememberer
 - [ ] Familiar with runner's high
-- [ ] Leisurely spiteful about capitalism 
+- [ ] Leisurely spiteful about capitalism
+- [ ] Audio cassette man in a Spotify world
