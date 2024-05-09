@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T22:57:26+05:30
+modified: 2024-05-09T22:57:46+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Semi-professional Maggi maker
 - [ ] Pizza slut
 - [ ] Certified nerd
+- [ ] Film buff
