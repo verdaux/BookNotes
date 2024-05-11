@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-09T23:41:48+05:30
+modified: 2024-05-12T00:39:01+05:30
 type: Checklist
 ---
 
@@ -24,4 +24,5 @@ type: Checklist
 - [ ] Recovering ice cream addict
 - [ ] Hate cricket, unbelievably soft hands, bad swimmer
 - [ ] Poetry misinterpreter
-- [ ] Personification of film moods 
+- [ ] Personification of film moods
+- [ ] Amateur goofball
