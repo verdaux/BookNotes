@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-12T00:39:01+05:30
+modified: 2024-05-15T00:45:54+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Poetry misinterpreter
 - [ ] Personification of film moods
 - [ ] Amateur goofball
+- [ ] Backhanded compliment
