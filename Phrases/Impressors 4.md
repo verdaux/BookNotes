@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-14T09:11:35+05:30
+modified: 2024-05-15T17:48:30+05:30
 type: Checklist
 ---
 
@@ -14,5 +14,6 @@ type: Checklist
 - [ ] adults are just children who owe money
 - [ ] Advertising has us chasing cars and clothes, working jobs we hate, so we can buy shit we don’t need.
 - [ ] Man 1: Aren’t we supposed to be with our loved ones when we die?
+- [ ] Whenever I’m caught between two evils, I take the one I’ve never tried.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
