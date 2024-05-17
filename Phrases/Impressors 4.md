@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-16T10:22:07+05:30
+modified: 2024-05-17T11:28:07+05:30
 type: Checklist
 ---
 
@@ -17,5 +17,6 @@ type: Checklist
 - [ ] Whenever I’m caught between two evils, I take the one I’ve never tried.
 - [ ] If the heart could think it would stop beating.
 - [ ] George Orwell said that if liberty means anything, it means the right to tell people what they don’t want to hear.
+- [ ] If bullshit were poetry, you’d be Shakespeare.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
