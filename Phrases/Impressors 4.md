@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-17T11:29:50+05:30
+modified: 2024-05-19T13:46:31+05:30
 type: Checklist
 ---
 
@@ -19,5 +19,6 @@ type: Checklist
 - [ ] George Orwell said that if liberty means anything, it means the right to tell people what they don’t want to hear.
 - [ ] If bullshit were poetry, you’d be Shakespeare.
 - [ ] I can practically hear you getting fatter
+- [ ] It’s not a lie; it’s a gift for ﬁction.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
