@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-22T00:30:22+05:30
+modified: 2024-05-22T00:31:05+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Somewhere between a spicy chilli pepper and roshogulla
 - [ ] Unashamed nerd
 - [ ] Reluctant capitalist
+- [ ] Tell your Nani I said namaste
