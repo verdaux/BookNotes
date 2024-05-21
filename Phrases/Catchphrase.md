@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-21T23:40:07+05:30
+modified: 2024-05-21T23:40:43+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Backhanded compliment
 - [ ] Born for audio cassettes, forced to use spotify.
 - [ ] Into spontaneous long walks and dance party in the living room
+- [ ] Pretends to know the lyrics to ..
