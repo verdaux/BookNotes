@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T16:44:12+05:30
-modified: 2024-05-16T11:35:59+05:30
+modified: 2024-05-21T23:40:07+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Amateur goofball
 - [ ] Backhanded compliment
 - [ ] Born for audio cassettes, forced to use spotify.
+- [ ] Into spontaneous long walks and dance party in the living room
