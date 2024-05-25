@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2024-05-12T23:36:10+05:30
+modified: 2024-05-25T09:37:39+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,4 @@ type: Checklist
 
 - [ ] 30 lessons for living - Karl Pillemer
 - [ ] The ending of time
+- [ ] https://radicalreads.com/yuval-noah-harari-favorite-books/
