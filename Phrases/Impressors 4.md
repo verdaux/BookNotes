@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-25T10:14:53+05:30
+modified: 2024-05-25T10:16:51+05:30
 type: Checklist
 ---
 
@@ -25,5 +25,6 @@ type: Checklist
 - [ ] If their absence brings you peace, you didn't lose them.
 - [ ] I'm out with a lantern looking for myself - Emily Dickinson
 - [ ] Great spirits have often encountered violent opposition from mediocre minds.
+- [ ] And forget not that the earth delights to feel your bare feet and the winds long to play with your hair.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
