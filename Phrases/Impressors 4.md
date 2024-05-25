@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-25T17:00:15+05:30
+modified: 2024-05-25T17:01:18+05:30
 type: Checklist
 ---
 
@@ -28,5 +28,6 @@ type: Checklist
 - [ ] And forget not that the earth delights to feel your bare feet and the winds long to play with your hair.
 - [ ] Man is born crying. When he cries enough, he dies.
 - [ ] Temper’s the one thing you can’t get rid of by losing it.
+- [ ] This is your life and it’s ending one minute at a time.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
