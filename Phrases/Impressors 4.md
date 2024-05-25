@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-24T08:51:40+05:30
+modified: 2024-05-25T10:14:53+05:30
 type: Checklist
 ---
 
@@ -24,5 +24,6 @@ type: Checklist
 - [ ] My heart has chosen you. And I follow my heart.
 - [ ] If their absence brings you peace, you didn't lose them.
 - [ ] I'm out with a lantern looking for myself - Emily Dickinson
+- [ ] Great spirits have often encountered violent opposition from mediocre minds.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
