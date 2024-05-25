@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-05-24T08:16:20+05:30
+modified: 2024-05-25T10:21:15+05:30
 type: Checklist
 ---
 
@@ -12,4 +12,5 @@ type: Checklist
 - [ ] Societal collapse
 - [ ] Mildly entertaining party companion
 - [ ] This blessed sanctuary
-- [ ] Proudly sits 
+- [ ] Proudly sits
+- [ ] Poor bastard 
