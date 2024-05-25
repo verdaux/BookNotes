@@ -1,6 +1,6 @@
 ---
 created: 2023-07-06T13:14:22+05:30
-modified: 2023-07-07T10:26:16+05:30
+modified: 2024-05-25T10:23:47+05:30
 type: Checklist
 ---
 
@@ -62,3 +62,4 @@ type: Checklist
 - [ ] unnerving = make someone lose courage
 - [ ] interminably = endless
 - [ ] alluding = suggest or call attention to indirectly
+- [ ] Balter = dance without skill
