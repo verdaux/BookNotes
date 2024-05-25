@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-25T17:03:54+05:30
+modified: 2024-05-25T17:06:22+05:30
 type: Checklist
 ---
 
@@ -31,5 +31,6 @@ type: Checklist
 - [ ] This is your life and it’s ending one minute at a time.
 - [ ] That's all I ever wanted. Ever since I heard about it a minute ago.
 - [ ] You pile up enough tomorrows and you’ll ﬁnd yourself with nothing but a lot of empty yesterdays. I don’t know about you, but I’d like to make today worth remembering.
+- [ ] Vanity is a formidable armor.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
