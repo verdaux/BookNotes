@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2023-11-16T00:32:50+05:30
+modified: 2024-05-28T22:18:04+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Did you mean to send that to the entire team?
 - [ ] You should say things that I agree with.
 - [ ] [after sometime yells] okay.hey. I didn't know that was your trigger.
+- [ ] Your wit is as sharp as a butter knife
