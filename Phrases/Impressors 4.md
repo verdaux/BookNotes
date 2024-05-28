@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T20:05:48+05:30
+modified: 2024-05-28T20:07:16+05:30
 type: Checklist
 ---
 
@@ -13,7 +13,7 @@ type: Checklist
 - [ ] I'm not like other guys (I'm worse)
 - [ ] adults are just children who owe money
 - [ ] Advertising has us chasing cars and clothes, working jobs we hate, so we can buy shit we don’t need.
-- [ ] Man 1: Aren’t we supposed to be with our loved ones when we die?
+- [ ] Man 1: Aren’t we supposed to be with our loved ones when we die? No that's for when we are alive
 - [ ] Whenever I’m caught between two evils, I take the one I’ve never tried.
 - [ ] If the heart could think it would stop beating.
 - [ ] George Orwell said that if liberty means anything, it means the right to tell people what they don’t want to hear.
