@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T17:55:55+05:30
+modified: 2024-05-28T18:00:56+05:30
 type: Checklist
 ---
 
@@ -36,5 +36,6 @@ type: Checklist
 - [ ] The way you look at the world.
 - [ ] I wish for inner peace, healing, and money.
 - [ ] I'd like to look at you some some sometime
+- [ ] My love for me runs deep.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
