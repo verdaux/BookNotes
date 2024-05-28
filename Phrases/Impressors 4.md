@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T20:07:16+05:30
+modified: 2024-05-28T20:12:30+05:30
 type: Checklist
 ---
 
@@ -38,5 +38,6 @@ type: Checklist
 - [ ] I'd like to look at you some some sometime
 - [ ] My love for me runs deep.
 - [ ] Her heart was made of liquid sunsets 
+- [ ] You could write a novel with the things people don't say
 Man 2: No, that’s what life is for.
 —The Lift (2000)
