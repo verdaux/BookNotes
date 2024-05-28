@@ -1,6 +1,6 @@
 ---
 created: 2023-07-06T13:14:22+05:30
-modified: 2024-05-25T10:23:47+05:30
+modified: 2024-05-28T20:03:34+05:30
 type: Checklist
 ---
 
@@ -63,3 +63,4 @@ type: Checklist
 - [ ] interminably = endless
 - [ ] alluding = suggest or call attention to indirectly
 - [ ] Balter = dance without skill
+- [ ] Creftfallen - dejected, despirited
