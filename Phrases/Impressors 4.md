@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T20:12:30+05:30
+modified: 2024-05-28T20:13:35+05:30
 type: Checklist
 ---
 
@@ -35,7 +35,7 @@ type: Checklist
 - [ ] Kiss the road I walk on 
 - [ ] The way you look at the world.
 - [ ] I wish for inner peace, healing, and money.
-- [ ] I'd like to look at you some some sometime
+- [ ] I'd like to look at you some more sometime
 - [ ] My love for me runs deep.
 - [ ] Her heart was made of liquid sunsets 
 - [ ] You could write a novel with the things people don't say
