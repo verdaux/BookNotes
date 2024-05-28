@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T20:13:35+05:30
+modified: 2024-05-28T20:14:05+05:30
 type: Checklist
 ---
 
@@ -39,5 +39,6 @@ type: Checklist
 - [ ] My love for me runs deep.
 - [ ] Her heart was made of liquid sunsets 
 - [ ] You could write a novel with the things people don't say
+- [ ] My brain hums with scraps of poetry and madness
 Man 2: No, that’s what life is for.
 —The Lift (2000)
