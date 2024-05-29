@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-28T20:20:05+05:30
+modified: 2024-05-29T16:33:51+05:30
 type: Checklist
 ---
 
@@ -41,5 +41,6 @@ type: Checklist
 - [ ] You could write a novel with the things people don't say
 - [ ] My brain hums with scraps of poetry and madness
 - [ ] I always had the deepest affection for people who carried sublime tears in their silence
+- [ ] Love is too weak a word for the way I feel
 Man 2: No, that’s what life is for.
 —The Lift (2000)
