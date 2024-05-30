@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-05-30T19:00:07+05:30
+modified: 2024-05-30T19:04:04+05:30
 type: Checklist
 ---
 
@@ -43,5 +43,6 @@ type: Checklist
 - [ ] I always had the deepest affection for people who carried sublime tears in their silence
 - [ ] Love is too weak a word for the way I feel
 - [ ] Behind every great man, there’s a woman rolling her eyes.
+- [ ] You can’t change the world, but you can make a dent.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
