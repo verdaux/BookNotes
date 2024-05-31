@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-05-28T20:11:33+05:30
+modified: 2024-05-31T17:13:03+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Proudly sits
 - [ ] Poor bastard
 - [ ] Mystically delicate
+- [ ] Wish you were kheer
