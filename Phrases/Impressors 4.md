@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-01T11:31:51+05:30
+modified: 2024-06-03T15:19:21+05:30
 type: Checklist
 ---
 
@@ -48,5 +48,6 @@ type: Checklist
 - [ ] People on the train playing their phone on speaker and I have to buy noise  cancelling headphones so I don't end up with an assault charge every time I travel
 - [ ] First decide to succeed.
 - [ ] It could've destroyed me. But then I decided it wouldn't
+- [ ]  “We’ll go down in history as the first society that wouldn’t save itself because it wasn’t cost-effective.” – Kurt Vonnegut, 1922-2007
 Man 2: No, that’s what life is for.
 —The Lift (2000)
