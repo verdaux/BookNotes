@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-04T13:34:49+05:30
+modified: 2024-06-04T14:28:00+05:30
 type: Checklist
 ---
 
@@ -50,5 +50,6 @@ type: Checklist
 - [ ] It could've destroyed me. But then I decided it wouldn't
 - [ ]  “We’ll go down in history as the first society that wouldn’t save itself because it wasn’t cost-effective.” – Kurt Vonnegut, 1922-2007
 - [ ] Politeness is just fictitious benevolence
+- [ ] “Its not what you look at that matters, it’s what you see” - Henry David Thoreau
 Man 2: No, that’s what life is for.
 —The Lift (2000)
