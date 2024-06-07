@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2024-06-07T07:45:23+05:30
+modified: 2024-06-07T07:48:16+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] [after sometime yells] okay.hey. I didn't know that was your trigger.
 - [ ] Your wit is as sharp as a butter knife
 - [ ] You look like something I drew with my left hand
+- [ ] Let me file that under 'I don't care'.
