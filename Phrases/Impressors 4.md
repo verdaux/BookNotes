@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-07T09:07:47+05:30
+modified: 2024-06-07T09:10:04+05:30
 type: Checklist
 ---
 
@@ -52,5 +52,6 @@ type: Checklist
 - [ ] Politeness is just fictitious benevolence
 - [ ] “Its not what you look at that matters, it’s what you see” - Henry David Thoreau
 - [ ] You are the knife I turn inside myself.
+- [ ] I'm filled with a desire for clarity and meaning within a world and condition that offers neither.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
