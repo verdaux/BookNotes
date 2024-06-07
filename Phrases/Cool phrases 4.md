@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-06T16:49:09+05:30
+modified: 2024-06-07T07:37:54+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Mystically delicate
 - [ ] Wish you were kheer
 - [ ] Lick her heels
+- [ ] Understated elegance
