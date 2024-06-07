@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-07T07:37:54+05:30
+modified: 2024-06-07T07:38:19+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Wish you were kheer
 - [ ] Lick her heels
 - [ ] Understated elegance
+- [ ] Quiet moments, loud thoughts
