@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-07T09:13:57+05:30
+modified: 2024-06-10T06:21:27+05:30
 type: Checklist
 ---
 
@@ -54,5 +54,6 @@ type: Checklist
 - [ ] You are the knife I turn inside myself.
 - [ ] I'm filled with a desire for clarity and meaning within a world and condition that offers neither.
 - [ ] When people agree with me I always feel I must be wrong. - Oscar Wilde
+- [ ] Do you have a personality or are you just bunch of Taylor Swift lyrics glued together.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
