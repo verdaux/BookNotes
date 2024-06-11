@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2024-06-07T07:48:16+05:30
+modified: 2024-06-11T20:10:19+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Your wit is as sharp as a butter knife
 - [ ] You look like something I drew with my left hand
 - [ ] Let me file that under 'I don't care'.
+- [ ] What fresh hell is this?
