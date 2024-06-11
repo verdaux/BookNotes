@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-11T20:17:02+05:30
+modified: 2024-06-11T20:19:07+05:30
 type: Checklist
 ---
 
@@ -62,5 +62,6 @@ type: Checklist
 - [ ] No human being has stood so close to my soul as you stand
 - [ ] You, my love, are all over my blood
 - [ ] You are the dried flowers between the pages of my favourite book.
+- [ ] I exist in 2 places. Here, and where you are.
 Man 2: No, that’s what life is for.
 —The Lift (2000)
