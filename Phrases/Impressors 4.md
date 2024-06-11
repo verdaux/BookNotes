@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T15:00:21+05:30
-modified: 2024-06-11T20:13:49+05:30
+modified: 2024-06-11T20:14:27+05:30
 type: Checklist
 ---
 
@@ -58,5 +58,6 @@ type: Checklist
 - [ ] The wounded recognise the wounded
 - [ ] How slow life is, how violent hope is.
 - [ ] I'm half afraid to hope for what I long for
+- [ ] I submit my soul to the disaster of loving you
 Man 2: No, that’s what life is for.
 —The Lift (2000)
