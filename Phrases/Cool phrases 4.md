@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-07T07:43:42+05:30
+modified: 2024-06-12T16:54:32+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Glimpse of serenity
 - [ ] Magic in the mundane
 - [ ] Classy chaos
+- [ ] Wrinkle in your brain
