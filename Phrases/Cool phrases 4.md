@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-13T17:32:13+05:30
+modified: 2024-06-13T20:14:41+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Wrinkle in your brain
 - [ ] Chronic daydreamer
 - [ ] Memories of a typewriter
+- [ ] Haunted by hope
