@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-12T16:54:32+05:30
+modified: 2024-06-13T17:30:49+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Magic in the mundane
 - [ ] Classy chaos
 - [ ] Wrinkle in your brain
+- [ ] Chronic daydreamer
