@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-13T17:30:49+05:30
+modified: 2024-06-13T17:32:13+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Classy chaos
 - [ ] Wrinkle in your brain
 - [ ] Chronic daydreamer
+- [ ] Memories of a typewriter
