@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2024-06-11T20:10:19+05:30
+modified: 2024-06-16T23:29:24+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] You look like something I drew with my left hand
 - [ ] Let me file that under 'I don't care'.
 - [ ] What fresh hell is this?
+- [ ] I know 5 bad painters, you are 4 of them
