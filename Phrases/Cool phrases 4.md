@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-14T10:03:39+05:30
+modified: 2024-06-18T10:24:13+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Haunted by hope
 - [ ] Sexy ladies under tremendous stress (sluts)
 - [ ] 49 shades of irresistible
+- [ ] Second hand bookstore citizen 
