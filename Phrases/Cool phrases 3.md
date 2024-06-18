@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-04-28T20:21:32+05:30
+modified: 2024-06-18T11:27:55+05:30
 type: Checklist
 ---
 
@@ -73,3 +73,4 @@ type: Checklist
 - [ ] Outrageous cast of misfits.
 - [ ] Deliriously happy
 - [ ] Marginally crude
+- [ ] Absurdly talented
