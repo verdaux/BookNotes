@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-06-15T18:57:36+05:30
+modified: 2024-06-19T13:08:05+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Your body will know no peace
 - [ ] Leave no mental stone unturned
 - [ ] There are some truths only the dead know
+- [ ] When there's no more room in hell, the devil himself walks the earth.
