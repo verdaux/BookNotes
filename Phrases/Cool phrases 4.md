@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-18T11:26:59+05:30
+modified: 2024-06-19T13:07:19+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Sexy ladies under tremendous stress (sluts)
 - [ ] 49 shades of irresistible
 - [ ] Nearest Second hand bookstore citizen
+- [ ] Doing somersaults in his grave
