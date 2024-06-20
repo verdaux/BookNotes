@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-06-20T16:17:56+05:30
+modified: 2024-06-20T17:41:56+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] There are some truths only the dead know
 - [ ] When there's no more room in hell, the devil himself walks the earth.
 - [ ] Losing a political debate with my cat
+- [ ] There in his arms she became someone else. Someone more like herself.
