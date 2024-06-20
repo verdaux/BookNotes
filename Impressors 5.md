@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-06-20T17:41:56+05:30
+modified: 2024-06-20T17:46:35+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] When there's no more room in hell, the devil himself walks the earth.
 - [ ] Losing a political debate with my cat
 - [ ] There in his arms she became someone else. Someone more like herself.
+- [ ] We write to taste life twice
