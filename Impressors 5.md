@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-06-22T06:40:58+05:30
+modified: 2024-06-23T11:35:04+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] There in his arms she became someone else. Someone more like herself.
 - [ ] We write to taste life twice
 - [ ] Principles are more important than expediency.
+- [ ] Most distressing affliction is to have a sentimental heart and a skeptical mind. 
