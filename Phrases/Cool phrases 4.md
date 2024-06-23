@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-23T17:51:44+05:30
+modified: 2024-06-23T17:52:04+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Doing somersaults in his grave
 - [ ] Capital offence
 - [ ] Unsinkable queen of acting
+- [ ] How to apply my gifts
