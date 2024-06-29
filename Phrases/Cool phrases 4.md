@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-06-29T10:00:47+05:30
+modified: 2024-06-29T10:01:10+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Unsinkable queen of acting
 - [ ] How to apply my gifts
 - [ ] Airport indulgence
+- [ ] Trash that convention
