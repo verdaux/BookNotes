@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-07-06T16:19:06+05:30
+modified: 2024-07-07T20:54:52+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] The witchery of beautiful eyes.
 - [ ] It all ended with her eyes, hell, purgatory, paradise
 - [ ] The truth has no concern for anyone's comfort.
+- [ ] When I'm among the trees the leaves call out to me 'stay awhile'.
