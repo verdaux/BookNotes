@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-07-09T17:10:35+05:30
+modified: 2024-07-09T20:14:01+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] The truth has no concern for anyone's comfort.
 - [ ] When I'm among the trees the leaves call out to me 'stay awhile'.
 - [ ] I'm all the writers I've read; all the cities I've visited.
+- [ ] Our 'almost' will always haunt me.
