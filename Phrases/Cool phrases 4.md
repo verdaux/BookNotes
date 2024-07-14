@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-05T22:41:27+05:30
+modified: 2024-07-14T23:05:07+05:30
 type: Checklist
 ---
 
@@ -37,4 +37,5 @@ type: Checklist
 - [ ] Airport indulgence
 - [ ] Trash that convention
 - [ ] Passive zealot
-- [ ] Built-in condescension 
+- [ ] Built-in condescension
+- [ ] Living in borrowed splendor
