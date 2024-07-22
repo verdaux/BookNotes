@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-07-14T23:11:03+05:30
+modified: 2024-07-22T16:16:47+05:30
 type: Checklist
 ---
 
@@ -32,4 +32,5 @@ type: Checklist
 - [ ] And even if we never talk again, please remember I'm forever changed by who you are and what you mean to me.
 - [ ] You are going to break your promise. I understand. And I hold my hands over the ears of my heart so that I will not hate you.
 - [ ] The air between us caught fire
-- [ ] The price of anything is the amount of life you exchange for it - Henry David Thoreau 
+- [ ] The price of anything is the amount of life you exchange for it - Henry David Thoreau
+- [ ] Skin like butter, hugs like no other. If I have children some day, she'll be the mother.
