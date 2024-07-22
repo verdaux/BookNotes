@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-21T16:51:57+05:30
+modified: 2024-07-22T22:54:19+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Built-in condescension
 - [ ] Living in borrowed splendor
 - [ ] Foreigner to danger
+- [ ] Revolting stench
