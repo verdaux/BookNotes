@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-22T22:54:19+05:30
+modified: 2024-07-23T22:16:49+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Living in borrowed splendor
 - [ ] Foreigner to danger
 - [ ] Revolting stench
+- [ ] Financial upside attached
