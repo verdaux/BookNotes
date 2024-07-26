@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-26T17:38:32+05:30
+modified: 2024-07-26T23:07:26+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] Revolting stench
 - [ ] Financial upside attached
 - [ ] Uncomfortably handsome
+- [ ] Sciolist
