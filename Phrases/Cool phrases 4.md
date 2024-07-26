@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-23T22:16:49+05:30
+modified: 2024-07-26T17:38:32+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Foreigner to danger
 - [ ] Revolting stench
 - [ ] Financial upside attached
+- [ ] Uncomfortably handsome
