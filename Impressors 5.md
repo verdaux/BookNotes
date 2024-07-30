@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-07-30T18:34:02+05:30
+modified: 2024-07-30T18:41:13+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] The price of anything is the amount of life you exchange for it - Henry David Thoreau
 - [ ] Skin like butter, hugs like no other. If I have children some day, she'll be the mother.
 - [ ] This may be frightening to the common brand of men.
+- [ ] Nothing extraordinary ever did happen unless I caused it.
