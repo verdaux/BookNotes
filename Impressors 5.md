@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-07-30T18:41:13+05:30
+modified: 2024-08-03T12:16:25+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] Skin like butter, hugs like no other. If I have children some day, she'll be the mother.
 - [ ] This may be frightening to the common brand of men.
 - [ ] Nothing extraordinary ever did happen unless I caused it.
+- [ ] Im just a man standing in front of khichdi asking for it to be sushi
