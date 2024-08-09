@@ -1,6 +1,6 @@
 ---
 created: 2023-10-17T21:22:46+05:30
-modified: 2024-08-03T12:18:10+05:30
+modified: 2024-08-09T07:25:40+05:30
 type: Checklist
 ---
 
@@ -76,3 +76,4 @@ type: Checklist
 - [ ] Absurdly talented
 - [ ] Over-caffienated under appreciated
 - [ ] On today's episode of....
+- [ ] Purveyor of ultimate cringe 
