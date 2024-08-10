@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-08-03T12:19:08+05:30
+modified: 2024-08-10T22:29:34+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] Nothing extraordinary ever did happen unless I caused it.
 - [ ] Im just a man standing in front of khichdi asking for it to be sushi
 - [ ] I can no longer read you but you are still my favourite poem
+- [ ] She took down my walls and lit my soul on fire.
