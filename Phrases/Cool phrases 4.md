@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-07-26T23:07:26+05:30
+modified: 2024-08-20T22:40:09+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Financial upside attached
 - [ ] Uncomfortably handsome
 - [ ] Sciolist
+- [ ] Overcome by the depths of my whimsy.
