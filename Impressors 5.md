@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-08-20T20:08:46+05:30
+modified: 2024-08-27T20:25:00+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] I can no longer read you but you are still my favourite poem
 - [ ] She took down my walls and lit my soul on fire.
 - [ ] I wanna go back to the first time you told me your name.
+- [ ] I won an argument and decided to be extra petty.
