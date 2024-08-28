@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2024-08-28T21:51:42+05:30
+modified: 2024-08-28T21:52:07+05:30
 type: Checklist
 ---
 
@@ -34,4 +34,4 @@ type: Checklist
 - [ ] Let me file that under 'I don't care'.
 - [ ] What fresh hell is this?
 - [ ] I know 5 bad painters, you are 4 of them
-- [ ] You know there's a world outside your head too?
+- [ ] You know there's a world outside your head too. Yes?
