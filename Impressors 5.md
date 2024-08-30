@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-08-27T20:25:00+05:30
+modified: 2024-08-30T12:08:27+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] She took down my walls and lit my soul on fire.
 - [ ] I wanna go back to the first time you told me your name.
 - [ ] I won an argument and decided to be extra petty.
+- [ ] Mistress of grief, lady of tears.
