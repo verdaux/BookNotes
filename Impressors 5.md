@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-01T16:47:36+05:30
+modified: 2024-09-01T16:48:38+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] Easily distracted by food
 - [ ] What's been keeping you busy?
 - [ ] What did you do this weekend?
+- [ ] Where are you going this weekend?
