@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-08-30T12:15:30+05:30
+modified: 2024-09-01T16:47:36+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,5 @@ type: Checklist
 - [ ] I won an argument and decided to be extra petty.
 - [ ] Mistress of grief, lady of tears.
 - [ ] Easily distracted by food
+- [ ] What's been keeping you busy?
+- [ ] What did you do this weekend?
