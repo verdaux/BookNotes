@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-01T16:48:38+05:30
+modified: 2024-09-06T11:00:34+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] What's been keeping you busy?
 - [ ] What did you do this weekend?
 - [ ] Where are you going this weekend?
+- [ ] Perfumed laborer by day, Imtiaz Ali's hero by night.
