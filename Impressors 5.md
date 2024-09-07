@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-06T11:00:34+05:30
+modified: 2024-09-07T14:14:21+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] What did you do this weekend?
 - [ ] Where are you going this weekend?
 - [ ] Perfumed laborer by day, Imtiaz Ali's hero by night.
+- [ ] Silent in sanity, audible in madness 
