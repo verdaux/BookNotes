@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-11T07:22:58+05:30
+modified: 2024-09-13T13:18:11+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] Perfumed laborer by day, Imtiaz Ali's hero by night.
 - [ ] Silent in sanity, audible in madness
 - [ ] Splendour and fecundity from which I never recovered.
+- [ ] You are a wealth of information.
