@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-13T13:18:11+05:30
+modified: 2024-09-14T08:08:15+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] Silent in sanity, audible in madness
 - [ ] Splendour and fecundity from which I never recovered.
 - [ ] You are a wealth of information.
+- [ ] I'm that song you skipped and later found out it was fire.
