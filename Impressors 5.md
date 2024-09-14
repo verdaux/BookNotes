@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-14T10:48:15+05:30
+modified: 2024-09-14T16:19:35+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,4 @@ type: Checklist
 - [ ] You are a wealth of information.
 - [ ] I'm that song you skipped and later found out it was fire.
 - [ ] Made of 90% Bollywood lyrics
+- [ ] You are the words in every poem, I'm merely the ink.
