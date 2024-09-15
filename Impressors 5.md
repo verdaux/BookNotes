@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-15T13:38:05+05:30
+modified: 2024-09-15T21:54:21+05:30
 type: Checklist
 ---
 
@@ -53,4 +53,5 @@ type: Checklist
 - [ ] I'm that song you skipped and later found out it was fire.
 - [ ] Made of 90% Bollywood lyrics
 - [ ] You are the words in every poem, I'm merely the ink.
-- [ ] Mask of sanity is slipped 
+- [ ] Mask of sanity is slipped
+- [ ] You have found your way into my dreams.
