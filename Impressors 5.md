@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-20T05:43:28+05:30
+modified: 2024-09-20T19:20:41+05:30
 type: Checklist
 ---
 
@@ -56,3 +56,4 @@ type: Checklist
 - [ ] Mask of sanity is slipped
 - [ ] You have found your way into my dreams.
 - [ ] Access to frivolous perks like sunlight, fresh air, and exercise
+- [ ] Tell me, what is it you plan to do with your one wild and precious life.
