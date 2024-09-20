@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-15T21:54:21+05:30
+modified: 2024-09-20T05:43:28+05:30
 type: Checklist
 ---
 
@@ -55,3 +55,4 @@ type: Checklist
 - [ ] You are the words in every poem, I'm merely the ink.
 - [ ] Mask of sanity is slipped
 - [ ] You have found your way into my dreams.
+- [ ] Access to frivolous perks like sunlight, fresh air, and exercise
