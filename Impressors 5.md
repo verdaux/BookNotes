@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-09-27T12:45:45+05:30
+modified: 2024-09-28T17:06:00+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] Access to frivolous perks like sunlight, fresh air, and exercise
 - [ ] Tell me, what is it you plan to do with your one wild and precious life.
 - [ ] Your concern for my welfare is duly noted.
+- [ ] Felt delete might cute later.
