@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-09-27T12:49:35+05:30
+modified: 2024-09-28T17:01:18+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] I identify as a 90s audio cassette.
 - [ ] That's a fact.... Probably
 - [ ] Sorely disappointed
+- [ ] Endless comfort
