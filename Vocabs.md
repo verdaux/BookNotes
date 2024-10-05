@@ -1,6 +1,6 @@
 ---
 created: 2023-07-06T13:14:22+05:30
-modified: 2024-10-01T22:53:58+05:30
+modified: 2024-10-05T18:00:55+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] Balter = dance without skill
 - [ ] Creftfallen - dejected, despirited
 - [ ] Surreptitious - kept secret because of would not be approved of.
+- [ ] Epistolary - relating to or denoting the writing of letters or literary works.
