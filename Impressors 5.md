@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-10-06T21:36:58+05:30
+modified: 2024-10-09T17:16:32+05:30
 type: Checklist
 ---
 
@@ -61,4 +61,5 @@ type: Checklist
 - [ ] Felt delete might cute later.
 - [ ] If scandal is your taste I shall give you a feast.
 - [ ] Stalking? I was just educating myself on your lore.
-- [ ] I trust in your googling abilities 
+- [ ] I trust in your googling abilities
+- [ ] Too familiar to ignore but too different to tolerate.
