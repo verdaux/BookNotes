@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-10-06T21:29:32+05:30
+modified: 2024-10-12T22:37:20+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] Endless comfort
 - [ ] Resident sarcasm expert
 - [ ] Artery clogging burger finder
+- [ ] Most important hype man
