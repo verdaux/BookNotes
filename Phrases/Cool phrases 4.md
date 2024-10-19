@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-10-12T22:37:20+05:30
+modified: 2024-10-19T11:23:19+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,5 @@ type: Checklist
 - [ ] Resident sarcasm expert
 - [ ] Artery clogging burger finder
 - [ ] Most important hype man
+- [ ] Emotional swaggage
+- [ ] Thermostat for mood
