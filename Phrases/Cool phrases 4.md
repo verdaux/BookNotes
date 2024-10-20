@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-10-19T11:23:19+05:30
+modified: 2024-10-20T21:55:06+05:30
 type: Checklist
 ---
 
@@ -54,3 +54,5 @@ type: Checklist
 - [ ] Most important hype man
 - [ ] Emotional swaggage
 - [ ] Thermostat for mood
+- [ ] Assorted absurdities
+- [ ] Dork-sided
