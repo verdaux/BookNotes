@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-10-20T17:04:56+05:30
+modified: 2024-10-30T19:00:01+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] Too familiar to ignore but too different to tolerate.
 - [ ] (pause here for reflection and beard stroking)
 - [ ] Always been a fan of distractions.
+- [ ] I feel so violently seen, so nakedly exposed.
