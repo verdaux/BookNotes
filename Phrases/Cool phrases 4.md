@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-10-20T21:55:06+05:30
+modified: 2024-11-04T20:31:48+05:30
 type: Checklist
 ---
 
@@ -56,3 +56,4 @@ type: Checklist
 - [ ] Thermostat for mood
 - [ ] Assorted absurdities
 - [ ] Dork-sided
+- [ ] Unpretzel your brain
