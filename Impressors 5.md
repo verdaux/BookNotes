@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-10-30T19:00:01+05:30
+modified: 2024-11-07T23:51:21+05:30
 type: Checklist
 ---
 
@@ -66,3 +66,5 @@ type: Checklist
 - [ ] (pause here for reflection and beard stroking)
 - [ ] Always been a fan of distractions.
 - [ ] I feel so violently seen, so nakedly exposed.
+- [ ] I've been sitting right there for the past 2 hours not being able to take my eyes off of you.
+- [ ] You are wearing that dress like you are doing it a favour.
