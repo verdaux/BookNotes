@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-12T15:01:38+05:30
+modified: 2024-11-12T15:02:01+05:30
 type: Checklist
 ---
 
@@ -70,3 +70,4 @@ type: Checklist
 - [ ] You are wearing that dress like you are doing it a favour.
 - [ ] I like my donuts so fat their holes are closed. Does that make me creepy?
 - [ ] Do not mock a pain you haven't endured.
+- [ ] One never forgets the taste of certain tears.
