@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-14T15:50:31+05:30
+modified: 2024-11-14T16:53:17+05:30
 type: Checklist
 ---
 
@@ -73,3 +73,4 @@ type: Checklist
 - [ ] One never forgets the taste of certain tears.
 - [ ] It's better to travel than it's to arrive.
 - [ ] I am threatened by your presence slightly
+- [ ] You have chosen to decorate yourself like that.
