@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-04T20:31:48+05:30
+modified: 2024-11-14T16:27:20+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] Assorted absurdities
 - [ ] Dork-sided
 - [ ] Unpretzel your brain
+- [ ] Lose the plot
