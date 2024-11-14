@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-14T16:27:32+05:30
+modified: 2024-11-14T16:49:08+05:30
 type: Checklist
 ---
 
@@ -58,4 +58,5 @@ type: Checklist
 - [ ] Dork-sided
 - [ ] Unpretzel your brain
 - [ ] Lose the plot
-- [ ] Cherished treasure 
+- [ ] Cherished treasure
+- [ ] Adore that. It screams money
