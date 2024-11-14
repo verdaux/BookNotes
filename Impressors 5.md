@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-14T16:53:17+05:30
+modified: 2024-11-14T16:54:16+05:30
 type: Checklist
 ---
 
@@ -74,3 +74,4 @@ type: Checklist
 - [ ] It's better to travel than it's to arrive.
 - [ ] I am threatened by your presence slightly
 - [ ] You have chosen to decorate yourself like that.
+- [ ] You've got a vigorous fire of youth in your eyes.
