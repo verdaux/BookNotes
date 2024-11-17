@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-14T19:55:52+05:30
+modified: 2024-11-17T08:42:13+05:30
 type: Checklist
 ---
 
@@ -60,4 +60,5 @@ type: Checklist
 - [ ] Lose the plot
 - [ ] Cherished treasure
 - [ ] Adore that. It screams money
-- [ ] Defy convention 
+- [ ] Defy convention
+- [ ] Thank you for being so delightful
