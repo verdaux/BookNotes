@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-17T08:40:53+05:30
+modified: 2024-11-17T08:44:25+05:30
 type: Checklist
 ---
 
@@ -76,3 +76,4 @@ type: Checklist
 - [ ] You have chosen to decorate yourself like that.
 - [ ] You've got a vigorous fire of youth in your eyes.
 - [ ] I would comfortably sacrifice passing through doorways for that
+- [ ] Thank you for allowing me to set foot in your kingdom 
