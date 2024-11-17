@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-17T08:48:06+05:30
+modified: 2024-11-17T08:51:01+05:30
 type: Checklist
 ---
 
@@ -63,4 +63,5 @@ type: Checklist
 - [ ] Defy convention
 - [ ] Thank you for being so delightful
 - [ ] Empress of your own handbag
-- [ ] Admirable stillness 
+- [ ] Admirable stillness
+- [ ] Best pair of naturally occurring eyebrows
