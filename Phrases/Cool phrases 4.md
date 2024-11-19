@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-17T08:51:01+05:30
+modified: 2024-11-19T10:58:06+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] Empress of your own handbag
 - [ ] Admirable stillness
 - [ ] Best pair of naturally occurring eyebrows
+- [ ] Don't borrow trouble.
