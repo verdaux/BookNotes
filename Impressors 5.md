@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-18T13:05:33+05:30
+modified: 2024-11-19T10:58:46+05:30
 type: Checklist
 ---
 
@@ -78,3 +78,4 @@ type: Checklist
 - [ ] I would comfortably sacrifice passing through doorways for that
 - [ ] Thank you for allowing me to set foot in your kingdom
 - [ ] As a universally liked person, that concerns me.
+- [ ] Green light says it's legal to go. It doesn't mean it's safe to go
