@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-19T12:04:00+05:30
+modified: 2024-11-21T14:20:05+05:30
 type: Checklist
 ---
 
@@ -80,3 +80,4 @@ type: Checklist
 - [ ] As a universally liked person, that concerns me.
 - [ ] Green light says it's legal to go. It doesn't mean it's safe to go
 - [ ] Victory is celebrated in light, but it is won in the darkness.
+- [ ] Those who play for applause, that's all they get
