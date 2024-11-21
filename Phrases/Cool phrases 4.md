@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-19T10:58:06+05:30
+modified: 2024-11-21T14:13:37+05:30
 type: Checklist
 ---
 
@@ -66,3 +66,4 @@ type: Checklist
 - [ ] Admirable stillness
 - [ ] Best pair of naturally occurring eyebrows
 - [ ] Don't borrow trouble.
+- [ ] Deep rivers run quiet
