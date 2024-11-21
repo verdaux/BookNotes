@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T20:23:35+05:30
-modified: 2024-11-21T14:20:05+05:30
+modified: 2024-11-21T14:22:03+05:30
 type: Checklist
 ---
 
@@ -81,3 +81,4 @@ type: Checklist
 - [ ] Green light says it's legal to go. It doesn't mean it's safe to go
 - [ ] Victory is celebrated in light, but it is won in the darkness.
 - [ ] Those who play for applause, that's all they get
+- [ ] I got a serious lust for sushi
