@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-21T14:13:37+05:30
+modified: 2024-11-26T10:14:03+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,4 @@ type: Checklist
 - [ ] Best pair of naturally occurring eyebrows
 - [ ] Don't borrow trouble.
 - [ ] Deep rivers run quiet
+- [ ] Prince among the non-princelys
