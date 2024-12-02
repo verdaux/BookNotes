@@ -1,6 +1,6 @@
 ---
 created: 2024-05-04T06:29:34+05:30
-modified: 2024-11-26T10:14:03+05:30
+modified: 2024-12-02T23:36:43+05:30
 type: Checklist
 ---
 
@@ -68,3 +68,4 @@ type: Checklist
 - [ ] Don't borrow trouble.
 - [ ] Deep rivers run quiet
 - [ ] Prince among the non-princelys
+- [ ] Beautiful women are lonely
