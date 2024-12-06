@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-04T23:20:25+05:30
+modified: 2024-12-06T09:57:00+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Once I start liking you, you need to stay away from me.
 - [ ] I grew up watching jlo, now I'm older than jlo
 - [ ] Puts the sher in sherwani
+- [ ] Competing with Paul Rudd's age
