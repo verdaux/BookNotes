@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-06T09:57:00+05:30
+modified: 2024-12-06T23:00:18+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] I grew up watching jlo, now I'm older than jlo
 - [ ] Puts the sher in sherwani
 - [ ] Competing with Paul Rudd's age
+- [ ] Lead character in my imaginary mockumentary.
