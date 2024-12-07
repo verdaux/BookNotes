@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T22:18:57+05:30
-modified: 2024-12-07T22:19:38+05:30
+modified: 2024-12-07T22:24:15+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,5 @@ type: Checklist
 
 - [ ] Wonderfully shaped head
 - [ ] Live up to the hype
+- [ ] Gorgeous collection of brown
+- [ ] They are lucky to be in your presence
