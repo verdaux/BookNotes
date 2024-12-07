@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T22:18:57+05:30
-modified: 2024-12-07T22:45:17+05:30
+modified: 2024-12-07T22:47:19+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Such a treat for the eyes.
 - [ ] Enigmatic and snazzy
 - [ ] Hot champion
+- [ ] Effortless glamour
