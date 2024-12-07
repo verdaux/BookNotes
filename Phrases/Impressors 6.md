@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-07T22:42:37+05:30
+modified: 2024-12-07T22:43:37+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Lead character in my imaginary mockumentary.
 - [ ] Your dark clothes laugh in the face of the sun.
 - [ ] You look like the hip version of Louis Vuitton models
+- [ ] You've won me over with your timeless charm
