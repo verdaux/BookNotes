@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T22:18:57+05:30
-modified: 2024-12-07T22:40:55+05:30
+modified: 2024-12-07T22:44:53+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Sartorial elegance
 - [ ] Incredibly endearing
 - [ ] Such a treat for the eyes.
+- [ ] Enigmatic and snazzy
