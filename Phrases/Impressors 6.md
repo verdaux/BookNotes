@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-07T22:46:30+05:30
+modified: 2024-12-08T22:18:05+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] You've won me over with your timeless charm
 - [ ] They give you an air of intellectual capacity.
 - [ ] You've made the idea of (doing an act) highly enticing
+- [ ] Anonymity is a borderline superpower
