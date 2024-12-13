@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-08T22:18:05+05:30
+modified: 2024-12-13T16:38:03+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] They give you an air of intellectual capacity.
 - [ ] You've made the idea of (doing an act) highly enticing
 - [ ] Anonymity is a borderline superpower
+- [ ] Looks fine as hell in a kurta
