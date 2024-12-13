@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-13T17:50:29+05:30
+modified: 2024-12-13T17:56:16+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Anonymity is a borderline superpower
 - [ ] Looks fine as hell in a kurta
 - [ ] Those who lack the courage will always find a philosophy to justify it - Albert Camus
+- [ ] You entered through a wound and spread across my veins.
