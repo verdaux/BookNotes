@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-14T09:21:14+05:30
+modified: 2024-12-14T23:07:45+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Those who lack the courage will always find a philosophy to justify it - Albert Camus
 - [ ] You entered through a wound and spread across my veins.
 - [ ] I was looked at, but I was never seen - Albert Camus
+- [ ] I barely knew I had skin before I met you.
