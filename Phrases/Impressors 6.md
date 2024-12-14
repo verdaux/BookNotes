@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-14T23:07:45+05:30
+modified: 2024-12-14T23:08:16+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] You entered through a wound and spread across my veins.
 - [ ] I was looked at, but I was never seen - Albert Camus
 - [ ] I barely knew I had skin before I met you.
+- [ ] How do I look away now that I've seen you?
