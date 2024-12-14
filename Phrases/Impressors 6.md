@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-14T23:08:16+05:30
+modified: 2024-12-14T23:08:57+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] I was looked at, but I was never seen - Albert Camus
 - [ ] I barely knew I had skin before I met you.
 - [ ] How do I look away now that I've seen you?
+- [ ] The world is too quiet without you nearby.
