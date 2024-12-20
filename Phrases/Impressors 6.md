@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-20T15:42:38+05:30
+modified: 2024-12-20T22:50:45+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Here I bought you flowers... They needed sunshine so you were the obvious choice.
 - [ ] Has anything you have done made your life better?
 - [ ] I wish I knew how to quit you.
+- [ ] I'm the "nagma nagma" to your "kalma kalma".
