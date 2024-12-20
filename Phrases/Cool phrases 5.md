@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T22:18:57+05:30
-modified: 2024-12-07T22:47:19+05:30
+modified: 2024-12-20T10:40:30+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Enigmatic and snazzy
 - [ ] Hot champion
 - [ ] Effortless glamour
+- [ ] Scheming and dreaming
