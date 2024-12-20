@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-14T23:37:58+05:30
+modified: 2024-12-20T15:42:38+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] The world is too quiet without you nearby.
 - [ ] Here I bought you flowers... They needed sunshine so you were the obvious choice.
 - [ ] Has anything you have done made your life better?
+- [ ] I wish I knew how to quit you.
