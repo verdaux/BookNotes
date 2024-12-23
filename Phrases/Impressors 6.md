@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-20T22:50:45+05:30
+modified: 2024-12-23T19:14:18+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Has anything you have done made your life better?
 - [ ] I wish I knew how to quit you.
 - [ ] I'm the "nagma nagma" to your "kalma kalma".
+- [ ] I'm a collection of dismantled almosts.
