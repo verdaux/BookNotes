@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-23T19:14:18+05:30
+modified: 2024-12-24T12:40:37+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] I wish I knew how to quit you.
 - [ ] I'm the "nagma nagma" to your "kalma kalma".
 - [ ] I'm a collection of dismantled almosts.
+- [ ] Detail oriented while also seeing the big picture.
