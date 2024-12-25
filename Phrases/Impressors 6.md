@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-24T12:40:37+05:30
+modified: 2024-12-25T11:14:51+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] I'm the "nagma nagma" to your "kalma kalma".
 - [ ] I'm a collection of dismantled almosts.
 - [ ] Detail oriented while also seeing the big picture.
+- [ ] The bank account is looking rather grim.
