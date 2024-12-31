@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-29T16:17:42+05:30
+modified: 2024-12-31T17:11:25+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] The bank account is looking rather grim.
 - [ ] I'm upset that you are this pretty in person
 - [ ] A human, disguised as a book shop.
+- [ ] Some souls touch you more than hands ever could.
