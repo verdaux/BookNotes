@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2024-12-31T17:11:25+05:30
+modified: 2024-12-31T17:13:06+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] I'm upset that you are this pretty in person
 - [ ] A human, disguised as a book shop.
 - [ ] Some souls touch you more than hands ever could.
+- [ ] I am a burden on my own heart.
