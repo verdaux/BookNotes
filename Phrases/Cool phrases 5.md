@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T22:18:57+05:30
-modified: 2024-12-31T17:10:23+05:30
+modified: 2025-01-03T08:02:56+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Scheming and dreaming
 - [ ] Ae zindagi galaa dabaade
 - [ ] A man made of dreams
+- [ ] That, normally does the trick
