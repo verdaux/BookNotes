@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-01-24T14:43:44+05:30
+modified: 2025-01-25T20:38:35+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,5 @@ type: Checklist
 - [ ] Cursory attempt to oppose
 - [ ] Sea of confusion 
 - [ ] Interminable amount [of something]
+- [ ] Stay out of harm's way
+- [ ] Make almost edible food
