@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-01-25T20:38:35+05:30
+modified: 2025-01-26T01:28:35+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Interminable amount [of something]
 - [ ] Stay out of harm's way
 - [ ] Make almost edible food
+- [ ] Hypnotized by a strange delight
