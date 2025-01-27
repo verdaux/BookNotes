@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-01-26T22:03:09+05:30
+modified: 2025-01-27T18:45:18+05:30
 type: Checklist
 ---
 
@@ -21,4 +21,7 @@ type: Checklist
 - [ ] Stay out of harm's way
 - [ ] Make almost edible food
 - [ ] Hypnotized by a strange delight
-- [ ] Incurably romantic imagination 
+- [ ] Incurably romantic imagination
+- [ ] Self-congratulatory
+- [ ] Sizable portion 
+- [ ] Repeated discovery
