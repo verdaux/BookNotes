@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:56:40+05:30
-modified: 2025-01-30T16:57:08+05:30
+modified: 2025-01-30T16:58:16+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,4 @@ type: Checklist
 
 - [ ] Sekigahara
 - [ ] Mount Ibuki
+- [ ] Tarui - a small town
