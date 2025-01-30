@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-01-30T16:52:02+05:30
+modified: 2025-01-30T16:54:19+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Shimazu - western army
 - [ ] Konishi - western army
 - [ ] Tokugawa Ieyasu
+- [ ] Matahachi - Takezō's best friend
