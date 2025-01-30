@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-01-30T17:01:35+05:30
+modified: 2025-01-30T17:03:11+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Matahachi - Takezō's best friend
 - [ ] Munisai - Takezō's father
 - [ ] Lord Shimmen of Iga - Munisai's Lord
+- [ ] Otsu - Matahachi's fiancee
