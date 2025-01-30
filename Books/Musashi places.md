@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:56:40+05:30
-modified: 2025-01-30T22:52:17+05:30
+modified: 2025-01-30T22:52:39+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Tarui - a small town
 - [ ] Shimmen encampment - where Takezo reaches after running from village
 - [ ] Mount Fuwa - T and M crossed hills after encountering strange girl
+- [ ] Tarui - some market
