@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-01-30T22:40:33+05:30
+modified: 2025-01-30T22:50:29+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,5 @@ type: Checklist
 - [ ] Munisai - Takezō's father
 - [ ] Lord Shimmen of Iga - Munisai's Lord
 - [ ] Otsu - Matahachi's fiancee
+- [ ] Akemi - farmhouse girl who let T & M in also strange girl in dark
+- [ ] Oko - Akemi's mother
