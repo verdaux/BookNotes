@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-01-24T14:27:09+05:30
+modified: 2025-02-01T20:48:07+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] I am a burden on my own heart.
 - [ ] Javier loved clothes. Unfortunately, he loved stuff more.
 - [ ] Not anywhere near the gifted spectrum about solving problems.
+- [ ] They couldn't agree on the colour of the sky
