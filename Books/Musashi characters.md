@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-01-30T22:50:29+05:30
+modified: 2025-02-01T20:48:30+05:30
 type: Checklist
 ---
 
@@ -9,7 +9,7 @@ type: Checklist
 - [ ] Takezō - chapter 1 - the little Bell - wounded warrior 
 - [ ] Kobayakawa Hideaki - ally of the eastern army (2 faced)
 - [ ] Ishida Mitsunari - Eastern army Lord general 
-- [ ] Ukita - western army
+- [ ] General Ukita - western army
 - [ ] Shimazu - western army
 - [ ] Konishi - western army
 - [ ] Tokugawa Ieyasu - Edo Daimyo
