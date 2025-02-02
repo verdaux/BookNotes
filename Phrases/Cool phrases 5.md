@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-02T15:56:06+05:30
+modified: 2025-02-02T16:35:04+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Sizable portion 
 - [ ] Repeated discovery
 - [ ] Wounded pride
+- [ ] Creature of extremes
