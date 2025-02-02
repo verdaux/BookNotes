@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-02-02T16:07:04+05:30
+modified: 2025-02-02T16:45:46+05:30
 type: Checklist
 ---
 
@@ -19,6 +19,7 @@ type: Checklist
 - [ ] Otsu - Matahachi's fiancee
 - [ ] Akemi - farmhouse girl who let T & M in also strange girl in dark
 - [ ] Oko - Akemi's mother
-- [ ] Tsujikaze from Fuwa - collector
+- [ ] Tsujikaze Temma from Fuwa - collector
 - [ ] Arima Kihei - wandering swordsman
-- [ ] Ogin - Takezo's older sister 
+- [ ] Ogin - Takezo's older sister
+- [ ] Tsujikaze Kōhei - Temma''s younger  brother
