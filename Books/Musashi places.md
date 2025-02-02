@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:56:40+05:30
-modified: 2025-02-02T16:05:28+05:30
+modified: 2025-02-02T16:50:25+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Tarui - some market
 - [ ] Miyamoto - origin place for T & M
 - [ ] Harima province - Takezo's mothers new home
+- [ ] Yasugawa in Kiso - Tsujikaze Kohei's place
