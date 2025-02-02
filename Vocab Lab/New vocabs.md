@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T15:54:19+05:30
-modified: 2025-02-02T16:01:27+05:30
+modified: 2025-02-02T16:01:49+05:30
 type: Journal
 ---
 
@@ -13,3 +13,10 @@ Noun: martinet
 Derived
 
 Adjective: martinetish
+
+Verb: covet
+|kú-vut|
+	Wish, long, or crave for (something, especially the property of another person) • She covets her sister's house
+Derived
+
+Adjective: covetable, coveted
