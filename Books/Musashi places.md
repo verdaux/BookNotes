@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:56:40+05:30
-modified: 2025-02-02T16:50:25+05:30
+modified: 2025-02-02T22:21:03+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Miyamoto - origin place for T & M
 - [ ] Harima province - Takezo's mothers new home
 - [ ] Yasugawa in Kiso - Tsujikaze Kohei's place
+- [ ] Mimasaka highroad - led up from Tatsuno in Harima province
