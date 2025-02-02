@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T15:54:19+05:30
-modified: 2025-02-02T16:09:22+05:30
+modified: 2025-02-02T16:10:26+05:30
 type: Journal
 ---
 
@@ -64,3 +64,16 @@ Adjective: sublimed
 
 Adverb: sublimely
 ---------
+
+Verb: unfetter
+|,ún'fe-tur|
+	To free from restraint; unchain or unshackle; liberate • The new policy aims to unfetter small businesses from excessive regulations
+Derived
+
+Noun: fetter
+
+Verb: fetter
+
+Adjective: unfettered
+
+--------
