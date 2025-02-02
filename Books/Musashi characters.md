@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-02-01T20:53:34+05:30
+modified: 2025-02-02T16:06:02+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Akemi - farmhouse girl who let T & M in also strange girl in dark
 - [ ] Oko - Akemi's mother
 - [ ] Tsujikaze from Fuwa - collector
+- [ ] Arima Kihei - wandering swordsman
