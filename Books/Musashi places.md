@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:56:40+05:30
-modified: 2025-02-02T15:58:15+05:30
+modified: 2025-02-02T16:05:28+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Mount Fuwa - T and M crossed hills after encountering strange girl
 - [ ] Tarui - some market
 - [ ] Miyamoto - origin place for T & M
+- [ ] Harima province - Takezo's mothers new home
