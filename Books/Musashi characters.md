@@ -1,6 +1,6 @@
 ---
 created: 2025-01-30T16:47:38+05:30
-modified: 2025-02-02T16:06:02+05:30
+modified: 2025-02-02T16:07:04+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Oko - Akemi's mother
 - [ ] Tsujikaze from Fuwa - collector
 - [ ] Arima Kihei - wandering swordsman
+- [ ] Ogin - Takezo's older sister 
