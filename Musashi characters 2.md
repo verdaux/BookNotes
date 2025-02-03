@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T22:28:39+05:30
-modified: 2025-02-03T21:08:18+05:30
+modified: 2025-02-03T21:10:17+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Fujiwara no Michinaga - regent
 - [ ] Ogin - Takezo's sister
 - [ ] Osugi Hon'iden- Matahachi's mother
+- [ ] Heita Hon'iden - Osugi's grandson
