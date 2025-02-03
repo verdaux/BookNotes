@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-02T16:39:55+05:30
+modified: 2025-02-03T08:46:20+05:30
 type: Checklist
 ---
 
@@ -27,4 +27,5 @@ type: Checklist
 - [ ] Repeated discovery
 - [ ] Wounded pride
 - [ ] Creature of extremes
-- [ ] Sheer animal ecstasy 
+- [ ] Sheer animal ecstasy
+- [ ] Noble, land mermaid 
