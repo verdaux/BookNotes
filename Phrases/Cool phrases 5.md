@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-03T08:46:20+05:30
+modified: 2025-02-03T14:11:51+05:30
 type: Checklist
 ---
 
@@ -28,4 +28,6 @@ type: Checklist
 - [ ] Wounded pride
 - [ ] Creature of extremes
 - [ ] Sheer animal ecstasy
-- [ ] Noble, land mermaid 
+- [ ] Noble, land mermaid
+- [ ] Shame based religion 
+- [ ] Predatory gleam
