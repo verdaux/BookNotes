@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-02-03T20:42:47+05:30
+modified: 2025-02-04T16:31:33+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] They couldn't agree on the colour of the sky
 - [ ] Something as wild as it was pure
 - [ ] When a clown moves into a palace, he doesn't become a king. The palace becomes a circus. - Turkish Proverb
+- [ ] Abject to the point of being comical 
