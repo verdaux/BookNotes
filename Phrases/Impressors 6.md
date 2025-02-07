@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-02-07T16:54:07+05:30
+modified: 2025-02-07T17:04:35+05:30
 type: Checklist
 ---
 
@@ -46,4 +46,5 @@ type: Checklist
 - [ ] what tragedy happened in your life that you insist upon punishing yourself with all this... mediocrity?
 - [ ] I hope you enjoy the, uh,
 - [ ] A sense of peace flowed in my heart like a gentle river
+- [ ] Lose the jerk but keep the perks 
 choices that you've made.
