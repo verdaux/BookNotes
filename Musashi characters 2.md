@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T22:28:39+05:30
-modified: 2025-02-07T16:40:32+05:30
+modified: 2025-02-07T16:45:16+05:30
 type: Checklist
 ---
 
@@ -12,4 +12,4 @@ type: Checklist
 - [ ] Osugi Hon'iden- Matahachi's mother
 - [ ] Heita Hon'iden - Osugi's grandson
 - [ ] Ikeda Terumasa - Lord of Himeji Castle
-- [ ] Gon Fuchikawa - Matahachi Hon'iden's uncle 
+- [ ] Gonroku Fuchikawa - Matahachi Hon'iden's uncle
