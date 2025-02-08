@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-02-08T11:20:12+05:30
+modified: 2025-02-08T16:47:09+05:30
 type: Checklist
 ---
 
@@ -49,4 +49,5 @@ type: Checklist
 - [ ] Lose the jerk but keep the perks 
 - [ ] A child had no sense of finality or infinity 
 - [ ] We are preconditioned to follow the behaviours of our peers.
+- [ ] I find that my heart sees more than before
 choices that you've made.
