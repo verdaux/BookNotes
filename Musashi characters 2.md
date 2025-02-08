@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T22:28:39+05:30
-modified: 2025-02-07T16:45:16+05:30
+modified: 2025-02-08T16:40:11+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Heita Hon'iden - Osugi's grandson
 - [ ] Ikeda Terumasa - Lord of Himeji Castle
 - [ ] Gonroku Fuchikawa - Matahachi Hon'iden's uncle
+- [ ] Akamatsu Masanori - Shimmen Lord of Himeji Castle previously 
