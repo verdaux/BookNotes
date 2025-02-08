@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-02-07T17:04:35+05:30
+modified: 2025-02-08T10:10:04+05:30
 type: Checklist
 ---
 
@@ -47,4 +47,5 @@ type: Checklist
 - [ ] I hope you enjoy the, uh,
 - [ ] A sense of peace flowed in my heart like a gentle river
 - [ ] Lose the jerk but keep the perks 
+- [ ] A child had no sense of finality or infinity 
 choices that you've made.
