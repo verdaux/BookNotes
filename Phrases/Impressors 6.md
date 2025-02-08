@@ -1,6 +1,6 @@
 ---
 created: 2024-11-21T14:23:30+05:30
-modified: 2025-02-08T10:10:04+05:30
+modified: 2025-02-08T11:20:12+05:30
 type: Checklist
 ---
 
@@ -48,4 +48,5 @@ type: Checklist
 - [ ] A sense of peace flowed in my heart like a gentle river
 - [ ] Lose the jerk but keep the perks 
 - [ ] A child had no sense of finality or infinity 
+- [ ] We are preconditioned to follow the behaviours of our peers.
 choices that you've made.
