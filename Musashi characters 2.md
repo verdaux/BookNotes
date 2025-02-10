@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T22:28:39+05:30
-modified: 2025-02-10T16:01:47+05:30
+modified: 2025-02-10T16:02:24+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Akamatsu Masanori - Shimmen Lord of Himeji Castle previously
 - [ ] Aoki Tanzaemon - Scraggy Beard
 - [ ] Yoshioka Kempon - sword teacher for Ashikaga shogunate
+- [ ] Seijuro and Denshichiro - children of Yoshioka 
