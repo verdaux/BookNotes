@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-03T14:11:51+05:30
+modified: 2025-02-10T16:18:23+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Noble, land mermaid
 - [ ] Shame based religion 
 - [ ] Predatory gleam
+- [ ] Eloquent rebuke
