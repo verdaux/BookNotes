@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-10T18:20:38+05:30
+modified: 2025-02-11T16:04:21+05:30
 type: Checklist
 ---
 
@@ -32,4 +32,5 @@ type: Checklist
 - [ ] Shame based religion 
 - [ ] Predatory gleam
 - [ ] Eloquent rebuke
-- [ ] Loophole-abusing monster 
+- [ ] Loophole-abusing monster
+- [ ] Hopes dashed to smithereens
