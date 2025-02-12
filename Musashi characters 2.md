@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02T22:28:39+05:30
-modified: 2025-02-10T16:07:25+05:30
+modified: 2025-02-12T16:23:24+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,6 @@ type: Checklist
 - [ ] Toyotomi Hideyoshi , Nobunaga's shogun
 - [ ] Hidetada - Ieyasu's 3rd son and successor 
 - [ ] Toyotomi Hideyori - son of Hideyoshi
+- [ ] Yagyu Muneyoshi (Sekishusai) - lord of Koyagyu
+- [ ] Munenori - son or Muneyoshi - Lord of Tajima
+- [ ] Shoda Kizaemon - server in the Yagyu house
