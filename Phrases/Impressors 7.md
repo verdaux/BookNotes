@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-02-14T17:34:21+05:30
+modified: 2025-02-14T17:43:34+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] I broke a grown man that day.
 - [ ] What a tough way to go through life.
 - [ ] Name a neurological disease after me when I die
+- [ ] Born at the time of Crosshairs of internet and puberty
