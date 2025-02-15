@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-14T17:43:54+05:30
+modified: 2025-02-15T11:49:41+05:30
 type: Checklist
 ---
 
@@ -35,4 +35,6 @@ type: Checklist
 - [ ] Loophole-abusing monster
 - [ ] Hopes dashed to smithereens
 - [ ] Fame has changed you
-- [ ] Doctorate in patience 
+- [ ] Doctorate in patience
+- [ ] Relentlessly profound 
+- [ ] Morally bankrupt 
