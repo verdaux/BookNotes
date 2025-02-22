@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-02-22T17:18:37+05:30
+modified: 2025-02-22T17:34:28+05:30
 type: Checklist
 ---
 
@@ -18,4 +18,5 @@ type: Checklist
 - [ ] What a tough way to go through life.
 - [ ] Name a neurological disease after me when I die
 - [ ] Born at the time of Crosshairs of internet and puberty
-- [ ] You have lost nothing in your sexiness by being so elegant 
+- [ ] You have lost nothing in your sexiness by being so elegant
+- [ ] I don't wanna be dancing in front of all these witnesses 
