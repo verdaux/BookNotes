@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-15T11:49:41+05:30
+modified: 2025-02-24T16:12:46+05:30
 type: Checklist
 ---
 
@@ -37,4 +37,6 @@ type: Checklist
 - [ ] Fame has changed you
 - [ ] Doctorate in patience
 - [ ] Relentlessly profound 
-- [ ] Morally bankrupt 
+- [ ] Morally bankrupt
+- [ ] Gorgeous bunch of people 
+- [ ] The overwhelmed and the terrified 
