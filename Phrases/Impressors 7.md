@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-02-27T16:44:31+05:30
+modified: 2025-02-27T16:56:08+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] You have lost nothing in your sexiness by being so elegant
 - [ ] I don't wanna be dancing in front of all these witnesses
 - [ ] It's free. And that's the most important thing for me. Because I'm broke.
+- [ ] I wish I had bought the Microsoft stock in the 80s. The only problem is I wasn't born yet.
