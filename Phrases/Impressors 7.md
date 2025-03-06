@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-03-06T15:03:46+05:30
+modified: 2025-03-06T15:10:19+05:30
 type: Checklist
 ---
 
@@ -10,7 +10,7 @@ type: Checklist
 - [ ] Loophole-abusing monster
 - [ ] Fight through self-centred haze
 - [ ] It might be a problem, we don't know yet
-- [ ] What kind of browken monster hates music?
+- [ ] What kind of broken monster hates music?
 - [ ] Smash my dick with a hammer
 - [ ] [when someone calls you ugly]... and you're stupid. Don't we make a pair? Frankly, I'd be ugly rather than stupid.
 - [ ] New guy? I don't respect that smell.
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] It's free. And that's the most important thing for me. Because I'm broke.
 - [ ] I wish I had bought the Microsoft stock in the 80s. The only problem is I wasn't born yet.
 - [ ] I am not immune to kind words, especially when they are so true.
+- [ ] I thought we were having a state the obvious contest. I am very competitive by Nature.
