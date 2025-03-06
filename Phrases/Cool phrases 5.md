@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-02-24T16:12:46+05:30
+modified: 2025-03-06T15:00:05+05:30
 type: Checklist
 ---
 
@@ -39,4 +39,5 @@ type: Checklist
 - [ ] Relentlessly profound 
 - [ ] Morally bankrupt
 - [ ] Gorgeous bunch of people 
-- [ ] The overwhelmed and the terrified 
+- [ ] The overwhelmed and the terrified
+- [ ] Heartbreaking work of a staggering genius 
