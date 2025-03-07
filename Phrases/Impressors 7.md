@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-03-06T15:10:19+05:30
+modified: 2025-03-07T14:48:39+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] I wish I had bought the Microsoft stock in the 80s. The only problem is I wasn't born yet.
 - [ ] I am not immune to kind words, especially when they are so true.
 - [ ] I thought we were having a state the obvious contest. I am very competitive by Nature.
+- [ ] Twitter turned into the opposite of a prayer circle
