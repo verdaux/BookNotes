@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-03-06T15:00:05+05:30
+modified: 2025-03-07T14:48:02+05:30
 type: Checklist
 ---
 
@@ -40,4 +40,6 @@ type: Checklist
 - [ ] Morally bankrupt
 - [ ] Gorgeous bunch of people 
 - [ ] The overwhelmed and the terrified
-- [ ] Heartbreaking work of a staggering genius 
+- [ ] Heartbreaking work of a staggering genius
+- [ ] Support network
+- [ ] Isolation manoeuvre 
