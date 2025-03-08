@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2024-08-28T21:52:07+05:30
+modified: 2025-03-08T16:51:23+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] What fresh hell is this?
 - [ ] I know 5 bad painters, you are 4 of them
 - [ ] You know there's a world outside your head too. Yes?
+- [ ] One of the best things you did for society is you didn't have kids
