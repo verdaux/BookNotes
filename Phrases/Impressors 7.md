@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-03-07T14:48:39+05:30
+modified: 2025-03-09T22:11:49+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] I am not immune to kind words, especially when they are so true.
 - [ ] I thought we were having a state the obvious contest. I am very competitive by Nature.
 - [ ] Twitter turned into the opposite of a prayer circle
+- [ ] It's hard not to know what you mean. Especially, when you are so subtle about it.
