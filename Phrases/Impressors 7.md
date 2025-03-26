@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-03-09T22:11:49+05:30
+modified: 2025-03-26T09:31:31+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] I thought we were having a state the obvious contest. I am very competitive by Nature.
 - [ ] Twitter turned into the opposite of a prayer circle
 - [ ] It's hard not to know what you mean. Especially, when you are so subtle about it.
+- [ ] First of her name. Destroyer of trouser snakes.
