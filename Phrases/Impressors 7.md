@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-04T18:57:40+05:30
+modified: 2025-04-04T18:58:00+05:30
 type: Checklist
 ---
 
@@ -30,4 +30,4 @@ type: Checklist
 - [ ] Progress died of unnatural causes.
 - [ ] Itne positive k macchhar kaat le, toh kehtr hai ki chalo pet toh bhara uska
 - [ ] Well, hang a banner. Father of the year.
-- [ ] You can knock on a deaf man's door forever. - Nikos Kazantkas
+- [ ] You can knock on a deaf man's door forever. - Nikos Kazantzakis
