@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-07T22:19:54+05:30
+modified: 2025-04-07T23:38:26+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,5 @@ type: Checklist
 - [ ] The beginning of genius is being scared shitless - Louis Ferdinand Celine
 - [ ] Don't set yourself on fire to keep others warm.
 - [ ] Stop worrying about the love you didn't get - The white Lotus
+- [ ] I wanted to be on the right side of history
+- [ ] Wanted to tap into my inner hero
