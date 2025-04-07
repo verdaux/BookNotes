@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-06T15:05:41+05:30
+modified: 2025-04-07T22:19:54+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] You can knock on a deaf man's door forever. - Nikos Kazantzakis
 - [ ] The beginning of genius is being scared shitless - Louis Ferdinand Celine
 - [ ] Don't set yourself on fire to keep others warm.
+- [ ] Stop worrying about the love you didn't get - The white Lotus
