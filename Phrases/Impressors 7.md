@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-07T23:38:26+05:30
+modified: 2025-04-08T21:20:14+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] Stop worrying about the love you didn't get - The white Lotus
 - [ ] I wanted to be on the right side of history
 - [ ] Wanted to tap into my inner hero
+- [ ] Thank you for sharing your perspective. When you are open to hearing mine, I can share it.
