@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-04-01T14:00:44+05:30
+modified: 2025-04-11T18:43:37+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Support network
 - [ ] Isolation manoeuvre
 - [ ] Slutty coward
+- [ ] Reckless immediacy
