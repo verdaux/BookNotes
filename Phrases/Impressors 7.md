@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-08T21:20:14+05:30
+modified: 2025-04-16T16:06:54+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] I wanted to be on the right side of history
 - [ ] Wanted to tap into my inner hero
 - [ ] Thank you for sharing your perspective. When you are open to hearing mine, I can share it.
+- [ ] This was identified early on as a likely outcome - corporate for I told you so
