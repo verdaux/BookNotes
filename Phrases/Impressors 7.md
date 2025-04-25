@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-04-16T16:06:54+05:30
+modified: 2025-04-25T18:27:31+09:00
 type: Checklist
 ---
 
@@ -38,3 +38,5 @@ type: Checklist
 - [ ] Wanted to tap into my inner hero
 - [ ] Thank you for sharing your perspective. When you are open to hearing mine, I can share it.
 - [ ] This was identified early on as a likely outcome - corporate for I told you so
+- [ ] It's like a ghost. Everyone I know has seen one but I haven't.
+- [ ] Why is there never a Tsunami when you need one?
