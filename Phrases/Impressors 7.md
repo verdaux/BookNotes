@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-06T10:23:05+05:30
+modified: 2025-05-10T14:17:09+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Why is there never a Tsunami when you need one?
 - [ ] Itne toh mere mein faayde bhi nahi hai jitna log utha lete hai.
 - [ ] Until the Lion learns to write, every story will glorify the hunter.
+- [ ] Teenage boys suddenly understood what hormones were
