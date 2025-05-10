@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-10T14:17:09+05:30
+modified: 2025-05-10T14:18:36+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] Itne toh mere mein faayde bhi nahi hai jitna log utha lete hai.
 - [ ] Until the Lion learns to write, every story will glorify the hunter.
 - [ ] Teenage boys suddenly understood what hormones were
+- [ ] She was a girl next door if your neighborhood was located in a fantasy place where dragons wore leather jackets.
