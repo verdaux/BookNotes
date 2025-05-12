@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-12T18:29:25+05:30
+modified: 2025-05-12T18:33:33+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] Teenage boys suddenly understood what hormones were
 - [ ] She was a girl next door if your neighborhood was located in a fantasy place where dragons wore leather jackets.
 - [ ] Some unlovely portrait of a goddess misremembered.
+- [ ] I'll adore you, as a drowned person does the sea.
