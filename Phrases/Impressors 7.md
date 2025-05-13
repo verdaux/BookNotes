@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-12T18:34:38+05:30
+modified: 2025-05-13T15:28:51+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] Some unlovely portrait of a goddess misremembered.
 - [ ] I'll adore you, as a drowned person does the sea.
 - [ ] How do we tell the sea that we are drowning on land?
+- [ ] You go your way. I'll go your way too. - Leonard Cohen, book of longings.
