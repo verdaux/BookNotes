@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-13T15:38:13+05:30
+modified: 2025-05-16T22:35:03+05:30
 type: Checklist
 ---
 
@@ -49,4 +49,5 @@ type: Checklist
 - [ ] How do we tell the sea that we are drowning on land?
 - [ ] You go your way. I'll go your way too. - Leonard Cohen, book of longings.
 - [ ] You are still my most favourite, most painful story to tell.
-- [ ] I am nowhere. I have left my world behind, and have not yet found another. That is the tragic adventure. I have departed but not yet arrived. - Jean Marie G Le Clezio ,The book of flights, 
+- [ ] I am nowhere. I have left my world behind, and have not yet found another. That is the tragic adventure. I have departed but not yet arrived. - Jean Marie G Le Clezio ,The book of flights,
+- [ ] She was voted most likely to take over the world, by us.
