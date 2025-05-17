@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-04-21T23:17:08+05:30
+modified: 2025-05-17T21:59:44+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] Reckless immediacy
 - [ ] Hits all the pleasure centres
 - [ ] Positively rhapsodic
+- [ ] Yearly reminder that I'm hot 
