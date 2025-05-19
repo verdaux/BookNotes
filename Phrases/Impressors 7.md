@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-16T22:35:03+05:30
+modified: 2025-05-19T10:59:39+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] You are still my most favourite, most painful story to tell.
 - [ ] I am nowhere. I have left my world behind, and have not yet found another. That is the tragic adventure. I have departed but not yet arrived. - Jean Marie G Le Clezio ,The book of flights,
 - [ ] She was voted most likely to take over the world, by us.
+- [ ] You're not asking but you look stunning
