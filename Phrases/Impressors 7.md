@@ -1,6 +1,6 @@
 ---
 created: 2025-02-08T16:47:37+05:30
-modified: 2025-05-24T00:33:39+05:30
+modified: 2025-06-02T16:15:48+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,5 @@ type: Checklist
 - [ ] She was voted most likely to take over the world, by us.
 - [ ] You're not asking but you look stunning
 - [ ] The poor die defending the border. The rich cross them for vacation.
+- [ ] No miseries big enough to complain about.
+- [ ] As a member of the non-tattooed community, I have to ask how does it feel?
