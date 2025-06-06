@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-06-06T23:10:27+05:30
+modified: 2025-06-06T23:18:33+05:30
 type: Checklist
 ---
 
@@ -8,4 +8,5 @@ type: Checklist
 
 - [ ] Soul searching questions
 - [ ] Trespassing with music
-- [ ] Gatekeeper of genres 
+- [ ] Gatekeeper of genres
+- [ ] Spend all their ammunition
