@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-08T16:08:42+05:30
+modified: 2025-06-08T16:19:46+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] I dislike walking in the rain but I'm also strongly against taking out my umbrella from my backpack.
 - [ ] I will always adore the part of myself that wants what doesn't want me.
 - [ ] Debating dumping my hot tea over my head.
+- [ ] Exercise my right to publicly photo booth.
