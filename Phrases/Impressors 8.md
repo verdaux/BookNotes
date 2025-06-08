@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-08T16:19:46+05:30
+modified: 2025-06-08T22:40:05+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] I will always adore the part of myself that wants what doesn't want me.
 - [ ] Debating dumping my hot tea over my head.
 - [ ] Exercise my right to publicly photo booth.
+- [ ] 100% of the People with Taylor Swift lyrics tattoos agree that I got a punchable face.
