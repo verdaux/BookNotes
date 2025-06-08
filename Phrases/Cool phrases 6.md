@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-06-08T16:15:18+05:30
+modified: 2025-06-08T16:23:45+05:30
 type: Checklist
 ---
 
@@ -13,4 +13,5 @@ type: Checklist
 - [ ] Crisis of confidence
 - [ ] Dimly aware
 - [ ] Vulgar bragging
-- [ ] Your lore is crazy 
+- [ ] Your lore is crazy
+- [ ] At long last
