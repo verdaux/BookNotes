@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-08T16:04:11+05:30
+modified: 2025-06-08T16:05:15+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Music makes you slip in and out of identities.
 - [ ] What's a memory from your past that still makes you feel good.
 - [ ] I dislike walking in the rain but I'm also strongly against taking out my umbrella from my backpack.
+- [ ] I will always adore the part of me that wants what doesn't want me.
