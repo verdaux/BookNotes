@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-09T21:34:50+05:30
+modified: 2025-06-12T11:31:26+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Exercise my right to publicly photo booth.
 - [ ] 100% of the People with Taylor Swift lyrics tattoos agree that I got a punchable face.
 - [ ] I am in the mood to dissolve into the sky.
+- [ ] I worshiped the myth I made of you.
