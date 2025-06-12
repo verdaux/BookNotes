@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-12T15:46:52+05:30
+modified: 2025-06-12T15:50:52+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] I worshiped the myth I made of you.
 - [ ] You have enough language in your mouth to be understood.
 - [ ] Most days I'm a museum of things I want to forget.
+- [ ] Art should comfort the disturbed and disturb the comfortable.
