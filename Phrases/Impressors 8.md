@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-12T22:51:23+05:30
+modified: 2025-06-12T22:55:27+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Most days I'm a museum of things I want to forget.
 - [ ] Art should comfort the disturbed and disturb the comfortable.
 - [ ] You cannot kill me in a way that matters
+- [ ] Love the sadness. Like being held by a frozen corpse.
