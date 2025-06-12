@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-12T11:31:26+05:30
+modified: 2025-06-12T15:43:08+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] 100% of the People with Taylor Swift lyrics tattoos agree that I got a punchable face.
 - [ ] I am in the mood to dissolve into the sky.
 - [ ] I worshiped the myth I made of you.
+- [ ] You have enough language in your mouth to be understood.
