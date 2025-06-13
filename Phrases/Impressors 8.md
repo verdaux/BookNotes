@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-13T10:54:31+05:30
+modified: 2025-06-13T16:10:25+05:30
 type: Checklist
 ---
 
@@ -23,4 +23,5 @@ type: Checklist
 - [ ] You cannot kill me in a way that matters
 - [ ] Love the sadness. Like being held by a frozen corpse.
 - [ ] I want to be like water. I want to Slip through the fingers but hold up a ship.
-- [ ] Museum of failures or gallery of trying 
+- [ ] Museum of failures or gallery of trying
+- [ ] Look at you comforting others with the words you wish to hear. - w. Wordsworth 
