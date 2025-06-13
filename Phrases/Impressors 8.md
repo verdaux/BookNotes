@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-13T10:53:27+05:30
+modified: 2025-06-13T10:54:31+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] You cannot kill me in a way that matters
 - [ ] Love the sadness. Like being held by a frozen corpse.
 - [ ] I want to be like water. I want to Slip through the fingers but hold up a ship.
+- [ ] Museum of failures or gallery of trying 
