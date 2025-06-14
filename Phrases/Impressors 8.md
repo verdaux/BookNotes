@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-14T16:27:35+05:30
+modified: 2025-06-14T16:33:30+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] My truth escapes me and spills everywhere
 - [ ] I only come to life when she touches me.
 - [ ] I didn't easily swallow what other people told me.
+- [ ] Show me your thorns and I will show you hands ready to bleed.
