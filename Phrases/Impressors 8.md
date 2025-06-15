@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-15T15:53:23+05:30
+modified: 2025-06-15T15:57:10+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] I didn't easily swallow what other people told me.
 - [ ] Show me your thorns and I will show you hands ready to bleed.
 - [ ] The best thing about Starbucks is their toilets.
+- [ ] In this world love has no color. Yet, How deeply my body is stained by yours.
