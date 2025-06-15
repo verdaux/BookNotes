@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-15T16:22:36+05:30
+modified: 2025-06-15T16:29:34+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] In this world love has no color. Yet, How deeply my body is stained by yours.
 - [ ] How empty of me to be so full of you.
 - [ ] As a fellow person in their 30s, you good?
+- [ ] It may have escaped your notice, but life isn't fair.
