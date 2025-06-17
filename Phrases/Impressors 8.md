@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-17T18:24:46+05:30
+modified: 2025-06-17T18:25:43+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] It may have escaped your notice, but life isn't fair.
 - [ ] Tell me every terrible thing you did and let me love you anyways.
 - [ ] Cast every spell you got in your book on me and watch me swallow you whole.
+- [ ] Sometimes, my body feels like a burial ground for all the people I should've become.
