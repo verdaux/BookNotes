@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-17T18:26:18+05:30
+modified: 2025-06-17T18:30:59+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] Cast every spell you got in your book on me and watch me swallow you whole.
 - [ ] Sometimes, my body feels like a burial ground for all the people I should've become.
 - [ ] May flowers grow in the most empty part of you.
+- [ ] Man cannot discover new oceans unless he has the courage to lose sight of the shore.
