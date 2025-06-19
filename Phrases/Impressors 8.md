@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-19T23:19:24+05:30
+modified: 2025-06-19T23:43:18+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] We were searching for ourselves in each other.
 - [ ] Your fingerprints are so all over my life, my memories.
 - [ ] You appear in my dreams as the person you once were and no longer are.
+- [ ] Reality is the violently aching reminder of the distance between us, between our lips.©Og
