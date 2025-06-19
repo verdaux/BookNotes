@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-06-19T23:49:55+05:30
+modified: 2025-06-19T23:50:36+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] I'm so sorry that behaviour is normalised in your life.
 - [ ] I hope you have the day you deserve.
 - [ ] You inspire me to become nothing like you
+- [ ] Oh wow! I could never have the confidence to say that out loud.
