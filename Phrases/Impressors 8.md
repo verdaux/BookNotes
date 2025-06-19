@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-17T18:31:32+05:30
+modified: 2025-06-19T23:08:53+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] May flowers grow in the most empty part of you.
 - [ ] Man cannot discover new oceans unless he has the courage to lose sight of the shore.
 - [ ] We were searching for ourselves in each other.
+- [ ] Your fingerprints are so all over my life, my memories.
