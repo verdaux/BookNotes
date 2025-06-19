@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-06-19T23:47:38+05:30
+modified: 2025-06-19T23:49:55+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,5 @@ type: Checklist
 - [ ] You know there's a world outside your head too. Yes?
 - [ ] One of the best things you did for society is you didn't have kids
 - [ ] I'm so sorry that behaviour is normalised in your life.
+- [ ] I hope you have the day you deserve.
+- [ ] You inspire me to become nothing like you
