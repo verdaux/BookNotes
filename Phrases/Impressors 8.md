@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-19T23:58:38+05:30
+modified: 2025-06-21T15:38:29+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] You appear in my dreams as the person you once were and no longer are.
 - [ ] Reality is the violently aching reminder of the distance between us, between our lips.©Og
 - [ ] My mind is a wonderful garden of buried hope and memories. ©Og.
+- [ ] At the end of all things and then again in the beginning.
