@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-21T15:38:29+05:30
+modified: 2025-06-23T08:29:49+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] Reality is the violently aching reminder of the distance between us, between our lips.©Og
 - [ ] My mind is a wonderful garden of buried hope and memories. ©Og.
 - [ ] At the end of all things and then again in the beginning.
+- [ ] How did we get this far as a species
