@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-06-15T15:55:34+05:30
+modified: 2025-06-23T08:21:23+05:30
 type: Checklist
 ---
 
@@ -17,4 +17,6 @@ type: Checklist
 - [ ] At long last
 - [ ] You romanticize a city
 - [ ] Breakfast really is a game-changer
-- [ ] Boundlessly 
+- [ ] Boundlessly
+- [ ] Healthy injection of cynicism 
+- [ ] Divorced from reality
