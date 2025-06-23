@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-06-23T08:21:23+05:30
+modified: 2025-06-23T08:23:58+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Boundlessly
 - [ ] Healthy injection of cynicism 
 - [ ] Divorced from reality
+- [ ] Lose the will to rebel
