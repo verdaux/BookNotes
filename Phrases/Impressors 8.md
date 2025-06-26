@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-23T16:59:06+05:30
+modified: 2025-06-26T15:35:56+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] At the end of all things and then again in the beginning.
 - [ ] How did we get this far as a species
 - [ ] I buy beggars booze because I'm worried they are gonna spend it on food.
+- [ ] You have a remarkable gift of doing what one shouldn't do.
