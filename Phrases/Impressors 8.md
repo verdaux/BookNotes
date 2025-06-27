@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-06-27T22:23:31+05:30
+modified: 2025-06-27T22:23:53+05:30
 type: Checklist
 ---
 
@@ -48,6 +48,6 @@ type: Checklist
 - [ ] How did we get this far as a species
 - [ ] I buy beggars booze because I'm worried they are gonna spend it on food.
 - [ ] You have a remarkable gift for always doing exactly as one shouldn't.
-- [ ] Next time I see you, I'm not letting you off easily.
+- [ ] Next time I see you, I'm not letting you leave so easily.
 - [ ] Are you okay? Ask me tomorrow?
 - [ ] Keep saying my name. See what happens.
