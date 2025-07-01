@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-06-23T21:46:58+05:30
+modified: 2025-07-01T16:35:51+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Divorced from reality
 - [ ] Lose the will to rebel
 - [ ] No escape from destiny
+- [ ] Frothy loins
