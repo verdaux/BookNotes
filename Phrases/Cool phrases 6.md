@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-07-01T16:35:51+05:30
+modified: 2025-07-09T18:40:51+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Lose the will to rebel
 - [ ] No escape from destiny
 - [ ] Frothy loins
+- [ ] Class costs extra
