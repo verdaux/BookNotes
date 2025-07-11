@@ -1,6 +1,6 @@
 ---
 created: 2025-06-05T09:49:33+05:30
-modified: 2025-07-10T13:35:12+05:30
+modified: 2025-07-11T08:20:28+05:30
 type: Checklist
 ---
 
@@ -14,7 +14,7 @@ type: Checklist
 - [ ] I will always adore the part of myself that wants what doesn't want me.
 - [ ] Debating dumping my hot tea over my head.
 - [ ] Exercise my right to publicly photo booth.
-- [ ] 100% of the People with Taylor Swift lyrics tattoos agree that I got a punchable face.
+- [ ] 100% of the People with Taylor Swift lyrics tattoos agree that I have got a punchable face.
 - [ ] I am in the mood to dissolve into the sky.
 - [ ] I worshiped the myth I made of you.
 - [ ] You have enough language in your mouth to be understood.
