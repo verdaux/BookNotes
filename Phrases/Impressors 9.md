@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-07-12T22:39:18+05:30
+modified: 2025-07-13T00:27:29+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Mothefucker's so cool, when he goes to sleep the sheep count him.
 - [ ] I've already lost touch with couple of people I used to be.
 - [ ] Sawing the very Branch that you are sitting on.
+- [ ] A poem written with rose petals. Making the sun blush.
