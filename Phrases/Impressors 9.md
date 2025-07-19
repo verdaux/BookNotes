@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-07-14T22:33:55+05:30
+modified: 2025-07-19T09:45:27+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Sawing the very Branch that you are sitting on.
 - [ ] A poem written with rose petals. Making the sun blush.
 - [ ] I watched sadhguru before he was a javed-fighting viral sensation.
+- [ ] Militate against the peace of all life.
