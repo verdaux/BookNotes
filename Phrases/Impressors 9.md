@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-07-19T09:45:27+05:30
+modified: 2025-07-22T21:07:16+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] A poem written with rose petals. Making the sun blush.
 - [ ] I watched sadhguru before he was a javed-fighting viral sensation.
 - [ ] Militate against the peace of all life.
+- [ ] You are The setting sun. The coming night. The last word in their story.
