@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-07-29T14:31:08+05:30
+modified: 2025-07-30T16:55:31+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] You are The setting sun. The coming night. The last word in their story.
 - [ ] If there's a place further from me, I beg you do not go.
 - [ ] In my dreams, I breathe you.
+- [ ] Make water come to her eyes with my love letters.
