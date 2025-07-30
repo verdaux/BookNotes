@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-07-09T18:40:51+05:30
+modified: 2025-07-30T21:40:56+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] No escape from destiny
 - [ ] Frothy loins
 - [ ] Class costs extra
+- [ ] Couch concerts 
