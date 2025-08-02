@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-08-02T23:44:46+05:30
+modified: 2025-08-02T23:49:11+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Class costs extra
 - [ ] Couch concerts
 - [ ] Former infant
+- [ ] Get high on her potenuses
