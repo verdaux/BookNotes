@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-03T09:59:49+05:30
+modified: 2025-08-03T10:02:15+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] I am falser than vows made in wine.
 - [ ] We are what we pretend to be. So, we must be careful about what we pretend to be.
 - [ ] Birds born in a cage think flying is an illness.
+- [ ] My favourite animal is me. When I remember who the fuck I am.
