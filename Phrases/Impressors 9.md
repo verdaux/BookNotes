@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-03T10:04:36+05:30
+modified: 2025-08-05T13:53:52+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Birds born in a cage think flying is an illness.
 - [ ] My favourite animal is me. When I remember who the fuck I am.
 - [ ] If you really wanna spoil me, take me to a movie sometime.
+- [ ] Nothing makes a room feel emptier than wanting someone in it.
