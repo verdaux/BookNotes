@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-06T18:24:47+05:30
+modified: 2025-08-06T18:29:30+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] If you really wanna spoil me, take me to a movie sometime.
 - [ ] Nothing makes a room feel emptier than wanting someone in it.
 - [ ] Gareebo ka aesthetic mat churao.
+- [ ] Mai decompose hona chahta hu.
