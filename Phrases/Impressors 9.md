@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-07T06:50:42+05:30
+modified: 2025-08-07T06:51:14+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] What attracts you when you are broken will disgust you when you heal.
 - [ ] Do you understand the violence it took to become this gentle.
 - [ ] No amount of anxiety makes any difference to what's going to happen.
+- [ ] Clarity doesn't come before action. It comes from action.
