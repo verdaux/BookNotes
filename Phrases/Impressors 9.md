@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-07T06:48:53+05:30
+modified: 2025-08-07T06:49:30+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Once I saw a bee drown and I understood.
 - [ ] My soul comes from better worlds and I have an incurable homesickness for the stars.
 - [ ] What attracts you when you are broken will disgust you when you heal.
+- [ ] Do you understand the violence it took to become this gentle.
