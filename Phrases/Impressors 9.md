@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-07T06:47:21+05:30
+modified: 2025-08-07T06:48:01+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Gareebo ka aesthetic mat churao.
 - [ ] Mai decompose hona chahta hu.
 - [ ] Once I saw a bee drown and I understood.
+- [ ] My soul comes from better worlds and I have an incurable homesickness for the stars.
