@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-07T06:51:14+05:30
+modified: 2025-08-08T06:27:37+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,5 @@ type: Checklist
 - [ ] Do you understand the violence it took to become this gentle.
 - [ ] No amount of anxiety makes any difference to what's going to happen.
 - [ ] Clarity doesn't come before action. It comes from action.
+- [ ] This is getting difficult to romanticize.
+- [ ] If the path before you is clear, you're probably on someone else's.
