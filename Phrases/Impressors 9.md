@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-08T06:34:33+05:30
+modified: 2025-08-08T06:36:17+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] You are a ghost. Driving a meat-coated skeleton made of stardust. Riding on a rock, hurtling through space. Fear nothing.
 - [ ] You give my middle finger an erection.
 - [ ] What makes us humans? Selecting images with traffic lights.
+- [ ] Young me: I hope something good happens to me. Now me: I hope whatever bad happens is at least funny.
