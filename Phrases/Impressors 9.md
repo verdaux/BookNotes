@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-08T06:31:23+05:30
+modified: 2025-08-08T06:32:16+05:30
 type: Checklist
 ---
 
@@ -35,4 +35,4 @@ type: Checklist
 - [ ] Clarity doesn't come before action. It comes from action.
 - [ ] This is getting difficult to romanticize.
 - [ ] If the path before you is clear, you're probably on someone else's.
-- [ ] You are a ghost. Driving a meat-coated skeleton made of stardust.
+- [ ] You are a ghost. Driving a meat-coated skeleton made of stardust. Riding on a rock, hurtling through space. Fear nothing.
