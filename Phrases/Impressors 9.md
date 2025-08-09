@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-08T06:39:58+05:30
+modified: 2025-08-09T14:26:17+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Young me: I hope something good happens to me. Now me: I hope whatever bad happens is at least funny.
 - [ ] Okay. I respect your wrong opinion.
 - [ ] Take it easy dude. But, take it.
+- [ ] I was a free man before her gaze touched me.
