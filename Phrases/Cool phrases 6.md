@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-08-06T18:25:36+05:30
+modified: 2025-08-09T09:24:48+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,5 @@ type: Checklist
 - [ ] Former infant
 - [ ] Get high on her potenuses
 - [ ] Shaktiheen log
+- [ ] Between the shadow and soul.
+- [ ] Abuses in cursive.
