@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-09T15:11:08+05:30
+modified: 2025-08-09T15:58:11+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] I was a free man before her gaze touched me.
 - [ ] If you can fill the unforgiving minute with 40 Seconds of distance run.
 - [ ] Felt punk. Might societal acceptance later.
+- [ ] Always listen to art.
