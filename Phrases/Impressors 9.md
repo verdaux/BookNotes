@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-09T15:58:11+05:30
+modified: 2025-08-09T16:26:28+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] If you can fill the unforgiving minute with 40 Seconds of distance run.
 - [ ] Felt punk. Might societal acceptance later.
 - [ ] Always listen to art.
+- [ ] If your life was a movie and people were watching you up until this point. What would they be screaming at the screen?
