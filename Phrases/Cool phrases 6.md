@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-08-09T23:35:45+05:30
+modified: 2025-08-09T23:47:54+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Abuses in cursive.
 - [ ] Aftershock of conquest.
 - [ ] Claim to hate.
+- [ ] Chain of chances so unlikely
