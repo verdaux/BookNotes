@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-09T23:55:35+05:30
+modified: 2025-08-10T21:15:49+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] There's a last time you do everything. You don't realise when that is.
 - [ ] The privilege of grief. It's a privilege because we have something to lose.
 - [ ] This kind of profanity stops here.
+- [ ] The sajjan with the takleef.
