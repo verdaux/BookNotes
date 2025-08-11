@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-08-10T07:29:10+05:30
+modified: 2025-08-11T21:45:02+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] Tech oligarch 
 - [ ] The space between your ears
 - [ ] Womb raider
+- [ ] Skyrocket out of my orbit.
