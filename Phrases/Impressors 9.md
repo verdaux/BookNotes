@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-10T21:15:49+05:30
+modified: 2025-08-11T21:44:45+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] The privilege of grief. It's a privilege because we have something to lose.
 - [ ] This kind of profanity stops here.
 - [ ] The sajjan with the takleef.
+- [ ] Garnished at convenient intervals with profane expressions.
