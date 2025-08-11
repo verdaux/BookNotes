@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T22:55:17+05:30
-modified: 2025-08-11T21:55:54+05:30
+modified: 2025-08-11T21:58:05+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,5 @@ type: Checklist
 - [ ] Skyrocket out of my orbit.
 - [ ] Swallow my irritation
 - [ ] Unfounded, vinegary, mean-spirited
+- [ ] Plucked me from obscurity
+- [ ] Obscure yet profound 
