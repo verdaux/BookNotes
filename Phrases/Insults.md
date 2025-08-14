@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-04T17:09:25+05:30
+modified: 2025-08-14T18:12:59+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] You inspire me to become nothing like you
 - [ ] Oh wow! I could never have the confidence to say that out loud.
 - [ ] You sound like you negotiated your way to earth.
+- [ ] Why don't you go to a place I can't see you and stay there?
