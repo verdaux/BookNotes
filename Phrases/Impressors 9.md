@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-11T21:44:45+05:30
+modified: 2025-08-14T18:16:50+05:30
 type: Checklist
 ---
 
@@ -51,3 +51,4 @@ type: Checklist
 - [ ] This kind of profanity stops here.
 - [ ] The sajjan with the takleef.
 - [ ] Garnished at convenient intervals with profane expressions.
+- [ ] I'm kind of addicted to breathing 
