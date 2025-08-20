@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-14T09:44:20+05:30
+modified: 2025-08-20T17:25:21+05:30
 type: Checklist
 ---
 
@@ -15,4 +15,5 @@ type: Checklist
 - [ ] I know. I look young. That's just because I am.
 - [ ] You don't look like the kind who takes advice. But I'm gonna try anyway.
 - [ ] Did I catch you on a bad day? Or you always this cheerful?
-- [ ] That's a very astute observation coming from a dumb guy 
+- [ ] That's a very astute observation coming from a dumb guy
+- [ ] I desire violently and I wait. - Anais Nin.
