@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-20T17:25:21+05:30
+modified: 2025-08-22T07:28:28+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Did I catch you on a bad day? Or you always this cheerful?
 - [ ] That's a very astute observation coming from a dumb guy
 - [ ] I desire violently and I wait. - Anais Nin.
+- [ ] I am full of wounds and still standing on my feet.
