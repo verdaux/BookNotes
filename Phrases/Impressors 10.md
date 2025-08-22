@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-22T07:28:28+05:30
+modified: 2025-08-22T11:11:31+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] That's a very astute observation coming from a dumb guy
 - [ ] I desire violently and I wait. - Anais Nin.
 - [ ] I am full of wounds and still standing on my feet.
+- [ ] Who is this man? And how can I hang out with him daily?
