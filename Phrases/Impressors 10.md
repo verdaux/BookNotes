@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-23T18:11:08+05:30
+modified: 2025-08-24T05:10:10+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] I am full of wounds and still standing on my feet.
 - [ ] Who is this man? And how can I hang out with him daily?
 - [ ] It may not be your fault but it's still your responsibility.
+- [ ] Soft in spirit, fierce in depth
