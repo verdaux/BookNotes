@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-25T16:15:47+05:30
+modified: 2025-08-25T21:40:35+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] It may not be your fault but it's still your responsibility.
 - [ ] Soft in spirit, fierce in depth
 - [ ] Nothing wrong with being a fat fuck. It's just not my aesthetic.
+- [ ] Don't lose those curves. Nothing good happens on a straight road.
