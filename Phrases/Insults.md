@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-14T20:32:22+05:30
+modified: 2025-08-26T09:25:07+05:30
 type: Checklist
 ---
 
@@ -42,4 +42,5 @@ type: Checklist
 - [ ] Oh wow! I could never have the confidence to say that out loud.
 - [ ] You sound like you negotiated your way to earth.
 - [ ] Why don't you go to a place I can't see you and stay there?
-- [ ] Would you do me the profound courtesy of shutting the fuck up 
+- [ ] Would you do me the profound courtesy of shutting the fuck up
+- [ ] There's a door. Please use it.
