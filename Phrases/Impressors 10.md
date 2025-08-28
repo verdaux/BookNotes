@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-28T23:06:16+05:30
+modified: 2025-08-28T23:23:31+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Nothing wrong with being a fat fuck. It's just not my aesthetic.
 - [ ] Don't lose those curves. Nothing good happens on a straight road.
 - [ ] Your job title sounds good at dinner parties
+- [ ] Give a fucking Ted talk about the scotch
