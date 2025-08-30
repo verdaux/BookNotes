@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-30T19:59:02+05:30
+modified: 2025-08-30T19:59:28+05:30
 type: Checklist
 ---
 
@@ -25,4 +25,4 @@ type: Checklist
 - [ ] Don't lose those curves. Nothing good happens on a straight road.
 - [ ] Your job title sounds good at dinner parties
 - [ ] Give a fucking Ted talk about the scotch
-- [ ] I have endured yet another week in this capitalist wasteland. Wine supplies are critical.
+- [ ] I have endured yet another week in this capitalist wasteland. Morale is low. Wine supplies are critical.
