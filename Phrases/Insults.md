@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-31T15:37:29+05:30
+modified: 2025-08-31T15:38:01+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] Do you usually get your way when you act like this?
 - [ ] Don't let my knowledge get in the way of your confidence.
 - [ ] I can explain it to you but unfortunately I can't understand it for you.
+- [ ] I've been called worse by better people.
