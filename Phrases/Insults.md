@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-31T15:38:01+05:30
+modified: 2025-08-31T15:38:59+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] Don't let my knowledge get in the way of your confidence.
 - [ ] I can explain it to you but unfortunately I can't understand it for you.
 - [ ] I've been called worse by better people.
+- [ ] You owe an apology to every tree for the oxygen you breathe.
