@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-31T15:35:01+05:30
+modified: 2025-08-31T15:35:35+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] There's a door. Please use it.
 - [ ] You brighten every room you walk out from.
 - [ ] I wish you were as right as you are passionate.
+- [ ] Do you usually get your way when you act like this?
