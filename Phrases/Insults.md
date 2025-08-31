@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-26T09:25:07+05:30
+modified: 2025-08-31T15:34:33+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Why don't you go to a place I can't see you and stay there?
 - [ ] Would you do me the profound courtesy of shutting the fuck up
 - [ ] There's a door. Please use it.
+- [ ] You brighten every room you walk out from.
