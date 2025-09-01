@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-08-31T22:46:10+05:30
+modified: 2025-09-01T16:28:57+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Supermarket grade coffee
 - [ ] Your untimely demise
 - [ ] Baddie nahi Saddie
+- [ ] Aspiring brave adult
