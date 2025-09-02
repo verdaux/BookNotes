@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-02T07:42:06+05:30
+modified: 2025-09-02T07:49:11+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Dal rice- the original sleeping pill 
 - [ ] Beating my duck in the shower
 - [ ] Those of his ilk
+- [ ] Scorn and derision 
