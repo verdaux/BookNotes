@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-02T07:49:11+05:30
+modified: 2025-09-02T07:57:18+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,6 @@ type: Checklist
 - [ ] Beating my duck in the shower
 - [ ] Those of his ilk
 - [ ] Scorn and derision 
+- [ ] Bring you to fruition 
+- [ ] Scorching couple 
+- [ ] I hope you know where to look
