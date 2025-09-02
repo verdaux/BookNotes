@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-01T20:28:57+05:30
+modified: 2025-09-02T07:42:06+05:30
 type: Checklist
 ---
 
@@ -20,4 +20,5 @@ type: Checklist
 - [ ] Baddie nahi Saddie
 - [ ] Aspiring brave adult
 - [ ] Dal rice- the original sleeping pill 
-- [ ] Beating my duck in the shower 
+- [ ] Beating my duck in the shower
+- [ ] Those of his ilk
