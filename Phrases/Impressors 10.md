@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-08-30T21:54:35+05:30
+modified: 2025-09-02T07:46:05+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Give a fucking Ted talk about the scotch
 - [ ] I have endured yet another week in this capitalist wasteland. Morale is low. Wine supplies are critical.
 - [ ] I am a human with a gmail account and a dream. Half of my life is just opening apps and forgetting why I unlocked my phone. One life is plenty.
+- [ ] Once you master them, all the secrets of the rock and roll universe will be revealed
