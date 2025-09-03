@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-08-31T15:39:55+05:30
+modified: 2025-09-03T22:06:44+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,4 @@ type: Checklist
 - [ ] I've been called worse by better people.
 - [ ] You owe an apology to every tree for the oxygen you breathe.
 - [ ] I could agree with you but then we'd both be wrong.
+- [ ] I know you're doing your best, but I need you to do the best of someone better.
