@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-03T08:32:50+05:30
+modified: 2025-09-03T15:11:21+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Scorching couple 
 - [ ] I hope you know where to look
 - [ ] Unexamined fetish
+- [ ] You have my deeply flawed word
