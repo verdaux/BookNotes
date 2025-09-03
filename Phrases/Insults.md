@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-09-03T22:06:44+05:30
+modified: 2025-09-03T22:07:33+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,4 @@ type: Checklist
 - [ ] You owe an apology to every tree for the oxygen you breathe.
 - [ ] I could agree with you but then we'd both be wrong.
 - [ ] I know you're doing your best, but I need you to do the best of someone better.
+- [ ] Don't just stand there. Put your hands in your pockets.
