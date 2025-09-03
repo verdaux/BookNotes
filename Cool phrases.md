@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-03T22:18:15+05:30
+modified: 2025-09-03T22:23:53+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Unexamined fetish
 - [ ] You have my deeply flawed word
 - [ ] I like whatever is wrong with you.
+- [ ] Indianed so hard. Can't recover.
