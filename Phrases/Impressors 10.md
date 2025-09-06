@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-03T12:55:12+05:30
+modified: 2025-09-06T21:19:08+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Once you master them, all the secrets of the rock and roll universe will be revealed
 - [ ] You had the misfortune to be in the lesson that he is learning.
 - [ ] She's like the Internet with breasts. Wait a minute. Internet has breasts.
+- [ ] The truth doesn't require your participation to exist. Bullshit does.
