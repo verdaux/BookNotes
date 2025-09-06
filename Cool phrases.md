@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-06T21:20:49+05:30
+modified: 2025-09-06T21:21:09+05:30
 type: Checklist
 ---
 
@@ -31,4 +31,4 @@ type: Checklist
 - [ ] I like whatever is wrong with you.
 - [ ] Indianed so hard. Can't recover.
 - [ ] Like seeking love in a whorehouse
-- [ ] Currently experiencing life at several wtf's per hour 
+- [ ] Currently experiencing life at the rate of several wtf's per hour
