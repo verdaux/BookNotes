@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-03T22:23:53+05:30
+modified: 2025-09-06T21:19:39+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] You have my deeply flawed word
 - [ ] I like whatever is wrong with you.
 - [ ] Indianed so hard. Can't recover.
+- [ ] Like seeking love in a whorehouse
