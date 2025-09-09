@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-06T21:21:09+05:30
+modified: 2025-09-09T13:22:00+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,6 @@ type: Checklist
 - [ ] Indianed so hard. Can't recover.
 - [ ] Like seeking love in a whorehouse
 - [ ] Currently experiencing life at the rate of several wtf's per hour
+- [ ] Ghode ka moot
+- [ ] 2 taang 6 joote
+- [ ] Gutter ka paani
