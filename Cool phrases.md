@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T22:47:30+05:30
-modified: 2025-09-09T13:22:00+05:30
+modified: 2025-09-10T14:48:07+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Ghode ka moot
 - [ ] 2 taang 6 joote
 - [ ] Gutter ka paani
+- [ ] We average our misery.
