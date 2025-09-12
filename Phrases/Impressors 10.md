@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-12T16:52:36+05:30
+modified: 2025-09-12T18:29:34+05:30
 type: Checklist
 ---
 
@@ -32,4 +32,5 @@ type: Checklist
 - [ ] She's like the Internet with breasts. Wait a minute. Internet has breasts.
 - [ ] The truth doesn't require your participation to exist. Bullshit does.
 - [ ] Too proud to beg. Too dumb to steal.
-- [ ] Ek baat humesha yaad rakhna. Srk ka beta abram agar john Abraham ka beta hota toh uska naam Abram Abraham hota 
+- [ ] Ek baat humesha yaad rakhna. Srk ka beta abram agar john Abraham ka beta hota toh uska naam Abram Abraham hota
+- [ ] I am at an age where hangovers are no longer charming.
