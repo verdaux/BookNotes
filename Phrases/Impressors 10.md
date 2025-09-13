@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-12T18:29:34+05:30
+modified: 2025-09-13T10:45:24+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,5 @@ type: Checklist
 - [ ] Too proud to beg. Too dumb to steal.
 - [ ] Ek baat humesha yaad rakhna. Srk ka beta abram agar john Abraham ka beta hota toh uska naam Abram Abraham hota
 - [ ] I am at an age where hangovers are no longer charming.
+- [ ] You're older than you think. Don't learn that the hard way.
+- [ ] I'm too old to be governed by the fear of dumb people.
