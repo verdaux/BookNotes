@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-13T10:45:24+05:30
+modified: 2025-09-16T17:44:27+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] I am at an age where hangovers are no longer charming.
 - [ ] You're older than you think. Don't learn that the hard way.
 - [ ] I'm too old to be governed by the fear of dumb people.
+- [ ] She's brilliant but new to the real world.
