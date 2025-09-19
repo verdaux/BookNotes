@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-19T12:44:01+05:30
+modified: 2025-09-19T19:27:07+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] She's brilliant but new to the real world.
 - [ ] Ethics have the worst RoI in mammal history.
 - [ ] Your vibe attracts your tribe.
+- [ ] Something that makes Jon Bon Jovi quake in his acid washed jeans.
