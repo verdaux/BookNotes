@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-18T08:00:07+05:30
+modified: 2025-09-19T12:44:01+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] I'm too old to be governed by the fear of dumb people.
 - [ ] She's brilliant but new to the real world.
 - [ ] Ethics have the worst RoI in mammal history.
+- [ ] Your vibe attracts your tribe.
