@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-19T19:27:07+05:30
+modified: 2025-09-22T14:51:20+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Ethics have the worst RoI in mammal history.
 - [ ] Your vibe attracts your tribe.
 - [ ] Something that makes Jon Bon Jovi quake in his acid washed jeans.
+- [ ] I, absolutely, without apology, will admit that someone may have allegedly done so.
