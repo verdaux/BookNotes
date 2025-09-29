@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-22T14:51:20+05:30
+modified: 2025-09-29T15:14:18+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Your vibe attracts your tribe.
 - [ ] Something that makes Jon Bon Jovi quake in his acid washed jeans.
 - [ ] I, absolutely, without apology, will admit that someone may have allegedly done so.
+- [ ] Everybody is a star of their own romantic comedy but they're full of shit.
