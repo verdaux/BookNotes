@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-30T09:38:03+05:30
+modified: 2025-09-30T10:29:24+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] I, absolutely, without apology, will admit that someone may have allegedly done so.
 - [ ] Everybody is a star of their own romantic comedy but they're full of shit.
 - [ ] One of the consoling features of the present is that soon it will be past.
+- [ ] I throw a spear into darkness.
