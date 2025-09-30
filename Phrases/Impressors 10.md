@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-09-29T15:14:18+05:30
+modified: 2025-09-30T09:38:03+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Something that makes Jon Bon Jovi quake in his acid washed jeans.
 - [ ] I, absolutely, without apology, will admit that someone may have allegedly done so.
 - [ ] Everybody is a star of their own romantic comedy but they're full of shit.
+- [ ] One of the consoling features of the present is that soon it will be past.
