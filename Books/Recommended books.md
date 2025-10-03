@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-10-03T21:30:26+05:30
+modified: 2025-10-03T21:38:28+05:30
 type: Checklist
 ---
 
@@ -11,4 +11,5 @@ type: Checklist
 - [ ] https://radicalreads.com/yuval-noah-harari-favorite-books/
 - [ ] John berger - ways of seeing
 - [ ] The structure of scientific revolutions
-- [ ] Thomas Monk
+- [ ] Thomas Mann
+- [ ] Max, mischa and tet offensive 
