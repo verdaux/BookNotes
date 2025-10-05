@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-10-05T06:23:14+05:30
+modified: 2025-10-05T06:31:17+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] One of the consoling features of the present is that soon it will be past.
 - [ ] I throw a spear into darkness.
 - [ ] I miss who I was 5 seconds ago.
+- [ ] I am my own fire. And trust me, nothing I lost kept me warm.
