@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-10-06T08:23:34+05:30
+modified: 2025-10-06T10:51:39+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] The old machine has risen from the grave.
 - [ ] Now she is 27 years full of trouble.
 - [ ] The comfortable problems of the well dressed and well fed
+- [ ] How can I miss you without having had you? It's brilliant.
