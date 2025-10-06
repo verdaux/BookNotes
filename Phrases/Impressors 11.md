@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-06T13:19:13+05:30
+modified: 2025-10-06T16:15:10+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Both things I famously suck at.
 - [ ] How far do you have to reach out for that memory? Last night?
 - [ ] Hate the statistics, not the statistician.
+- [ ] I love making fun of billionaires
