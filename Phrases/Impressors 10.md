@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-10-06T08:18:36+05:30
+modified: 2025-10-06T08:23:34+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] When a man is in pain, he can't think straight, he only asks for more. And gets it.
 - [ ] The old machine has risen from the grave.
 - [ ] Now she is 27 years full of trouble.
+- [ ] The comfortable problems of the well dressed and well fed
