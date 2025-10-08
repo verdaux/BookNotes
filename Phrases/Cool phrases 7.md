@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-10-08T14:00:38+05:30
+modified: 2025-10-08T15:44:14+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,4 @@ type: Checklist
 
 - [ ] Till the telephone gets uninvented. No one has the authority...
 - [ ] Sociopath in training
+- [ ] Kiss felt like an email
