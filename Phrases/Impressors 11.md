@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-08T13:32:45+05:30
+modified: 2025-10-08T17:12:25+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] I love making fun of billionaires
 - [ ] I'm fine, as in, "you don't have to worry about me." Fine.
 - [ ] I can always find something else to love. I can't find another me.
+- [ ] Walked to the mirror. Looked like a killer.
