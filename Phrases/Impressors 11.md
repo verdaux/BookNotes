@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-13T13:25:00+05:30
+modified: 2025-10-13T13:28:17+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Bamboo hum le aur ganna yeh chabaye.
 - [ ] You're a sadist. You're pummeling an opponent who isn't fighting back.
 - [ ] It's not a euphemism for something else.
+- [ ] Appeasement is never the answer in the face of naked aggression.
