@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-10T16:23:50+05:30
+modified: 2025-10-13T13:18:11+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] I can always find something else to love. I can't find another me.
 - [ ] Walked to the mirror. Looked like a killer.
 - [ ] Bamboo hum le aur ganna yeh chabaye.
+- [ ] You're a sadist. You're pummeling an opponent who isn't fighting back.
