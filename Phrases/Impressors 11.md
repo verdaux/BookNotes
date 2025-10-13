@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-13T16:49:08+05:30
+modified: 2025-10-13T18:32:58+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] It's not a euphemism for something else.
 - [ ] Appeasement is never the answer in the face of naked aggression.
 - [ ] If I'm not in a state of grace I try to go to bed.
+- [ ] The shortest poem I know is a name.
