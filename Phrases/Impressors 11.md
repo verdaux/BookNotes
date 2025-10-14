@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-14T12:57:51+05:30
+modified: 2025-10-14T13:03:30+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] If I'm not in a state of grace I try to go to bed.
 - [ ] The shortest poem I know is a name.
 - [ ] Studies have shown that unannoying interrogations are 50% less effective.
+- [ ] You do remarkably well for living like you live.
