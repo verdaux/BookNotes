@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-14T13:03:30+05:30
+modified: 2025-10-14T13:04:37+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] The shortest poem I know is a name.
 - [ ] Studies have shown that unannoying interrogations are 50% less effective.
 - [ ] You do remarkably well for living like you live.
+- [ ] I'm not a hoarder. I'm just a major slob.
