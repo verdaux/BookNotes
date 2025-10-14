@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-14T13:08:47+05:30
+modified: 2025-10-14T13:11:43+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] I'm not a hoarder. I'm just a major slob.
 - [ ] That's usually how I am even I get around people who have [insert a crime]
 - [ ] I really wish I was the kind of person who could do that.
+- [ ] Not as fascinating as the fact that you find it fascinating.
