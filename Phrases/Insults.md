@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-09-03T22:07:33+05:30
+modified: 2025-10-17T16:04:03+05:30
 type: Checklist
 ---
 
@@ -54,3 +54,4 @@ type: Checklist
 - [ ] I could agree with you but then we'd both be wrong.
 - [ ] I know you're doing your best, but I need you to do the best of someone better.
 - [ ] Don't just stand there. Put your hands in your pockets.
+- [ ] Some people do have unfortunate body language.
