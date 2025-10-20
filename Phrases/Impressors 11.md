@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-20T15:24:30+05:30
+modified: 2025-10-20T21:53:41+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Tez hawa ne mujhse poochha, ret pe kya likhte rehte ho? Kin socho mein gum rehte ho?
 - [ ] The extra weight you have put on. I think you wear it well.
 - [ ] Dip me in chocolate and throw me to the lesbians.
+- [ ] She was suffering from success.
