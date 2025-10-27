@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-27T16:10:27+05:30
+modified: 2025-10-28T03:21:51+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Langotiya jeetu ka mara hua yaar
 - [ ] Who am I without my cancelable jokes and amazing music taste.
 - [ ] When you are so cooked you can't even find your situation on reddit.
+- [ ] That's quite an endorsement
