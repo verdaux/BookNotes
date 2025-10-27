@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-20T22:39:37+05:30
+modified: 2025-10-27T16:09:44+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Dip me in chocolate and throw me to the lesbians.
 - [ ] She was suffering from success.
 - [ ] Langotiya jeetu ka mara hua yaar
+- [ ] Who am I without my cancelable jokes and amazing music taste.
