@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-10-14T13:11:18+05:30
+modified: 2025-10-28T03:21:35+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Sociopath in training
 - [ ] Kiss felt like an email
 - [ ] Indiscriminate pile of rubbish
+- [ ] Champagne socialist
