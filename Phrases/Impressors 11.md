@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-28T16:54:50+05:30
+modified: 2025-10-28T16:55:37+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] That's quite an endorsement
 - [ ] There's no wrong choices. Or atleast, that's what they tell people who make crappy choices.
 - [ ] They draw our borders and then decide to block theirs.
+- [ ] Their ignorance is precisely where privilege takes shape.
