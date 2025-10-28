@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-28T03:39:18+05:30
+modified: 2025-10-28T16:54:37+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] When you are so cooked you can't even find your situation on reddit.
 - [ ] That's quite an endorsement
 - [ ] There's no wrong choices. Or atleast, that's what they tell people who make crappy choices.
+- [ ] They draw our borders and decide to block theirs.
