@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-10-29T10:43:30+05:30
+modified: 2025-10-29T22:16:42+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Impossibly cool goddess 
 - [ ] Charm without the smarm
 - [ ] Having a renesaince
+- [ ] Some would argue 
