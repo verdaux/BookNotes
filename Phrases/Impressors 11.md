@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-29T21:56:57+05:30
+modified: 2025-10-29T22:10:21+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] They draw our borders and then decide to block theirs.
 - [ ] Their ignorance is precisely where privilege takes shape.
 - [ ] She's the worst person I've met. I wanna travel the world with her.
+- [ ] And what about me screams discount?
