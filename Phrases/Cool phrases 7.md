@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-10-29T10:42:19+05:30
+modified: 2025-10-29T10:43:30+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Champagne socialist
 - [ ] Impossibly cool goddess 
 - [ ] Charm without the smarm
+- [ ] Having a renesaince
