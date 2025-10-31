@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-10-31T10:14:34+05:30
+modified: 2025-10-31T16:44:02+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] The curse of brilliance is the despisal of mediocrity.
 - [ ] Not into daddy. I make my girl call me "coach".
 - [ ] I'm never wrong. I'm either correct or lying.
+- [ ] I'm not necessarily scared of you. I'm scared of what can happen to one of us.
