@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-11-01T21:54:50+05:30
+modified: 2025-11-01T22:25:51+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] I'm not necessarily scared of you. I'm scared of what can happen to one of us.
 - [ ] What's been the best part of your week so far?
 - [ ] Don't hate me ...  it turns me on.
+- [ ] Sometimes, it feels so much better to know I'm perishable in a universe that really don't give a piss about how much I own.
