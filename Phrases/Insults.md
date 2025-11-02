@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-10-22T22:52:05+05:30
+modified: 2025-11-02T16:15:41+05:30
 type: Checklist
 ---
 
@@ -55,4 +55,5 @@ type: Checklist
 - [ ] I know you're doing your best, but I need you to do the best of someone better.
 - [ ] Don't just stand there. Put your hands in your pockets.
 - [ ] Some people do have unfortunate body language.
-- [ ] Wishing disasters on your bloodline 
+- [ ] Wishing disasters on your bloodline
+- [ ] Are you sure you want me to start commenting on your appearance too?
