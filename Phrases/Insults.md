@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-11-02T16:15:41+05:30
+modified: 2025-11-02T16:39:27+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] Some people do have unfortunate body language.
 - [ ] Wishing disasters on your bloodline
 - [ ] Are you sure you want me to start commenting on your appearance too?
+- [ ] You're right. I'm sorry you're like this.
