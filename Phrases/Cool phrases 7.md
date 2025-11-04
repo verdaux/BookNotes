@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-01T21:49:29+05:30
+modified: 2025-11-04T17:45:40+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Having a renesaince
 - [ ] Some would argue
 - [ ] Sewersidal
+- [ ] Casuist
