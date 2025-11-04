@@ -1,6 +1,6 @@
 ---
 created: 2025-10-06T12:57:19+05:30
-modified: 2025-11-01T22:25:51+05:30
+modified: 2025-11-04T16:31:49+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] What's been the best part of your week so far?
 - [ ] Don't hate me ...  it turns me on.
 - [ ] Sometimes, it feels so much better to know I'm perishable in a universe that really don't give a piss about how much I own.
+- [ ] I'm expecting a giant pain in my ass.
