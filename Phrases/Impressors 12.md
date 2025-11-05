@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-04T17:10:25+05:30
+modified: 2025-11-05T13:40:32+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Maybe You don't have to hate the universe for dumping a giant turd on you.
 - [ ] You've got the life expectancy of a pretty good sitcom.
 - [ ] Fatalism is your survival mechanism.
+- [ ] Studied her longer than it was prudent.
