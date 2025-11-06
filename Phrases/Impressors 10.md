@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11T21:59:35+05:30
-modified: 2025-10-06T10:51:39+05:30
+modified: 2025-11-06T10:10:11+05:30
 type: Checklist
 ---
 
@@ -11,7 +11,7 @@ type: Checklist
 - [ ] You say you're with Mr. Right. I say you're settling for Mr. Right-in-front-of-you.
 - [ ] In the land of the lotus-eaters, time plays tricks on you.
 - [ ] You've got a revolutionary way of staying out of trouble.
-- [ ] People who longer wanna lie to themselves.
+- [ ] People who no longer wanna lie to themselves.
 - [ ] I know. I look young. That's just because I am.
 - [ ] You don't look like the kind who takes advice. But I'm gonna try anyway.
 - [ ] Did I catch you on a bad day? Or you always this cheerful?
