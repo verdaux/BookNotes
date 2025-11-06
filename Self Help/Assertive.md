@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-05T08:05:16+05:30
+modified: 2025-11-06T19:36:53+05:30
 type: Checklist
 ---
 
@@ -8,6 +8,7 @@ type: Checklist
 
 - [ ] You go ... With your eyes. And I interpret that to mean you are not with us in some way.
 - [ ] Have you noticed how you....?
+- [ ] If they deny their behaviour: Say " I may be wrong but Is it okay to point out this behaviour the next time you repeat it?"
 - [ ] I don't like it when you do....
 - [ ] I'm gonna come back when you're in a calmer mood
 - [ ] You are shouting at me. Are you sure this is the best way to resolve this problem?
