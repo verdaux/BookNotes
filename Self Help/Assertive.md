@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-06T19:36:53+05:30
+modified: 2025-11-11T11:10:01+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,5 @@ type: Checklist
 - [ ] You are shouting at me. Are you sure this is the best way to resolve this problem?
 - [ ] You are correct that this situation could've been handled better. But, calling it stupid is too harsh.
 - [ ] I'm really bad at coping with being interrupted.
+- [ ] I am not going to justify why I feel a certain way.
+- [ ] I am an okay person.
