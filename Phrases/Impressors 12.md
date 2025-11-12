@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-10T16:41:10+05:30
+modified: 2025-11-12T08:07:23+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] This is excessive. Just get Ozempic
 - [ ] Money is nice but I'd rather have time.
 - [ ] I'm not an alcoholic. I know the whole label thing is so limiting.
+- [ ] I try to be chill but my brain writes essays about everything.
