@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-04T17:45:40+05:30
+modified: 2025-11-13T11:14:00+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Sewersidal
 - [ ] Casuist
 - [ ] Loathe and love
+- [ ] Closet ploretariat.
