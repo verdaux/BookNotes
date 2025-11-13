@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-13T11:36:39+05:30
+modified: 2025-11-13T11:43:08+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] I try to be chill but my brain writes essays about everything.
 - [ ] Waking up from a nap I didn't know I was talking.
 - [ ] If I texted "come over" right now what would your response be?
+- [ ] Men with postive conduct allegations.
