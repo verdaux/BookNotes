@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Some would argue
 - [ ] Sewersidal
 - [ ] Casuist
+- [ ] Loathe and love

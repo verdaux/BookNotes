@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-11T17:36:17+05:30
+modified: 2025-11-13T08:27:21+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] I know it's not your fault that this happened....
 - [ ] Fogging - in case of a verbal attack - You are entitled to your opinion - You might be right - it's like a shrug - Don't react and give them a fight back - there is always room for improvement - fogging is only the start.
 - [ ] Overall are you happy?
+- [ ] I'm afraid I have to decline.
