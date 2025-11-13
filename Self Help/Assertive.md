@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-13T08:28:09+05:30
+modified: 2025-11-13T08:28:29+05:30
 type: Checklist
 ---
 
@@ -22,4 +22,4 @@ type: Checklist
 - [ ] Fogging - in case of a verbal attack - You are entitled to your opinion - You might be right - it's like a shrug - Don't react and give them a fight back - there is always room for improvement - fogging is only the start.
 - [ ] Overall are you happy?
 - [ ] I'm afraid I have to decline.
-- [ ] I'd hate to commit and do it poorly. It's better I say no.
+- [ ] I'd hate to commit and do it poorly.  So I better don't.
