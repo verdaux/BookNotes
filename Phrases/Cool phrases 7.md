@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-13T11:14:00+05:30
+modified: 2025-11-13T22:35:54+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Casuist
 - [ ] Loathe and love
 - [ ] Closet ploretariat.
+- [ ] Misspent youth
