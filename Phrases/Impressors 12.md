@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-13T22:49:28+05:30
+modified: 2025-11-14T07:09:32+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] She like; does this man look like he can survive any type of night with me?
 - [ ] The river doesn't race to be an ocean, it already belongs.
 - [ ] Felt like someone slapped me so hard to open my eyes.
+- [ ] We both lost something. You lost me and I lost time.
