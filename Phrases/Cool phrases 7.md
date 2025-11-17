@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-13T22:35:54+05:30
+modified: 2025-11-17T07:19:59+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Loathe and love
 - [ ] Closet ploretariat.
 - [ ] Misspent youth
+- [ ] Unflinchingly modest
