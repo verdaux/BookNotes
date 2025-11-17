@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-14T07:09:32+05:30
+modified: 2025-11-17T12:55:43+05:30
 type: Checklist
 ---
 
@@ -18,7 +18,7 @@ type: Checklist
 - [ ] Money is nice but I'd rather have time.
 - [ ] I'm not an alcoholic. I know the whole label thing is so limiting.
 - [ ] I try to be chill but my brain writes essays about everything.
-- [ ] Waking up from a nap I didn't know I was talking.
+- [ ] Waking up from a nap I didn't know I was taking.
 - [ ] If I texted "come over" right now what would your response be?
 - [ ] Men with postive conduct allegations.
 - [ ] She like; does this man look like he can survive any type of night with me?
