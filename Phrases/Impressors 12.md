@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-17T12:55:43+05:30
+modified: 2025-11-17T21:41:56+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] The river doesn't race to be an ocean, it already belongs.
 - [ ] Felt like someone slapped me so hard to open my eyes.
 - [ ] We both lost something. You lost me and I lost time.
+- [ ] Consider your numbers crunched
