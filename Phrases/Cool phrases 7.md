@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-17T07:19:59+05:30
+modified: 2025-11-18T07:31:28+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Closet ploretariat.
 - [ ] Misspent youth
 - [ ] Unflinchingly modest
+- [ ] Up and coming new actors
