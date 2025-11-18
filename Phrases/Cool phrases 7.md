@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-18T07:44:13+05:30
+modified: 2025-11-18T15:02:18+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Up and coming new actors
 - [ ] That's a sign 
 - [ ] God like ere
+- [ ] NNN: nimbuda x 3
