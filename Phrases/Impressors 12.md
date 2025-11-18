@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-18T07:38:00+05:30
+modified: 2025-11-18T07:41:50+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Consider your numbers crunched
 - [ ] If I wear the ring on the index fingers then I'll be one of those guys... The guys that wear the ring on index fingers
 - [ ] I'm kinda scared and kinda turned on. But, that's the way I am all the time.
+- [ ] Oh. I love it when you're here. And also there...
