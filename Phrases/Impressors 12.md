@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-18T07:47:55+05:30
+modified: 2025-11-18T07:52:03+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] You deny a dying man his final meal?
 - [ ] Don't make me beg. It's unseemly.
 - [ ] The biological imperative has been compromised.
+- [ ] In a galaxy not so far away.
