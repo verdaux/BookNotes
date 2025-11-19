@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-18T12:49:13+05:30
+modified: 2025-11-19T15:27:07+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] The biological imperative has been compromised.
 - [ ] In a galaxy not so far away.
 - [ ] That's patronizing as hell. I'm sure they had places to be and things to do
+- [ ] Suchi was the tension between the left and the right temple.
