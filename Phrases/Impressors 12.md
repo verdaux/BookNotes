@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-19T22:10:22+05:30
+modified: 2025-11-19T22:44:24+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,5 @@ type: Checklist
 - [ ] In my defense, I was left unsupervised.
 - [ ] I will John wick your family tree. I will shit in your socks.
 - [ ] Bura nahi hu. Buss apko achha nahi lagta.
+- [ ] I just know she is who she thinks she is.
+- [ ] We are statues with a pulse
