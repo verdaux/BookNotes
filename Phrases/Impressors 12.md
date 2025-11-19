@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-19T15:27:07+05:30
+modified: 2025-11-19T19:00:09+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] In a galaxy not so far away.
 - [ ] That's patronizing as hell. I'm sure they had places to be and things to do
 - [ ] Suchi was the tension between the left and the right temple.
+- [ ] Why adults randomly stare at walls
