@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-19T21:59:54+05:30
+modified: 2025-11-19T22:10:22+05:30
 type: Checklist
 ---
 
@@ -38,4 +38,5 @@ type: Checklist
 - [ ] Why adults randomly stare at walls
 - [ ] You say that as if you were expecting me to defend [whatever]
 - [ ] In my defense, I was left unsupervised.
-- [ ] I will John wick your family tree. I will shit in your pants.
+- [ ] I will John wick your family tree. I will shit in your socks.
+- [ ] Bura nahi hu. Buss apko achha nahi lagta.
