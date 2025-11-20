@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-19T22:47:21+05:30
+modified: 2025-11-20T18:07:51+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] I just know she is who she thinks she is.
 - [ ] We are statues with a pulse
 - [ ] The one who runs barefoot curses sharp stones.
+- [ ] Called me poor in 8 languages 
