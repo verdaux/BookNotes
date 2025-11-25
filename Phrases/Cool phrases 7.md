@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-18T15:02:18+05:30
+modified: 2025-11-25T20:00:21+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] That's a sign 
 - [ ] God like ere
 - [ ] NNN: nimbuda x 3
+- [ ] Human lie detector
