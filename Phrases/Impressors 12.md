@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-26T21:58:03+05:30
+modified: 2025-11-27T10:44:50+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] Called me poor in 8 languages
 - [ ] Being married is a full time job with no benefits and constant performance reviews.
 - [ ] Hard to choose a compliment equal to her beauty
+- [ ] Now you get anxiety attacks because the selfie you took looks exactly like you.
