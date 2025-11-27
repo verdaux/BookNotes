@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-27T15:02:36+05:30
+modified: 2025-11-27T21:09:11+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,6 @@ type: Checklist
 - [ ] Human lie detector
 - [ ] Unlicensed therapist
 - [ ] I beg your finest pardon?
+- [ ] Twas a grand old time
+- [ ] I'm sweet on her.
+- [ ] Your beauty is captivating
