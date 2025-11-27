@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-27T21:22:08+05:30
+modified: 2025-11-28T00:28:51+05:30
 type: Checklist
 ---
 
@@ -34,4 +34,6 @@ type: Checklist
 - [ ] I yearn for you
 - [ ] Dire times
 - [ ] We have a conundrum
-- [ ] She's rather endearing 
+- [ ] She's rather endearing
+- [ ] That remains to be seen.
+- [ ] Do with that what you will.
