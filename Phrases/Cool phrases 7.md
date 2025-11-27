@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-27T21:09:11+05:30
+modified: 2025-11-27T21:09:32+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Twas a grand old time
 - [ ] I'm sweet on her.
 - [ ] Your beauty is captivating
+- [ ] I yearn for you
