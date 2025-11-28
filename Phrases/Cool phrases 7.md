@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-28T22:48:33+05:30
+modified: 2025-11-28T23:26:04+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Dicklick
 - [ ] Human maachis
 - [ ] Mildly flammable
+- [ ] Hostile takeover
