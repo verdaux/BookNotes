@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-28T11:04:37+05:30
+modified: 2025-11-28T22:48:33+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,5 @@ type: Checklist
 - [ ] Do with that what you will.
 - [ ] Be still my heart
 - [ ] Dicklick
+- [ ] Human maachis
+- [ ] Mildly flammable
