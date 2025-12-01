@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-11-28T09:01:45+05:30
+modified: 2025-12-01T17:40:46+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Hard to choose a compliment equal to her beauty
 - [ ] Now you get anxiety attacks because the selfie you took looks exactly like you.
 - [ ] It isn't safe to be radiant.
+- [ ] Do you think "that's so amazing. How can I ruin this?"
