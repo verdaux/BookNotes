@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-12-02T18:57:01+05:30
+modified: 2025-12-02T18:57:18+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] Tiger mama off duty
 - [ ] Heavily hydrated
 - [ ] Baby faces in sweet places
+- [ ] I look good in retrograde 
