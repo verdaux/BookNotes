@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-12-01T17:40:46+05:30
+modified: 2025-12-02T18:52:45+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] Now you get anxiety attacks because the selfie you took looks exactly like you.
 - [ ] It isn't safe to be radiant.
 - [ ] Do you think "that's so amazing. How can I ruin this?"
+- [ ] I'm not high maintenance. I'm just detail oriented and emotionally aesthetic.
