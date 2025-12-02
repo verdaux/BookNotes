@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-28T23:26:04+05:30
+modified: 2025-12-02T16:43:19+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Human maachis
 - [ ] Mildly flammable
 - [ ] Hostile takeover
+- [ ] Exquisite adventure
