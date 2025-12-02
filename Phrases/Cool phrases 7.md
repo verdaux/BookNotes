@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-12-02T19:01:01+05:30
+modified: 2025-12-02T19:09:13+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Baby faces in sweet places
 - [ ] I look good in retrograde
 - [ ] Lo kar diya Slay.
+- [ ] Mr. & Mrs Rasmalai 
