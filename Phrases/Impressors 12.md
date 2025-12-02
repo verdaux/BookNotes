@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-12-02T18:52:45+05:30
+modified: 2025-12-02T19:37:00+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] It isn't safe to be radiant.
 - [ ] Do you think "that's so amazing. How can I ruin this?"
 - [ ] I'm not high maintenance. I'm just detail oriented and emotionally aesthetic.
+- [ ] Hijacking threads to be a bigot to me is a super loser thing to do.
