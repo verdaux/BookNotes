@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-12-02T16:43:19+05:30
+modified: 2025-12-02T18:51:34+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,5 @@ type: Checklist
 - [ ] Mildly flammable
 - [ ] Hostile takeover
 - [ ] Exquisite adventure
+- [ ] Tiger mama off duty
+- [ ] Heavily hydrated 
