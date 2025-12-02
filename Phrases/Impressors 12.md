@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04T16:35:41+05:30
-modified: 2025-12-02T22:20:26+05:30
+modified: 2025-12-02T22:21:11+05:30
 type: Checklist
 ---
 
@@ -53,3 +53,4 @@ type: Checklist
 - [ ] Hijacking threads to be a bigot to me is a super loser thing to do.
 - [ ] Nervous system when confidence system walks in
 - [ ] Just me and my mango smoothie against the world.
+- [ ] Backdrop achha hai. But dressing ka tareeka abhi bhi kezual
