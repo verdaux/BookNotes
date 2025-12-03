@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-03T12:52:39+05:30
+modified: 2025-12-03T12:54:39+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Another reason why a self-respecting man should ever wear torn jeans.
 - [ ] I'm a once-in-a-generation writer. The writer to end all writers, you know?
 - [ ] Can't disrespect kings and queens like that. Thinking of them ever since
+- [ ] Always wanted to be photographed as such
