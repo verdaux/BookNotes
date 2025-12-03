@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-03T12:56:30+05:30
+modified: 2025-12-03T13:12:37+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Can't disrespect kings and queens like that. Thinking of them ever since
 - [ ] Always wanted to be photographed as such
 - [ ] The simultaneous pride and pain I felt.
+- [ ] If that's your interpretation, I welcome it.
