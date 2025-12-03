@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-03T16:26:50+05:30
+modified: 2025-12-03T18:27:39+05:30
 type: Checklist
 ---
 
@@ -10,4 +10,5 @@ type: Checklist
 - [ ] Symbolic gesture
 - [ ] Big believer 
 - [ ] Gatekeeper of playlists
-- [ ] Diet Coke = fridge ciggerate 
+- [ ] Diet Coke = fridge ciggerate
+- [ ] Is this legal?
