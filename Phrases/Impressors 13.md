@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-03T12:54:39+05:30
+modified: 2025-12-03T12:56:30+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] I'm a once-in-a-generation writer. The writer to end all writers, you know?
 - [ ] Can't disrespect kings and queens like that. Thinking of them ever since
 - [ ] Always wanted to be photographed as such
+- [ ] The simultaneous pride and pain I felt.
