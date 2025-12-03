@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-03T13:26:01+05:30
+modified: 2025-12-03T13:26:31+05:30
 type: Checklist
 ---
 
@@ -15,4 +15,4 @@ type: Checklist
 - [ ] The simultaneous pride and pain I felt.
 - [ ] If that's your interpretation, I welcome it.
 - [ ] Secretly bend the laws of the universe
-- [ ] You just figured out you're mortal. 
+- [ ] You just figured out you're mortal. Just a bag of cells and waste with an expiration date.
