@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-04T11:05:43+05:30
+modified: 2025-12-04T17:12:42+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Staunch supporter of the counterculture of the analog art.
 - [ ] Ughh. It's so luscious
 - [ ] No one should have to go through this
+- [ ] Women with bangs are braver
