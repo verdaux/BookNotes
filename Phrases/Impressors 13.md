@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-04T17:12:42+05:30
+modified: 2025-12-04T22:06:42+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Ughh. It's so luscious
 - [ ] No one should have to go through this
 - [ ] Women with bangs are braver
+- [ ] Don't tell the others but you're my favourite
