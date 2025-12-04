@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-04T11:05:18+05:30
+modified: 2025-12-04T11:05:43+05:30
 type: Checklist
 ---
 
@@ -18,4 +18,5 @@ type: Checklist
 - [ ] You just figured out you're mortal. Just a bag of cells and waste with an expiration date.
 - [ ] Hahaha. Shut up. This is the best.
 - [ ] Staunch supporter of the counterculture of the analog art.
-- [ ] Ughh. It's so luscious 
+- [ ] Ughh. It's so luscious
+- [ ] No one should have to go through this
