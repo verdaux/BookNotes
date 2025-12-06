@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-04T17:19:02+05:30
+modified: 2025-12-06T09:52:00+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,5 @@ type: Checklist
 - [ ] Childless behaviour
 - [ ] Pinch me moment
 - [ ] Frighteningly talented
+- [ ] Dosa and matcha, who's with me?
+- [ ] Vibe shibe check shek
