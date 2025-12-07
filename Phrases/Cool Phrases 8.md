@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-06T09:52:00+05:30
+modified: 2025-12-07T22:19:04+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Frighteningly talented
 - [ ] Dosa and matcha, who's with me?
 - [ ] Vibe shibe check shek
+- [ ] Favorite hobby: paying EMI
