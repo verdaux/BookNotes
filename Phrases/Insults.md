@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-11-25T07:05:33+05:30
+modified: 2025-12-08T23:49:45+05:30
 type: Checklist
 ---
 
@@ -60,3 +60,4 @@ type: Checklist
 - [ ] You're right. I'm sorry you're like this.
 - [ ] Tough talk for a fella with a small cock.
 - [ ] Is this your first time bullying? You're doing poorly.
+- [ ] Ignorance has never looked more confident
