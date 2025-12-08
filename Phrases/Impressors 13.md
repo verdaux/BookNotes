@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-08T23:45:47+05:30
+modified: 2025-12-08T23:48:52+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] A normal sized artwork next to a homunculus
 - [ ] Not every soul knows how to hold joy with gentle hands
 - [ ] I'm dancing with penury
+- [ ] I'm not entirely myself 
