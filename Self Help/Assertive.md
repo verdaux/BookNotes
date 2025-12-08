@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-13T08:28:29+05:30
+modified: 2025-12-08T23:47:47+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Overall are you happy?
 - [ ] I'm afraid I have to decline.
 - [ ] I'd hate to commit and do it poorly.  So I better don't.
+- [ ] Do you think you are responding in the most mature manner?
