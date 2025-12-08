@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-09T00:39:17+05:30
+modified: 2025-12-09T00:40:32+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] I hold you in the highest affection
 - [ ] 28 is a great age to trot around in a burberry trench
 - [ ] It feels like there's something on your mind
+- [ ] What's been the best part of your week so far?
