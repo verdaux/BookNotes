@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-12-09T00:35:47+05:30
+modified: 2025-12-09T00:42:33+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] I'd hate to commit and do it poorly.  So I better don't.
 - [ ] Do you think you are responding in the most mature manner?
 - [ ] Is this the most exciting part of your day?
+- [ ] You are refuting my character/intelligence. You are not refuting my argument
