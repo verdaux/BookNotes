@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-08T23:44:06+05:30
+modified: 2025-12-08T23:45:47+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Don't tell the others but you're my favourite
 - [ ] A normal sized artwork next to a homunculus
 - [ ] Not every soul knows how to hold joy with gentle hands
+- [ ] I'm dancing with penury
