@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-08T23:50:26+05:30
+modified: 2025-12-08T23:51:02+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] I'm dancing with penury
 - [ ] I'm not entirely myself
 - [ ] I fear I must forego the pleasure
+- [ ] I find my every thought returning to you
