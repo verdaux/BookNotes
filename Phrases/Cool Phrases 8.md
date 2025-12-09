@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-09T15:21:29+05:30
+modified: 2025-12-09T22:34:48+05:30
 type: Checklist
 ---
 
@@ -20,4 +20,5 @@ type: Checklist
 - [ ] Vibe shibe check shek
 - [ ] Favorite hobby: paying EMI
 - [ ] Conqueror of years
-- [ ] A quality distraction 
+- [ ] A quality distraction
+- [ ] Paparazzo For my wife
