@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-09T21:50:08+05:30
+modified: 2025-12-09T22:17:57+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,5 @@ type: Checklist
 - [ ] What's been the best part of your week so far?
 - [ ] Spoken like a true relic
 - [ ] There's a seat waiting for you at a table you haven't even seen yet.
+- [ ] Oh, to wake up grateful for the pulse in my neck; to meet the mirror without dread.
+I need to be enough—for myself.
