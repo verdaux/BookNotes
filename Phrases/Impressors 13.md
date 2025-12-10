@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:35:49+05:30
+modified: 2025-12-10T16:36:43+05:30
 type: Checklist
 ---
 
@@ -40,4 +40,5 @@ type: Checklist
 - [ ] Everyone wants to be a DJ. No one wants to dance.
 - [ ] The sexiest people are the ones that ruin your mind, not rumple your sheets.
 - [ ] That's why they pay me the medium bucks
+- [ ] My therapist knows all your names
 I need to be enough—for myself.
