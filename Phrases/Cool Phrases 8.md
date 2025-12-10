@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T08:16:36+05:30
+modified: 2025-12-10T16:58:31+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Paparazzo For my wife
 - [ ] Kanye worst
 - [ ] I forgot how much I liked you
+- [ ] Full time princess
