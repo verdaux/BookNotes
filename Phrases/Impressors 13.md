@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T17:25:46+05:30
+modified: 2025-12-10T17:30:24+05:30
 type: Checklist
 ---
 
@@ -51,4 +51,5 @@ type: Checklist
 - [ ] Her smile was like armour and everyday she went for war.
 - [ ] Today's mood is brought to you by: coffee and commute 
 - [ ] I'm in love with all the places I've never been and the people I've never met
+- [ ] Hey is basic. Wanna update to coffee or compliments 
 I need to be enough—for myself.
