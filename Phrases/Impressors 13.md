@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:57:43+05:30
+modified: 2025-12-10T17:07:32+05:30
 type: Checklist
 ---
 
@@ -45,4 +45,5 @@ type: Checklist
 - [ ] Proof that God has favourites 
 - [ ] Not hard to get. Just expensive to keep
 - [ ] Face card with no spending limit
+- [ ] You make small things feel magical
 I need to be enough—for myself.
