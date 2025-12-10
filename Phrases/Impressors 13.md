@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T15:40:30+05:30
+modified: 2025-12-10T15:44:10+05:30
 type: Checklist
 ---
 
@@ -37,4 +37,5 @@ type: Checklist
 - [ ] Oh, to wake up grateful for the pulse in my neck; to meet the mirror without dread.
 - [ ] I'm as high as your hopes 
 - [ ] The cost of community is inconvenience
+- [ ] Everyone wants to be a DJ. No one wants to dance.
 I need to be enough—for myself.
