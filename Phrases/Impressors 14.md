@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-10T18:05:15+05:30
+modified: 2025-12-10T18:07:10+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] The melody of a distant past
 - [ ] In the arms of a gentle storm
 - [ ] Name 3 hobbies you have outside of media consumption
+- [ ] Perfect strangers are supposed to bear the burden of your maintenance?
