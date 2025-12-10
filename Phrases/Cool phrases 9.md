@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:47:01+05:30
+modified: 2025-12-10T17:47:43+05:30
 type: Checklist
 ---
 
@@ -15,4 +15,5 @@ type: Checklist
 - [ ] Deleted scenes 
 - [ ] Director's cut
 - [ ] Long story short
-- [ ] Meet me at half past sunset 
+- [ ] Meet me at half past sunset
+- [ ] Simple pleasures 
