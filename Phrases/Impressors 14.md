@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-10T17:42:48+05:30
+modified: 2025-12-10T18:05:15+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] If silence had a colour, it would look like this
 - [ ] The melody of a distant past
 - [ ] In the arms of a gentle storm
+- [ ] Name 3 hobbies you have outside of media consumption
