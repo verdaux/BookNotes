@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:17:37+05:30
+modified: 2025-12-10T17:18:21+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Work of art
 - [ ] Stay dangerous
 - [ ] Unbothered mess
+- [ ] Too glam to give a damn
