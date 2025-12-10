@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-10T17:38:08+05:30
+modified: 2025-12-10T17:38:58+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] I came, I saw, I made it awkward
 - [ ] Not lazy. Just on energy saving mode
 - [ ] Consider this your daily dose of awesome
+- [ ] Breathing in stardust, exhaling poetry 
