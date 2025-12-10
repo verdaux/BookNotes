@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:54:02+05:30
+modified: 2025-12-10T16:56:32+05:30
 type: Checklist
 ---
 
@@ -43,4 +43,5 @@ type: Checklist
 - [ ] My therapist knows all your names
 - [ ] Lost in the right direction
 - [ ] Proof that God has favourites 
+- [ ] Not hard to get. Just expensive to keep
 I need to be enough—for myself.
