@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T16:59:40+05:30
+modified: 2025-12-10T17:00:39+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] In her chic era
 - [ ] Exotic and iconic
 - [ ] Having a moment
+- [ ] Top tier
