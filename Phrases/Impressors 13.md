@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T15:55:00+05:30
+modified: 2025-12-10T16:35:49+05:30
 type: Checklist
 ---
 
@@ -39,4 +39,5 @@ type: Checklist
 - [ ] The cost of community is inconvenience
 - [ ] Everyone wants to be a DJ. No one wants to dance.
 - [ ] The sexiest people are the ones that ruin your mind, not rumple your sheets.
+- [ ] That's why they pay me the medium bucks
 I need to be enough—for myself.
