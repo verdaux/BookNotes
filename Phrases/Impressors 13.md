@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:44:39+05:30
+modified: 2025-12-10T16:54:02+05:30
 type: Checklist
 ---
 
@@ -42,4 +42,5 @@ type: Checklist
 - [ ] That's why they pay me the medium bucks
 - [ ] My therapist knows all your names
 - [ ] Lost in the right direction
+- [ ] Proof that God has favourites 
 I need to be enough—for myself.
