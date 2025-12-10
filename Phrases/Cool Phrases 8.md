@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:04:51+05:30
+modified: 2025-12-10T17:05:13+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Spoil me in Prada
 - [ ] Too lit to dim down
 - [ ] Trying not to stare
+- [ ] Stay ruthless 
