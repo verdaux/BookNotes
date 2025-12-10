@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T17:21:16+05:30
+modified: 2025-12-10T17:25:46+05:30
 type: Checklist
 ---
 
@@ -49,4 +49,6 @@ type: Checklist
 - [ ] I feel seen when I'm with you
 - [ ] I trust you with the parts of me I've never shown
 - [ ] Her smile was like armour and everyday she went for war.
+- [ ] Today's mood is brought to you by: coffee and commute 
+- [ ] I'm in love with all the places I've never been and the people I've never met
 I need to be enough—for myself.
