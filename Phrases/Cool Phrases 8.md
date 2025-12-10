@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-09T22:34:48+05:30
+modified: 2025-12-10T07:40:01+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Conqueror of years
 - [ ] A quality distraction
 - [ ] Paparazzo For my wife
+- [ ] Kanye worst
