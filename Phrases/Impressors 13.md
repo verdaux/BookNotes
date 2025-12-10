@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:56:32+05:30
+modified: 2025-12-10T16:57:43+05:30
 type: Checklist
 ---
 
@@ -44,4 +44,5 @@ type: Checklist
 - [ ] Lost in the right direction
 - [ ] Proof that God has favourites 
 - [ ] Not hard to get. Just expensive to keep
+- [ ] Face card with no spending limit
 I need to be enough—for myself.
