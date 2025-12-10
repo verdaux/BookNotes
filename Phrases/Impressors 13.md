@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T17:07:55+05:30
+modified: 2025-12-10T17:08:16+05:30
 type: Checklist
 ---
 
@@ -47,4 +47,5 @@ type: Checklist
 - [ ] Face card with no spending limit
 - [ ] You make small things feel magical
 - [ ] I feel seen when I'm with you
+- [ ] I trust you with the parts of me I've never shown
 I need to be enough—for myself.
