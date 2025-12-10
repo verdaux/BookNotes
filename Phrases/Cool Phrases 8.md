@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:00:39+05:30
+modified: 2025-12-10T17:01:35+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Exotic and iconic
 - [ ] Having a moment
 - [ ] Top tier
+- [ ] Cover girl
