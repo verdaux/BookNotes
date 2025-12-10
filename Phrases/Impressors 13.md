@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T10:00:56+05:30
+modified: 2025-12-10T15:40:30+05:30
 type: Checklist
 ---
 
@@ -36,4 +36,5 @@ type: Checklist
 - [ ] There's a seat waiting for you at a table you haven't even seen yet.
 - [ ] Oh, to wake up grateful for the pulse in my neck; to meet the mirror without dread.
 - [ ] I'm as high as your hopes 
+- [ ] The cost of community is inconvenience
 I need to be enough—for myself.
