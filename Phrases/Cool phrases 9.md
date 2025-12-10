@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:48:22+05:30
+modified: 2025-12-10T17:48:53+05:30
 type: Checklist
 ---
 
@@ -17,4 +17,5 @@ type: Checklist
 - [ ] Long story short
 - [ ] Meet me at half past sunset
 - [ ] Simple pleasures
-- [ ] Sip sip hurray 
+- [ ] Sip sip hurray
+- [ ] Bucket list: check
