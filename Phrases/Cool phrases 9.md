@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:48:53+05:30
+modified: 2025-12-10T17:50:48+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Simple pleasures
 - [ ] Sip sip hurray
 - [ ] Bucket list: check
+- [ ] You make it look easy
