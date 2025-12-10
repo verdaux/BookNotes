@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:44:09+05:30
+modified: 2025-12-10T17:45:44+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Officially taking applications from admirers
 - [ ] Weekend.jpg
 - [ ] Bts footage
+- [ ] On today's episode...
