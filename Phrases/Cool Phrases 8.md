@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T16:58:31+05:30
+modified: 2025-12-10T16:58:59+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Kanye worst
 - [ ] I forgot how much I liked you
 - [ ] Full time princess
+- [ ] In her chic era
