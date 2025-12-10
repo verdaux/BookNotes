@@ -1,6 +1,6 @@
 ---
 created: 2025-12-02T22:29:28+05:30
-modified: 2025-12-10T16:36:43+05:30
+modified: 2025-12-10T16:44:39+05:30
 type: Checklist
 ---
 
@@ -41,4 +41,5 @@ type: Checklist
 - [ ] The sexiest people are the ones that ruin your mind, not rumple your sheets.
 - [ ] That's why they pay me the medium bucks
 - [ ] My therapist knows all your names
+- [ ] Lost in the right direction
 I need to be enough—for myself.
