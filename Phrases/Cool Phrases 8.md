@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:20:30+05:30
+modified: 2025-12-10T17:23:12+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Too glam to give a damn
 - [ ] Fierce and fabulous
 - [ ] Fri-nally
+- [ ] Stalk softly 
