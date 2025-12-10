@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:18:59+05:30
+modified: 2025-12-10T17:20:30+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Unbothered mess
 - [ ] Too glam to give a damn
 - [ ] Fierce and fabulous
+- [ ] Fri-nally
