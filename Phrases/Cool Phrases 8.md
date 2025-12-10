@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:27:57+05:30
+modified: 2025-12-10T17:29:29+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Storm in a teacup
 - [ ] Zero chill mode
 - [ ] Smirking through life
+- [ ] BOTA: baddest of them all
