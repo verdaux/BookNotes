@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:27:23+05:30
+modified: 2025-12-10T17:27:36+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] 99% coffee
 - [ ] We have tomorrows for a reason
 - [ ] Storm in a teacup
+- [ ] Zero chill mode
