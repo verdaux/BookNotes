@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:02:28+05:30
+modified: 2025-12-10T17:03:31+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Top tier
 - [ ] Cover girl
 - [ ] Hotter than middle eastern climate
+- [ ] Spoil me in Prada 
