@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-10T18:07:10+05:30
+modified: 2025-12-10T21:19:00+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] In the arms of a gentle storm
 - [ ] Name 3 hobbies you have outside of media consumption
 - [ ] Perfect strangers are supposed to bear the burden of your maintenance?
+- [ ] the most likable, charismatic, enjoyable people to be around are people who demand nothing of you.
