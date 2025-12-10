@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:46:06+05:30
+modified: 2025-12-10T17:46:25+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] On today's episode...
 - [ ] Deleted scenes 
 - [ ] Director's cut
+- [ ] Long story short
