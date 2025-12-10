@@ -1,6 +1,6 @@
 ---
 created: 2025-12-03T08:53:43+05:30
-modified: 2025-12-10T17:31:37+05:30
+modified: 2025-12-10T17:32:21+05:30
 type: Checklist
 ---
 
@@ -51,4 +51,5 @@ type: Checklist
 - [ ] BOTA: baddest of them all
 - [ ] Elegance unleashed
 - [ ] Midnight musings
-- [ ] Whispers of glamour 
+- [ ] Whispers of glamour
+- [ ] Understated elegance 
