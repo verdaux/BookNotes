@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-10T17:54:49+05:30
+modified: 2025-12-10T18:06:19+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] You make it look easy
 - [ ] Wannabe locals
 - [ ] What in the matcha latte is wrong with you?
+- [ ] No interests, no verve
