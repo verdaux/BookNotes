@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T14:33:22+05:30
+modified: 2025-12-11T14:35:40+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] This is a fart in the timeline of your life.
 - [ ] You get to go to great parties in a black SUV and you can smoke cigarettes in the car and scream out of the sunroof and all that cliche shit.
 - [ ] soundtrack their break ups, their recovery, their crazy nights out, their revenge, their love, their lives.
+- [ ] that’s when a totally opposite defiant stance is born.
