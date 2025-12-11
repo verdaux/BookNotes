@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-10-03T21:38:28+05:30
+modified: 2025-12-11T14:41:36+05:30
 type: Checklist
 ---
 
@@ -12,4 +12,5 @@ type: Checklist
 - [ ] John berger - ways of seeing
 - [ ] The structure of scientific revolutions
 - [ ] Thomas Mann
-- [ ] Max, mischa and tet offensive 
+- [ ] Max, mischa and tet offensive
+- [ ] Catalina (2025) by Karla Cornejo Villavicencio
