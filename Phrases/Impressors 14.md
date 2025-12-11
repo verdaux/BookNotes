@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T15:55:54+05:30
+modified: 2025-12-11T15:59:59+05:30
 type: Checklist
 ---
 
@@ -39,4 +39,5 @@ type: Checklist
 - [ ] I don’t want to be in a situation for even an hour where I am not enjoying myself.
 - [ ] Does the leadership at my company promote a xenophobic agenda and use the wealth I help them acquire to donate directly to bigoted causes and politicians I find despicable? Yeah.
 - [ ] sometimes I wear a cool Hawaiian shirt on Fridays, and it’s commonly accepted that bad people don’t wear shirts with flowers on them.
-- [ ] this is why my friends and I have started making it illegal to look things up on your phone while we’re hanging out. instead, we just have to argue about it. knowing the answer to something is a conversational dead end; not knowing is a social stimulant. 
+- [ ] this is why my friends and I have started making it illegal to look things up on your phone while we’re hanging out. instead, we just have to argue about it. knowing the answer to something is a conversational dead end; not knowing is a social stimulant.
+- [ ] Disliking something purely because of its widespread popularity or links to commercialism comes with a distinctly art school type energy that is super triggering to me.
