@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T16:56:05+05:30
+modified: 2025-12-11T20:33:38+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] My eyes hurt from staring at my computer all day. Time to unwind with 2 hours on my phone.
 - [ ] Stares like Fleabag into the camera but is a man.
 - [ ] what if i just extend my youth forever by doing one Master’s after the other? what then?
+- [ ] Your pride won't be making our choices today
