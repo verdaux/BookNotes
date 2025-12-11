@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-11T14:41:50+05:30
+modified: 2025-12-11T14:42:03+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Max, mischa and tet offensive
 - [ ] Catalina (2025) by Karla Cornejo Villavicencio
 - [ ] Gentlemen Prefer Blondes (1925) by Anita Loos
+- [ ] Happy Hour (2021) by Marlowe Granados
