@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-11T14:42:15+05:30
+modified: 2025-12-11T14:42:27+05:30
 type: Checklist
 ---
 
@@ -16,4 +16,5 @@ type: Checklist
 - [ ] Catalina (2025) by Karla Cornejo Villavicencio
 - [ ] Gentlemen Prefer Blondes (1925) by Anita Loos
 - [ ] Happy Hour (2021) by Marlowe Granados
-- [ ] The Bombshell (2025) by Darrow Farr 
+- [ ] The Bombshell (2025) by Darrow Farr
+- [ ] Three Summers (1946) by Margarita Liberaki
