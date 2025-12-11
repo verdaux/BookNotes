@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T10:40:13+05:30
+modified: 2025-12-11T14:31:48+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Neoclassical diarist
 - [ ] Stir the pot
 - [ ] Add fuel to fire
+- [ ] Cinema kvetcher
