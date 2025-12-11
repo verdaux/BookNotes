@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T20:33:38+05:30
+modified: 2025-12-11T20:56:41+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Stares like Fleabag into the camera but is a man.
 - [ ] what if i just extend my youth forever by doing one Master’s after the other? what then?
 - [ ] Your pride won't be making our choices today
+- [ ] Twenty-six years before this story opens the had been born to the family a son
