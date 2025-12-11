@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T16:03:32+05:30
+modified: 2025-12-11T16:04:14+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] this is why my friends and I have started making it illegal to look things up on your phone while we’re hanging out. instead, we just have to argue about it. knowing the answer to something is a conversational dead end; not knowing is a social stimulant.
 - [ ] Disliking something purely because of its widespread popularity or links to commercialism comes with a distinctly art school type energy that is super triggering to me.
 - [ ] That last part was obviously not true, I was TOTALLY judging them to be honest
+- [ ] The whole thing was one big shrug with a huge air of indifference. 
