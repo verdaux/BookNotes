@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T14:35:40+05:30
+modified: 2025-12-11T14:38:08+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] You get to go to great parties in a black SUV and you can smoke cigarettes in the car and scream out of the sunroof and all that cliche shit.
 - [ ] soundtrack their break ups, their recovery, their crazy nights out, their revenge, their love, their lives.
 - [ ] that’s when a totally opposite defiant stance is born.
+- [ ] I don’t want to be in a situation for even an hour where I am not enjoying myself.
