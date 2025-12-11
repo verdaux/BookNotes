@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T15:57:19+05:30
+modified: 2025-12-11T16:57:50+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] anhedonic equanimity
 - [ ] De-Netflix-ication
 - [ ] Inexorable = unbudgeable
+- [ ] Amazeballs
