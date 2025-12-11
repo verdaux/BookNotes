@@ -1,6 +1,6 @@
 ---
 created: 2023-07-06T13:14:22+05:30
-modified: 2025-12-11T22:44:55+05:30
+modified: 2025-12-11T22:53:00+05:30
 type: Checklist
 ---
 
@@ -68,4 +68,5 @@ type: Checklist
 - [ ] Epistolary - relating to or denoting the writing of letters or literary works.
 - [ ] Buggery = anal intercourse 
 - [ ] Ineffable = can't be described in words
-- [ ] Unwavering = steady and resolute 
+- [ ] Unwavering = steady and resolute
+- [ ] gauche = graceless
