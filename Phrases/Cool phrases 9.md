@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T16:57:50+05:30
+modified: 2025-12-11T16:58:02+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] De-Netflix-ication
 - [ ] Inexorable = unbudgeable
 - [ ] Amazeballs
+- [ ] Under duress 
