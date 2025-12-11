@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T14:38:51+05:30
+modified: 2025-12-11T15:54:53+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Cinema kvetcher
 - [ ] Hot pursuit of pleasure
 - [ ] anhedonic equanimity
+- [ ] De-Netflix-ication
