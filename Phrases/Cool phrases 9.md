@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T10:32:50+05:30
+modified: 2025-12-11T10:33:22+05:30
 type: Checklist
 ---
 
@@ -24,4 +24,4 @@ type: Checklist
 - [ ] What in the matcha latte is wrong with you?
 - [ ] No interests, no verve
 - [ ] 10/10 would recommend
-- [ ] Neoclassical
+- [ ] Neoclassical diarist
