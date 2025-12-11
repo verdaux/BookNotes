@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T14:38:08+05:30
+modified: 2025-12-11T15:50:44+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] soundtrack their break ups, their recovery, their crazy nights out, their revenge, their love, their lives.
 - [ ] that’s when a totally opposite defiant stance is born.
 - [ ] I don’t want to be in a situation for even an hour where I am not enjoying myself.
+- [ ] Does the leadership at my company promote a xenophobic agenda and use the wealth I help them acquire to donate directly to bigoted causes and politicians I find despicable? Yeah.
