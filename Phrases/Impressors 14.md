@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-10T21:25:25+05:30
+modified: 2025-12-11T09:59:19+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] the most likable, charismatic, enjoyable people to be around are people who demand nothing of you.
 - [ ] They are not holding love hostage when you don't act in accordance with their desires.
 - [ ] All politicians smile when they're working a crowd, but the really charismatic ones don't have to remember to smile.
+- [ ] Anthony Bourdain moved through the world with the grace of a rock and roll samurai, part Hemingway, part Lou Reed, part kitchen pirate
