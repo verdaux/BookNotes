@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:33:46+05:30
-modified: 2025-12-11T16:09:09+05:30
+modified: 2025-12-11T16:51:19+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] The whole thing was one big shrug with a huge air of indifference.
 - [ ] Huge fan of months that have the decency to begin on a monday.
 - [ ] My eyes hurt from staring at my computer all day. Time to unwind with 2 hours on my phone.
+- [ ] Stares like Fleabag into the camera but is a man.
