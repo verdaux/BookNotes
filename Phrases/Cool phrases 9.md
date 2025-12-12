@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-11T22:58:59+05:30
+modified: 2025-12-12T16:46:48+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,5 @@ type: Checklist
 - [ ] Amazeballs
 - [ ] Under duress
 - [ ] My exquisite wife
+- [ ] When the opportunity presents itself
+- [ ] I'm on shakier grounds
