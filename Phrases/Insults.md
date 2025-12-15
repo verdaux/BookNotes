@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-08T23:49:45+05:30
+modified: 2025-12-15T17:23:37+05:30
 type: Checklist
 ---
 
@@ -61,3 +61,5 @@ type: Checklist
 - [ ] Tough talk for a fella with a small cock.
 - [ ] Is this your first time bullying? You're doing poorly.
 - [ ] Ignorance has never looked more confident
+- [ ] Why play so hard to get when you are so hard to want?
+- [ ] You look like a before picture.
