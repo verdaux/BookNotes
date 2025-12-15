@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-15T17:21:14+05:30
+modified: 2025-12-15T17:22:19+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] Your lips ft. My neck 
 - [ ] It's rude to stare
 - [ ] You smell like love
+- [ ] Let me distract you.
