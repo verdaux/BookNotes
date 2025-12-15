@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-13T18:38:06+05:30
+modified: 2025-12-15T07:54:27+05:30
 type: Checklist
 ---
 
@@ -40,4 +40,5 @@ type: Checklist
 - [ ] Teri mummy meri fan catch me if you can.
 - [ ] Former child
 - [ ] Vulgar pursuit of stuff
-- [ ] Average radiohead nerd 
+- [ ] Average radiohead nerd
+- [ ] Capitalism on crack/cocaine 
