@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-15T17:20:50+05:30
+modified: 2025-12-15T17:21:14+05:30
 type: Checklist
 ---
 
@@ -43,4 +43,5 @@ type: Checklist
 - [ ] Average radiohead nerd
 - [ ] Capitalism on crack/cocaine
 - [ ] Your lips ft. My neck 
-- [ ] It's rude to stare 
+- [ ] It's rude to stare
+- [ ] You smell like love
