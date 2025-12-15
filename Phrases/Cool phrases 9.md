@@ -1,6 +1,6 @@
 ---
 created: 2025-12-10T17:32:43+05:30
-modified: 2025-12-15T07:54:27+05:30
+modified: 2025-12-15T17:20:50+05:30
 type: Checklist
 ---
 
@@ -41,4 +41,6 @@ type: Checklist
 - [ ] Former child
 - [ ] Vulgar pursuit of stuff
 - [ ] Average radiohead nerd
-- [ ] Capitalism on crack/cocaine 
+- [ ] Capitalism on crack/cocaine
+- [ ] Your lips ft. My neck 
+- [ ] It's rude to stare 
