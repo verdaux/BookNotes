@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-15T17:22:00+05:30
+modified: 2025-12-15T17:28:15+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Your skin makes me feel forgiven
 - [ ] If you like this, then you like me.
 - [ ] Hello? Do I have to do all the work?
+- [ ] If you were a bullet, I'd shoot myself to have you in me.
