@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-15T21:41:13+05:30
+modified: 2025-12-15T21:46:15+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Do you not know your line?
 - [ ] Never buy weed from a cat
 - [ ] I’m learning to stop shrinking myself to fit spaces that were never meant to hold me.
+- [ ] Pyari lagne k alawa aur kya karti hain aap?
