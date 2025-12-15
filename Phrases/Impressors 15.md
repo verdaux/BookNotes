@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-15T17:28:42+05:30
+modified: 2025-12-15T21:27:59+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Hello? Do I have to do all the work?
 - [ ] If you were a bullet, I'd shoot myself to have you in me.
 - [ ] You make overthinking look cute
+- [ ] Do you not know your line?
