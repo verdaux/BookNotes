@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-15T17:24:23+05:30
+modified: 2025-12-15T17:25:11+05:30
 type: Checklist
 ---
 
@@ -65,3 +65,4 @@ type: Checklist
 - [ ] You look like a before picture.
 - [ ] You're not pretty enough to be this stupid
 - [ ] You're impossible to underestimate
+- [ ] I'd challenge you to a battle of wits but I can see that you're unarmed 
