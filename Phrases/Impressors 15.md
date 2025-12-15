@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-15T21:46:15+05:30
+modified: 2025-12-15T22:05:16+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Never buy weed from a cat
 - [ ] I’m learning to stop shrinking myself to fit spaces that were never meant to hold me.
 - [ ] Pyari lagne k alawa aur kya karti hain aap?
+- [ ] I don’t wanna read that you’re going to put on some lo-fi jazz to read Sally Rooney with a 40$ scented candle lit up next to your urban outfitter clean sheets.
