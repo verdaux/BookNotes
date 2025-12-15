@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T16:59:56+05:30
-modified: 2025-12-15T17:02:37+05:30
+modified: 2025-12-15T17:08:38+05:30
 type: Checklist
 ---
 
@@ -9,3 +9,4 @@ type: Checklist
 - [ ] Of -> he thinks (of) himself (as) an expert
 - [ ] Is -> do you think it (is) impertinent.
 - [ ] 2nd is -> every look is a cordial smile, every gesture (is) a familiar caress
+- [ ] That are -> I have a taste for all things (that are) classical.
