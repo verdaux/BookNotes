@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-15T17:23:37+05:30
+modified: 2025-12-15T17:24:23+05:30
 type: Checklist
 ---
 
@@ -63,3 +63,5 @@ type: Checklist
 - [ ] Ignorance has never looked more confident
 - [ ] Why play so hard to get when you are so hard to want?
 - [ ] You look like a before picture.
+- [ ] You're not pretty enough to be this stupid
+- [ ] You're impossible to underestimate
