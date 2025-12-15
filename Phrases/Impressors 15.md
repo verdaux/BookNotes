@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-15T22:06:01+05:30
+modified: 2025-12-15T22:08:27+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] I don’t wanna read that you’re going to put on some lo-fi jazz to read Sally Rooney with a 40$ scented candle lit up next to your urban outfitter clean sheets.
 - [ ] when we said ‘Let’s get off our phones and delete Instagram’ it wasn’t to post an insipid newsletter with details you should only share with your therapist.
 - [ ] and I whistle slow walkers on the street because I’m a fearless menace
+- [ ] where great minds come to read and write, but also less than spectacular minds have come to this place
