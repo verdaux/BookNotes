@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-11T14:42:42+05:30
+modified: 2025-12-16T23:38:45+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] The Bombshell (2025) by Darrow Farr
 - [ ] Three Summers (1946) by Margarita Liberaki
 - [ ] essay: ‘Uses of the Erotic: The Erotic as Power’ by Audre Lorde (collected in Sister Outsider)
+- [ ] David graeber
