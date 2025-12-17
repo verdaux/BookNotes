@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T15:13:41+05:30
+modified: 2025-12-17T15:32:12+05:30
 type: Checklist
 ---
 
@@ -14,6 +14,12 @@ type: Checklist
 - [ ] Verb: beleaguer
 - [ ] Adjective: resplendent
 - [ ] Adjective: incendiary
+- [ ] Noun: microcosm
+|'mI-kru,kó-zum|
+	A miniature model of something • The small town was a microcosm of American society
+Derived
+
+Adjective: microcosmic
 |in'sen-dee,e-ree| |in'sen-d(ee-)u-ree|
 	Capable of catching fire spontaneously or causing fires or burning readily • an incendiary agent • incendiary bombs
 ≈	combustible
