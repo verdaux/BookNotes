@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-18T00:29:19+05:30
+modified: 2025-12-18T00:32:40+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] His first, and perhaps truest, love was the spotlight
 - [ ] like a suburban teenager who has been denied the use of his father’s Lexus for the night.”
 - [ ] They reached out, I freaked out,
+- [ ] aim for films that thread the needle between "actually good" and "won't alienate your roommate who exclusively watches superhero movies
