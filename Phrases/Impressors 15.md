@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-17T16:16:20+05:30
+modified: 2025-12-17T17:43:29+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] let’s not pretend you didn’t get your sylvia plath recommendations from the internet as well.
 - [ ] we’re evolved monkeys living in a spinning rock in a corner of the universe, it’s really not that deep.
 - [ ] Makes me want to slap them backhanded
+- [ ] This was a pilgrimage for my earnestly francophile friends
