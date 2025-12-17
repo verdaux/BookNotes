@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-17T19:06:27+05:30
+modified: 2025-12-17T23:35:49+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] The shared fate of those who fuck a lot.
 - [ ] The way their hands move toward my skin like they're approaching something sacred.
 - [ ] Each kiss a question your body answers without words.
+- [ ] And I worked 50 hours this week and the 200 dollars that was left on my bank account after I paid all my bills was used for my entertainment on your shitty fucking book, and If I am your profit, you will not silence my scathing review if I feel like my time and money was wasted to spare you from feeling sad. 
