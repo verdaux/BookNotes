@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-17T16:05:44+05:30
+modified: 2025-12-17T16:14:46+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] I have an intolerance for a life that doesn’t sparkle.
 - [ ] Hamish, your last name is McKenzie. one of my best friend’s name is Mackenzie. we have a lot in common, you and I.
 - [ ] let’s not pretend you didn’t get your sylvia plath recommendations from the internet as well.
+- [ ] we’re evolved monkeys living in a spinning rock in a corner of the universe, it’s really not that deep.
