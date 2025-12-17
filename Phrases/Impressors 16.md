@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-18T00:23:08+05:30
+modified: 2025-12-18T00:29:19+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Mean-spirited contrarians are exhausting company because everyone knows you’re workshopping your next takedown.
 - [ ] His first, and perhaps truest, love was the spotlight
 - [ ] like a suburban teenager who has been denied the use of his father’s Lexus for the night.”
+- [ ] They reached out, I freaked out,
