@@ -1,7 +1,7 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T16:03:39+05:30
-type: Journal
+modified: 2025-12-17T17:45:35+05:30
+type: Checklist
 ---
 
 # Vocab 3
@@ -11,6 +11,8 @@ type: Journal
 - [ ] Belligerent= aggressive and war like
 - [ ] Reticence= not revealing one's thoughts or feelings readily
 - [ ] Flagrant= conspicuously or obviously offensive
+- [ ] Intrasingent = unwilling or refusing to change one's views about something 
+- [ ] 
 - [ ] Verb: beleaguer
 - [ ] Adjective: resplendent
 - [ ] Adjective: incendiary
