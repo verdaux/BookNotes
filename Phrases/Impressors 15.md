@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-16T23:37:08+05:30
+modified: 2025-12-17T09:35:42+05:30
 type: Checklist
 ---
 
@@ -22,4 +22,5 @@ type: Checklist
 - [ ] and I whistle slow walkers on the street because I’m a fearless menace
 - [ ] where great minds come to read and write, but also less than spectacular minds have come to this place
 - [ ] I watch people who have a great tolerance for suffering as they toil away in lives they despise and I think, thank fuck I’m ‘weak’.
-- [ ] I have an intolerance for a life that doesn’t sparkle. 
+- [ ] I have an intolerance for a life that doesn’t sparkle.
+- [ ] Hamish, your last name is McKenzie. one of my best friend’s name is Mackenzie. we have a lot in common, you and I. 
