@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T15:35:54+05:30
+modified: 2025-12-17T15:36:27+05:30
 type: Checklist
 ---
 
@@ -16,6 +16,12 @@ type: Checklist
 - [ ] Adjective: incendiary
 - [ ] Noun: microcosm
 - [ ] Noun: dissonance
+- [ ] Noun: gentrification
+|,jen-tree-fi'key-shun|
+	The restoration of run-down urban areas by the middle class (resulting in the displacement of low-income residents) • The gentrification of the neighborhood led to rising property values
+Derived
+
+Verb: gentrify
 |di-su-nun(t)s|
 	A conflict of people's opinions, actions or characters • The dissonance between his words and actions made people distrust him
 =	disagreement, discord, dissension
