@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T15:32:12+05:30
+modified: 2025-12-17T15:35:54+05:30
 type: Checklist
 ---
 
@@ -15,6 +15,23 @@ type: Checklist
 - [ ] Adjective: resplendent
 - [ ] Adjective: incendiary
 - [ ] Noun: microcosm
+- [ ] Noun: dissonance
+|di-su-nun(t)s|
+	A conflict of people's opinions, actions or characters • The dissonance between his words and actions made people distrust him
+=	disagreement, discord, dissension
+
+	The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience • modern music is just dissonance to me
+=	noise, racket
+
+	Disagreeable sounds • The dissonance of the out-of-tune piano was painful to hear
+◑	harmony
+Derived
+
+Noun: dissonancy
+
+Verb: dissonate
+
+Adjective: dissonant
 |'mI-kru,kó-zum|
 	A miniature model of something • The small town was a microcosm of American society
 Derived
