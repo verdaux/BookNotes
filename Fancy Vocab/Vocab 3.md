@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T17:45:35+05:30
+modified: 2025-12-18T00:23:42+05:30
 type: Checklist
 ---
 
@@ -12,7 +12,16 @@ type: Checklist
 - [ ] Reticence= not revealing one's thoughts or feelings readily
 - [ ] Flagrant= conspicuously or obviously offensive
 - [ ] Intrasingent = unwilling or refusing to change one's views about something 
-- [ ] 
+- [ ] Adjective: petulant
+|pe-tyû-lunt| |pe-chu-lunt|
+	Easily irritated or annoyed • an incorrigibly petulant young man
+=	cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, pouty, scratchy, techy, testy, tetchy
+≈	ill-natured
+Derived
+
+Noun: petulance
+
+Adverb: petulantly
 - [ ] Verb: beleaguer
 - [ ] Adjective: resplendent
 - [ ] Adjective: incendiary
