@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-18T00:17:45+05:30
+modified: 2025-12-18T00:18:24+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Charm fades once people discover that cruelty doesn’t seriously make you interesting.
 - [ ] you know your dick was hard the entire time you were watching those first twenty minutes.
 - [ ] You’d be updating your LinkedIn by lunch
+- [ ] Mean-spirited contrarians are exhausting company because everyone knows you’re workshopping your next takedown.
