@@ -1,6 +1,7 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-17T15:37:13+05:30
+modified: 2025-12-17T16:02:56+05:30
+type: Checklist
 ---
 
 # Vocab 3
@@ -16,6 +17,30 @@ modified: 2025-12-17T15:37:13+05:30
 - [ ] Noun: microcosm
 - [ ] Noun: dissonance
 - [ ] Noun: gentrification
+- [ ] Noun: smut
+|smút|
+	Sooty or dirty mark; a speck of dirt or sooty material • The mechanic's hands were covered in smuts from working on the engine
+=	crock
+
+	Material depicting explicit sexual activity, intended to cause sexual arousal • she denounced the exposure of children to smut
+=	erotica, porn, pornography
+
+	An offensive or indecent word or phrase • The letter was full of smut and vulgarisms
+=	dirty word, filth, obscenity, vulgarism
+
+	Destructive diseases of plants (especially cereal grasses) caused by fungi that produce black powdery masses of spores • The corn crop was ruined by smut
+	Any fungus of the order Ustilaginales • The corn crop was devastated by a smut fungus infection
+=	smut fungus
+Verb: smut
+(smutted, smutting)
+|smút|
+	Make obscene • This line in the play smuts the entire act
+	Stain with a dirty substance, such as soot • The chimney sweep's clothes were smutted with soot
+	Become affected with smut • the corn smutted and could not be eaten
+	(farming) affect with smut or mildew, as of a crop such as corn • The humid conditions smutted the corn crop
+Derived
+
+Adjective: smutty
 |,jen-tree-fi'key-shun|
 	The restoration of run-down urban areas by the middle class (resulting in the displacement of low-income residents) • The gentrification of the neighborhood led to rising property values
 Derived
