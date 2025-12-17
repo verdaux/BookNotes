@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-17T17:46:47+05:30
+modified: 2025-12-17T19:06:27+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,5 @@ type: Checklist
 - [ ] Makes me want to slap them backhanded
 - [ ] This was a pilgrimage for my earnestly francophile friends
 - [ ] The shared fate of those who fuck a lot.
+- [ ] The way their hands move toward my skin like they're approaching something sacred.
+- [ ] Each kiss a question your body answers without words.
