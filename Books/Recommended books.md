@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-16T23:38:45+05:30
+modified: 2025-12-18T22:23:26+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Three Summers (1946) by Margarita Liberaki
 - [ ] essay: ‘Uses of the Erotic: The Erotic as Power’ by Audre Lorde (collected in Sister Outsider)
 - [ ] David graeber
+- [ ] https://open.substack.com/pub/haroldrogers/p/my-28-favorite-books?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=708ag4
