@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-18T22:20:49+05:30
+modified: 2025-12-18T22:24:44+05:30
 type: Checklist
 ---
 
@@ -30,6 +30,19 @@ Adverb: petulantly
 - [ ] Noun: gentrification
 - [ ] Noun: smut
 - [ ] Adjective: exuberant
+- [ ] Noun: jeer
+|jeer|
+	Showing your contempt by derision • His jeer at their efforts discouraged the volunteers
+=	jeering, mockery, scoff, scoffing
+Verb: jeer
+|jeer|
+	Shout or laugh at with contempt and derision • The crowd jeered at the speaker
+=	flout, gibe, scoff
+Derived
+
+Noun: jeerer, jeering
+
+Adverb: jeeringly
 |ig'zoo-bu-runt| |eg'zoo-bu-runt|
 	Joyously unrestrained • The roaring crowd in a full stadium before the World Series might be said to be exuberant
 =	ebullient, high-spirited
