@@ -1,0 +1,53 @@
+---
+created: 2025-12-10T17:33:46+05:30
+modified: 2025-12-12T09:42:15+05:30
+type: Checklist
+---
+
+# Impressors 14
+
+- [ ] Creating chaos, one dance floor at a time
+- [ ] Champagne in one hand, dreams in other
+- [ ] My bed is a magical place. I suddenly remember everything
+- [ ] I came, I saw, I made it awkward
+- [ ] Not lazy. Just on energy saving mode
+- [ ] Consider this your daily dose of awesome
+- [ ] Breathing in stardust, exhaling poetry
+- [ ] Somewhere between nostalgia and a dream
+- [ ] Sunlight woven into my thoughts
+- [ ] Dipped in moonlight, wrapped in serenity
+- [ ] Floating between what is and what could be
+- [ ] Echoes of a moment that never fades
+- [ ] A daydream painted in soft hues
+- [ ] If silence had a colour, it would look like this
+- [ ] The melody of a distant past
+- [ ] In the arms of a gentle storm
+- [ ] Name 3 hobbies you have outside of media consumption
+- [ ] Perfect strangers are supposed to bear the burden of your maintenance?
+- [ ] the most likable, charismatic, enjoyable people to be around are people who demand nothing of you.
+- [ ] They are not holding love hostage when you don't act in accordance with their desires.
+- [ ] All politicians smile when they're working a crowd, but the really charismatic ones don't have to remember to smile.
+- [ ] Anthony Bourdain moved through the world with the grace of a rock and roll samurai, part Hemingway, part Lou Reed, part kitchen pirate
+- [ ] Can be romanticised until it makes ya sick.
+- [ ] What I lack in tangible experience I make up for in verve and intuition, so hopefully I don’t steer you in the wrong direction.
+- [ ] every day felt like the mental warfare
+- [ ] What if you get the procedure done and all of a sudden she’s kvetching about your asshole being too dark? Maybe incur further.
+- [ ] This is a fart in the timeline of your life.
+- [ ] You get to go to great parties in a black SUV and you can smoke cigarettes in the car and scream out of the sunroof and all that cliche shit.
+- [ ] soundtrack their break ups, their recovery, their crazy nights out, their revenge, their love, their lives.
+- [ ] that’s when a totally opposite defiant stance is born.
+- [ ] I don’t want to be in a situation for even an hour where I am not enjoying myself.
+- [ ] Does the leadership at my company promote a xenophobic agenda and use the wealth I help them acquire to donate directly to bigoted causes and politicians I find despicable? Yeah.
+- [ ] sometimes I wear a cool Hawaiian shirt on Fridays, and it’s commonly accepted that bad people don’t wear shirts with flowers on them.
+- [ ] this is why my friends and I have started making it illegal to look things up on your phone while we’re hanging out. instead, we just have to argue about it. knowing the answer to something is a conversational dead end; not knowing is a social stimulant.
+- [ ] Disliking something purely because of its widespread popularity or links to commercialism comes with a distinctly art school type energy that is super triggering to me.
+- [ ] That last part was obviously not true, I was TOTALLY judging them to be honest
+- [ ] The whole thing was one big shrug with a huge air of indifference.
+- [ ] Huge fan of months that have the decency to begin on a monday.
+- [ ] My eyes hurt from staring at my computer all day. Time to unwind with 2 hours on my phone.
+- [ ] Stares like Fleabag into the camera but is a man.
+- [ ] what if i just extend my youth forever by doing one Master’s after the other? what then?
+- [ ] Your pride won't be making our choices today
+- [ ] Twenty-six years before this story opens the had been born to the family a son
+- [ ] So you’ll have Sunday to recover before greeting the world again on Monday
+- [ ] writing down everything i’ve ever liked in a spreadsheet because i am convinced that if i stare at the data long enough i will find the grand unifying theory of Me.

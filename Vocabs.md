@@ -1,6 +1,6 @@
 ---
 created: 2023-07-06T13:14:22+05:30
-modified: 2024-10-05T18:00:55+05:30
+modified: 2025-12-15T17:17:08+05:30
 type: Checklist
 ---
 
@@ -13,7 +13,7 @@ type: Checklist
 - [ ] Amendment = change made to a document.
 - [ ] Aversion= deep seated hatred.
 - [ ] Eclectic = choices from diverse range of sources.
-- [ ] Evocative= bringing stromg images, all ideas to mind
+- [ ] Evocative= bringing strong images, all ideas to mind
 - [ ] Prudent = thoughtful of the future.
 - [ ] Broach = raise, bring up
 - [ ] Prone= likely to or liable to suffer from
@@ -66,3 +66,7 @@ type: Checklist
 - [ ] Creftfallen - dejected, despirited
 - [ ] Surreptitious - kept secret because of would not be approved of.
 - [ ] Epistolary - relating to or denoting the writing of letters or literary works.
+- [ ] Buggery = anal intercourse 
+- [ ] Ineffable = can't be described in words
+- [ ] Unwavering = steady and resolute
+- [ ] gauche = graceless

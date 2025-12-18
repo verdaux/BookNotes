@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-11-07T15:19:11+05:30
+modified: 2025-12-15T17:25:45+05:30
 type: Checklist
 ---
 
@@ -59,3 +59,11 @@ type: Checklist
 - [ ] Are you sure you want me to start commenting on your appearance too?
 - [ ] You're right. I'm sorry you're like this.
 - [ ] Tough talk for a fella with a small cock.
+- [ ] Is this your first time bullying? You're doing poorly.
+- [ ] Ignorance has never looked more confident
+- [ ] Why play so hard to get when you are so hard to want?
+- [ ] You look like a before picture.
+- [ ] You're not pretty enough to be this stupid
+- [ ] You're impossible to underestimate
+- [ ] I'd challenge you to a battle of wits but I can see that you're unarmed
+- [ ] You look like a visible fart

@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T16:01:37+05:30
-modified: 2025-11-06T19:36:53+05:30
+modified: 2025-12-09T00:42:33+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,15 @@ type: Checklist
 - [ ] You are shouting at me. Are you sure this is the best way to resolve this problem?
 - [ ] You are correct that this situation could've been handled better. But, calling it stupid is too harsh.
 - [ ] I'm really bad at coping with being interrupted.
+- [ ] I am not going to justify why I feel a certain way.
+- [ ] I am an okay person.
+- [ ] I understand but....
+- [ ] I know it's difficult but ...
+- [ ] I know it's not your fault that this happened....
+- [ ] Fogging - in case of a verbal attack - You are entitled to your opinion - You might be right - it's like a shrug - Don't react and give them a fight back - there is always room for improvement - fogging is only the start.
+- [ ] Overall are you happy?
+- [ ] I'm afraid I have to decline.
+- [ ] I'd hate to commit and do it poorly.  So I better don't.
+- [ ] Do you think you are responding in the most mature manner?
+- [ ] Is this the most exciting part of your day?
+- [ ] You are refuting my character/intelligence. You are not refuting my argument

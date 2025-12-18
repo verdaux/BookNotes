@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T13:13:09+05:30
-modified: 2025-11-04T17:45:40+05:30
+modified: 2025-12-02T19:09:13+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,35 @@ type: Checklist
 - [ ] Some would argue
 - [ ] Sewersidal
 - [ ] Casuist
+- [ ] Loathe and love
+- [ ] Closet ploretariat.
+- [ ] Misspent youth
+- [ ] Unflinchingly modest
+- [ ] Up and coming new actors
+- [ ] That's a sign 
+- [ ] God like ere
+- [ ] NNN: nimbuda x 3
+- [ ] Human lie detector
+- [ ] Unlicensed therapist
+- [ ] I beg your finest pardon?
+- [ ] Twas a grand old time
+- [ ] I'm sweet on her.
+- [ ] Your beauty is captivating
+- [ ] I yearn for you
+- [ ] Dire times
+- [ ] We have a conundrum
+- [ ] She's rather endearing
+- [ ] That remains to be seen.
+- [ ] Do with that what you will.
+- [ ] Be still my heart
+- [ ] Dicklick
+- [ ] Human maachis
+- [ ] Mildly flammable
+- [ ] Hostile takeover
+- [ ] Exquisite adventure
+- [ ] Tiger mama off duty
+- [ ] Heavily hydrated
+- [ ] Baby faces in sweet places
+- [ ] I look good in retrograde
+- [ ] Lo kar diya Slay.
+- [ ] Mr. & Mrs Rasmalai 
