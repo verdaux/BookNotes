@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-18T22:31:13+05:30
+modified: 2025-12-18T23:21:05+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] aim for films that thread the needle between "actually good" and "won't alienate your roommate who exclusively watches superhero movies
 - [ ] A waiter materialises from thin air and immediately hits us with the greatly personal question: Do you need a knife and fork?
 - [ ] He had no talent for simplicity
+- [ ] topics that could earn you a gold star at your next conversational hang.
