@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T17:22:31+05:30
-modified: 2025-12-18T10:07:52+05:30
+modified: 2025-12-18T22:26:41+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,5 @@ type: Checklist
 - [ ] pitfalls of algorithmic hellscapes
 - [ ] bullshit detector
 - [ ] Wet sock
+- [ ] Love fiercely 
+- [ ] One and only
