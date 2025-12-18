@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:42:23+05:30
-modified: 2025-12-17T23:51:55+05:30
+modified: 2025-12-18T23:35:02+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Each kiss a question your body answers without words.
 - [ ] And I worked 50 hours this week and the 200 dollars that was left on my bank account after I paid all my bills was used for my entertainment on your shitty fucking book, and If I am your profit, you will not silence my scathing review if I feel like my time and money was wasted to spare you from feeling sad.
 - [ ] Hope is optimism with a broken heart
+- [ ] Watch any self-proclaimed alpha in the wild and you’ll see it—tight pants, bicep-hugging shirts, veins throbbing, and mouth constantly moving.
