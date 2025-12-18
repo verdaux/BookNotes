@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-18T00:23:42+05:30
+modified: 2025-12-18T22:20:49+05:30
 type: Checklist
 ---
 
@@ -29,6 +29,26 @@ Adverb: petulantly
 - [ ] Noun: dissonance
 - [ ] Noun: gentrification
 - [ ] Noun: smut
+- [ ] Adjective: exuberant
+|ig'zoo-bu-runt| |eg'zoo-bu-runt|
+	Joyously unrestrained • The roaring crowd in a full stadium before the World Series might be said to be exuberant
+=	ebullient, high-spirited
+≈	spirited
+
+	Unrestrained, especially with regard to feelings • exuberant compliments
+=	excessive, extravagant, overweening
+≈	unrestrained
+
+	Produced or growing in extreme abundance • their exuberant blooming
+=	lush, luxuriant, profuse, riotous
+≈	abundant
+Derived
+
+Noun: exuberance, exuberantness
+
+Verb: exuberate
+
+Adverb: exuberantly
 |smút|
 	Sooty or dirty mark; a speck of dirt or sooty material • The mechanic's hands were covered in smuts from working on the engine
 =	crock
