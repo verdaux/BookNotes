@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9318fd3e1fbd669",
+        "id": "018f02064bcdf499",
         "type": "tabs",
         "children": [
           {
-            "id": "f955790227ef818c",
+            "id": "dc1aebe4dd22c25f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Impressors 16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impressors 16"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f955790227ef818c",
+  "active": "e3e30387699f4a71",
   "lastOpenFiles": [
+    "Impressors 16.md",
+    "Docker.md",
     "Sample check.md",
     "Welcome.md"
   ]
