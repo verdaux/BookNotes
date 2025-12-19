@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-18T00:23:42+05:30
+modified: 2025-12-18T23:22:20+05:30
 type: Checklist
 ---
 
@@ -29,6 +29,59 @@ Adverb: petulantly
 - [ ] Noun: dissonance
 - [ ] Noun: gentrification
 - [ ] Noun: smut
+- [ ] Adjective: exuberant
+- [ ] Noun: jeer
+- [ ] Adjective: enamored
+|i'na-murd|
+Usage: American (elsewhere: enamoured)
+	Feeling strong, obsessive or foolish love • Narcissus was a beautiful Greek youth who became enamored of his own reflection
+=	besotted, in love, infatuated, lovestruck, smitten, soft on, taken with
+≈	loving
+
+	Full of admiration, strong liking or love • He was completely enamored with the new art exhibit
+=	taken with
+Derived
+
+Noun: enamoredness
+
+Adjective: overenamored
+
+Verb: enamor
+|i'na-mur|
+Usage: American (elsewhere: enamour)
+	Cause rapt attraction or admiration; attract love • His charm enamored everyone he met
+=	becharm, beguile, bewitch, captivate, capture, catch, charm, enchant, entrance, fascinate, trance
+|jeer|
+	Showing your contempt by derision • His jeer at their efforts discouraged the volunteers
+=	jeering, mockery, scoff, scoffing
+Verb: jeer
+|jeer|
+	Shout or laugh at with contempt and derision • The crowd jeered at the speaker
+=	flout, gibe, scoff
+Derived
+
+Noun: jeerer, jeering
+
+Adverb: jeeringly
+|ig'zoo-bu-runt| |eg'zoo-bu-runt|
+	Joyously unrestrained • The roaring crowd in a full stadium before the World Series might be said to be exuberant
+=	ebullient, high-spirited
+≈	spirited
+
+	Unrestrained, especially with regard to feelings • exuberant compliments
+=	excessive, extravagant, overweening
+≈	unrestrained
+
+	Produced or growing in extreme abundance • their exuberant blooming
+=	lush, luxuriant, profuse, riotous
+≈	abundant
+Derived
+
+Noun: exuberance, exuberantness
+
+Verb: exuberate
+
+Adverb: exuberantly
 |smút|
 	Sooty or dirty mark; a speck of dirt or sooty material • The mechanic's hands were covered in smuts from working on the engine
 =	crock
