@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-18T23:22:20+05:30
+modified: 2025-12-20T21:41:33+05:30
 type: Checklist
 ---
 
@@ -32,6 +32,12 @@ Adverb: petulantly
 - [ ] Adjective: exuberant
 - [ ] Noun: jeer
 - [ ] Adjective: enamored
+- [ ] Noun: frump
+|frúmp|
+	An unfashionable, dowdy, or unattractive person, especially a woman • she got a reputation as a frump
+Derived
+
+Adjective: frumpy
 |i'na-murd|
 Usage: American (elsewhere: enamoured)
 	Feeling strong, obsessive or foolish love • Narcissus was a beautiful Greek youth who became enamored of his own reflection
