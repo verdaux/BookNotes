@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T17:22:31+05:30
-modified: 2025-12-18T23:30:28+05:30
+modified: 2025-12-21T01:22:04+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] One and only
 - [ ] semi-affluent
 - [ ] almost cheesy amount of ardent
+- [ ] manufactured crisis
