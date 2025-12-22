@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T17:22:31+05:30
-modified: 2025-12-21T01:22:04+05:30
+modified: 2025-12-22T16:56:18+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] semi-affluent
 - [ ] almost cheesy amount of ardent
 - [ ] manufactured crisis
+- [ ] phone worship
