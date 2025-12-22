@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:51:58+05:30
+modified: 2025-12-22T16:52:20+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Draw in and expel the morning air
 - [ ] Our relationship was like the moon with it’s many phases.
 - [ ] Her breathing in my ear is something i’d bottle and sell to myself for emergencies.
+- [ ] Women want hands that can strangle problems and caress her heart. Yours look like they’d lose a fight with a pickle jar.
