@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:57:35+05:30
+modified: 2025-12-22T17:04:38+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Brief anecdote intermission: A few weeks ago ...
 - [ ]  I know the rotten flesh I put clothes over,
 - [ ] Laughing at you in linen and sunlight
+- [ ] Been listening to the same 200 songs since high school. Can’t keep my white clothes clean to save my life. And I hate olives.
