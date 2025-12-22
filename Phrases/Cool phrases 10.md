@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T17:22:31+05:30
-modified: 2025-12-22T21:52:29+05:30
+modified: 2025-12-22T22:10:54+05:30
 type: Checklist
 ---
 
@@ -33,4 +33,5 @@ type: Checklist
 - [ ] dick measuring contests
 - [ ] Opulence of the mundane
 - [ ] five decades older than me,
-- [ ] apologized profusely 
+- [ ] apologized profusely
+- [ ] self-imposed exile
