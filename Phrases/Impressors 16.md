@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T22:12:09+05:30
+modified: 2025-12-23T04:45:32+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] to have the taste of me staining his tongue for days.
 - [ ] Greece has always served as my reset button—
 - [ ] a place where time works differently
+- [ ] It's a tough life having such a hot wife
