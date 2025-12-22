@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-18T23:21:05+05:30
+modified: 2025-12-22T16:47:37+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] A waiter materialises from thin air and immediately hits us with the greatly personal question: Do you need a knife and fork?
 - [ ] He had no talent for simplicity
 - [ ] topics that could earn you a gold star at your next conversational hang.
+- [ ] The biggest, most granddaddy of all caveats is that life will, yes, no shit, be more inconvenient without an iPhone.
