@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:49:05+05:30
+modified: 2025-12-22T16:49:28+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] The biggest, most granddaddy of all caveats is that life will, yes, no shit, be more inconvenient without an iPhone.
 - [ ] Last year, I was feeling cosmic nudges towards deconstructing,
 - [ ] are you watching anything good at the moment?
+- [ ] Draw in and expel the morning air
