@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:52:39+05:30
+modified: 2025-12-22T16:52:56+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Her breathing in my ear is something i’d bottle and sell to myself for emergencies.
 - [ ] Women want hands that can strangle problems and caress her heart. Yours look like they’d lose a fight with a pickle jar.
 - [ ] Brief anecdote intermission: A few weeks ago ...
+- [ ]  I know the rotten flesh I put clothes over,
