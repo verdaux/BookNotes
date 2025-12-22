@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:51:38+05:30
+modified: 2025-12-22T16:51:58+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] are you watching anything good at the moment?
 - [ ] Draw in and expel the morning air
 - [ ] Our relationship was like the moon with it’s many phases.
+- [ ] Her breathing in my ear is something i’d bottle and sell to myself for emergencies.
