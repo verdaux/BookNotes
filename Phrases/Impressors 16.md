@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-22T16:50:03+05:30
+modified: 2025-12-22T16:51:38+05:30
 type: Checklist
 ---
 
@@ -22,4 +22,4 @@ type: Checklist
 - [ ] Last year, I was feeling cosmic nudges towards deconstructing,
 - [ ] are you watching anything good at the moment?
 - [ ] Draw in and expel the morning air
-- [ ] and I will not take it personally or send passive-aggressive energy your way.
+- [ ] Our relationship was like the moon with it’s many phases.
