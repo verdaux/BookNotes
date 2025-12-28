@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-15T17:25:45+05:30
+modified: 2025-12-28T22:14:30+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,5 @@ type: Checklist
 - [ ] You're impossible to underestimate
 - [ ] I'd challenge you to a battle of wits but I can see that you're unarmed
 - [ ] You look like a visible fart
+- [ ] I'm sure you belive that's true
+- [ ] Bless your heart
