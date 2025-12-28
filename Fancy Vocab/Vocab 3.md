@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-28T22:16:04+05:30
+modified: 2025-12-28T22:16:23+05:30
 type: Checklist
 ---
 
@@ -33,6 +33,19 @@ Adverb: petulantly
 - [ ] Noun: jeer
 - [ ] Adjective: enamored
 - [ ] Noun: frump
+- [ ] Adjective: vapid
+|va-pid|
+	Lacking taste, flavor or tang • vapid beer • vapid tea
+=	bland, flat, flavorless, insipid, savorless
+≈	tasteless
+
+	Lacking significance, liveliness, spirit or zest • a bunch of vapid schoolgirls • a vapid conversation • a vapid smile
+≈	unexciting, unstimulating
+Derived
+
+Noun: vapidity, vapidness
+
+Adverb: vapidly
 |frúmp|
 	An unfashionable, dowdy, or unattractive person, especially a woman • she got a reputation as a frump
 Derived
