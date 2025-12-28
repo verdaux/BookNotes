@@ -1,6 +1,7 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-20T21:43:17+05:30
+modified: 2025-12-28T22:16:04+05:30
+type: Checklist
 ---
 
 # Vocab 3
@@ -171,3 +172,17 @@ Adverb: resplendently
 
 	Encircle as a military tactic • The Turks beleaguered Vienna
 =	besiege, circumvent, hem in, siege, surround
+
+Adjective: vapid
+|va-pid|
+	Lacking taste, flavor or tang • vapid beer • vapid tea
+=	bland, flat, flavorless, insipid, savorless
+≈	tasteless
+
+	Lacking significance, liveliness, spirit or zest • a bunch of vapid schoolgirls • a vapid conversation • a vapid smile
+≈	unexciting, unstimulating
+Derived
+
+Noun: vapidity, vapidness
+
+Adverb: vapidly
