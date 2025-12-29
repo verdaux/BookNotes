@@ -1,6 +1,6 @@
 ---
 created: 2025-12-15T17:22:31+05:30
-modified: 2025-12-29T22:41:44+05:30
+modified: 2025-12-29T22:41:58+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] self-imposed exile
 - [ ] Medals for all
 - [ ] Marinating in introspection
+- [ ] Cancelling my ozempic
