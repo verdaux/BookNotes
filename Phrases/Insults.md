@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-28T22:14:30+05:30
+modified: 2025-12-30T02:25:11+05:30
 type: Checklist
 ---
 
@@ -69,3 +69,4 @@ type: Checklist
 - [ ] You look like a visible fart
 - [ ] I'm sure you belive that's true
 - [ ] Bless your heart
+- [ ] Everyone who fails as a (role: father/ engineer) says that to me
