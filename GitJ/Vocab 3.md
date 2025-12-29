@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-28T22:16:23+05:30
+modified: 2025-12-29T19:54:23+05:30
 type: Checklist
 ---
 
@@ -32,7 +32,7 @@ Adverb: petulantly
 - [ ] Adjective: exuberant
 - [ ] Noun: jeer
 - [ ] Adjective: enamored
-- [ ] 1 Adjective: vapid |va-pid|
+- [ ] Adjective: vapid |va-pid|
 	Lacking taste, flavor or tang • vapid beer • vapid tea
 =	bland, flat, flavorless, insipid, savorless
 ≈	tasteless
