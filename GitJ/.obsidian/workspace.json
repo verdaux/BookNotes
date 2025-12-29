@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00752ab00477c392",
+        "id": "21a98b6fd76d3770",
         "type": "tabs",
         "children": [
           {
-            "id": "0b67e59954cb67f1",
+            "id": "dbde0cbfa85769dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vocab 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vocab 3"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "971d658b2a1f3c75",
+  "active": "dbde0cbfa85769dc",
   "lastOpenFiles": [
     "Vocab 3.md",
     "Docker.md",
