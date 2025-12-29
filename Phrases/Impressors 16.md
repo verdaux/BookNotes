@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-28T20:36:39+05:30
+modified: 2025-12-30T02:25:01+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] It's a tough life having such a hot wife
 - [ ] Butter my butt and call me a biscuit
 - [ ] As free as a pocketless jeans
+- [ ] Everyone who fails as a (role: father/ engineer) says that to me
