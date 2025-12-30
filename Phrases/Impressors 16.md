@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-31T00:15:20+05:30
+modified: 2025-12-31T00:49:04+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Everyone who fails as a (role: father/ engineer) says that to me
 - [ ] Can't decide if this is cute or dangerous
 - [ ] Can plug in the USB in 2 tries
+- [ ] Are you an engineer? No? But you've heard the words
