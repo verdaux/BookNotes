@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-18T22:23:26+05:30
+modified: 2025-12-31T00:56:56+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] essay: ‘Uses of the Erotic: The Erotic as Power’ by Audre Lorde (collected in Sister Outsider)
 - [ ] David graeber
 - [ ] https://open.substack.com/pub/haroldrogers/p/my-28-favorite-books?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=708ag4
+- [ ] Independent people
