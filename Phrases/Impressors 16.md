@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-31T00:49:04+05:30
+modified: 2025-12-31T01:03:55+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Can't decide if this is cute or dangerous
 - [ ] Can plug in the USB in 2 tries
 - [ ] Are you an engineer? No? But you've heard the words
+- [ ] You're good at answering questions
