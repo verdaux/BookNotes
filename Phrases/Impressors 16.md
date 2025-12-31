@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T00:00:44+05:30
-modified: 2025-12-31T08:30:59+05:30
+modified: 2025-12-31T21:09:58+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Are you an engineer? No? But you've heard the words
 - [ ] You're good at answering questions
 - [ ] Who's your "nobody knows them but me" artist?
+- [ ] Procrastination is liberation because I'm not my to do list
