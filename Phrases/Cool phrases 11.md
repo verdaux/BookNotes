@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-01T21:58:33+05:30
+modified: 2026-01-01T21:58:55+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,4 @@ type: Checklist
 
 - [ ] I have full fat opinions
 - [ ] Unserious
+- [ ] Mildly attacked but deeply seen
