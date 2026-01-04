@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-04T15:10:26+05:30
+modified: 2026-01-04T15:10:46+05:30
 type: Checklist
 ---
 
@@ -35,6 +35,18 @@ Adverb: petulantly
 - [ ]  Adjective: vapid |va-pid|
 - [ ] Noun: chimera
 - [ ] Adjective: puerile
+- [ ] Adjective: derisive
+|di'rI-siv|
+	Abusing vocally; expressing contempt or ridicule • derisive laughter
+=	cynical, derisory, gibelike, jeering, mocking, taunting
+≈	disrespectful
+Derived
+
+Noun: derision, derisiveness
+
+Verb: deride
+
+Adverb: derisively
 |pyûr-ul| |'pyûr,I(-u)l|
 	Of or characteristic of a child • puerile breathing
 	Displaying or suggesting a lack of maturity • puerile jokes
