@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-04T15:10:00+05:30
+modified: 2026-01-04T15:10:26+05:30
 type: Checklist
 ---
 
@@ -34,6 +34,17 @@ Adverb: petulantly
 - [ ] Adjective: enamored
 - [ ]  Adjective: vapid |va-pid|
 - [ ] Noun: chimera
+- [ ] Adjective: puerile
+|pyûr-ul| |'pyûr,I(-u)l|
+	Of or characteristic of a child • puerile breathing
+	Displaying or suggesting a lack of maturity • puerile jokes
+=	adolescent, jejune, juvenile
+≈	immature
+Derived
+
+Noun: child, puerility, puerileness
+
+Adverb: puerilely
 |kI'meer-u|
 	A grotesque product of the imagination • The artist's paintings were filled with chimeras that blended human and animal forms
 	(biology) an organism or tissue containing at least two genetically distinct cell types, resulting from fusion of embryos, mutation, or laboratory manipulation • The researchers created a mouse-human chimera to study human disease
