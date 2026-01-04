@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2025-12-31T00:56:56+05:30
+modified: 2026-01-04T15:11:12+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] David graeber
 - [ ] https://open.substack.com/pub/haroldrogers/p/my-28-favorite-books?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=708ag4
 - [ ] Independent people
+- [ ] The Trees by Percival Everett https://www.goodreads.com/book/show/56269278-the-trees
