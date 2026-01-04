@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-04T16:41:15+05:30
+modified: 2026-01-04T16:46:22+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] That's an interesting way to look at it.
 - [ ] That must've been such a big moment for you.
 - [ ] What do you love the most about it?
+- [ ] Do you smile like this for everyone or is it just me?
