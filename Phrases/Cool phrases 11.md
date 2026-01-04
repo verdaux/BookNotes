@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-04T10:53:12+05:30
+modified: 2026-01-04T16:39:56+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] This is my sexual orientation
 - [ ] Molten manuscripts
 - [ ] Humility is hard to access
+- [ ] Tell me more
