@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-04T16:40:07+05:30
+modified: 2026-01-04T16:40:39+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Just rejoice that you're not one of those people.
 - [ ] Depends... Are you the kind who remembers names or do you break people's hearts?
 - [ ] That's an interesting way to look at it.
+- [ ] That must've been such a big moment for you.
