@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2025-12-29T19:57:42+05:30
+modified: 2026-01-04T15:10:00+05:30
 type: Checklist
 ---
 
@@ -33,6 +33,21 @@ Adverb: petulantly
 - [ ] Noun: jeer
 - [ ] Adjective: enamored
 - [ ]  Adjective: vapid |va-pid|
+- [ ] Noun: chimera
+|kI'meer-u|
+	A grotesque product of the imagination • The artist's paintings were filled with chimeras that blended human and animal forms
+	(biology) an organism or tissue containing at least two genetically distinct cell types, resulting from fusion of embryos, mutation, or laboratory manipulation • The researchers created a mouse-human chimera to study human disease
+	A deep-sea fish with a tapering body, smooth skin, and long threadlike tail • The chimera's ghostly appearance earned it the nickname 'ghost shark'
+Derived
+
+Adjective: chimeral, chimeric, chimerical
+
+Noun: Chimera
+	(Greek mythology) fire-breathing female monster with a lion's head and a goat's body and a serpent's tail; daughter of Typhon
+=	Chimaera
+Derived
+
+Adjective: chimeral, chimeric, chimerical
 	Lacking taste, flavor or tang • vapid beer • vapid tea
 =	bland, flat, flavorless, insipid, savorless
 ≈	tasteless
