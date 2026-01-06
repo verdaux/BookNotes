@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-04T23:57:47+05:30
+modified: 2026-01-06T22:15:35+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] What do you love the most about it?
 - [ ] Do you smile like this for everyone or is it just me?
 - [ ] You wouldn't be against this idea, will you?
+- [ ] Subscribe for free or upgrade to tell me I’m wrong about everything 🙃
