@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-06T22:15:35+05:30
+modified: 2026-01-06T22:16:52+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Do you smile like this for everyone or is it just me?
 - [ ] You wouldn't be against this idea, will you?
 - [ ] Subscribe for free or upgrade to tell me I’m wrong about everything 🙃
+- [ ] the machinery of power always, always eats its operators. 
