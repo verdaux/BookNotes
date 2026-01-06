@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-06T22:23:06+05:30
+modified: 2026-01-06T22:25:26+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Subscribe for free or upgrade to tell me I’m wrong about everything 🙃
 - [ ] the machinery of power always, always eats its operators.
 - [ ] When you’re three energy drinks deep into a gig that pays maybe enough for rent, ironic misogyny starts looking like the only honest performance left.
+- [ ] Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape.”
