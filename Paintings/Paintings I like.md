@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-01-07T22:15:33+05:30
+modified: 2026-01-07T22:16:49+05:30
 type: Checklist
 ---
 
@@ -8,3 +8,4 @@ type: Checklist
 
 - [ ] the swirling Old-World scenes of Dario Vargas (b. 1978).
 - [ ] Luca Ponsato - Table for One
+- [ ] Laura Makabresku Pt I.
