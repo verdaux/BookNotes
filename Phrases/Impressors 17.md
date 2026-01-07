@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-07T22:23:38+05:30
+modified: 2026-01-07T22:29:56+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape.”
 - [ ] when you hate yourself take a shower. when you hate the world take a walk
 - [ ] My last summer before camp spits me out into the world of summer jobs.
+- [ ] use “special occasion” perfume for normal occasions
