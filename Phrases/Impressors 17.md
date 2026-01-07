@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-07T14:31:05+05:30
+modified: 2026-01-07T22:23:38+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] When you’re three energy drinks deep into a gig that pays maybe enough for rent, ironic misogyny starts looking like the only honest performance left.
 - [ ] Knowing how to be solitary is central to the art of loving. When we can be alone, we can be with others without using them as a means of escape.”
 - [ ] when you hate yourself take a shower. when you hate the world take a walk
+- [ ] My last summer before camp spits me out into the world of summer jobs.
