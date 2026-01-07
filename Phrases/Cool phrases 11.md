@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-06T22:35:00+05:30
+modified: 2026-01-07T14:28:29+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Tell me more
 - [ ] amputate your past self
 - [ ] Cinema breather
+- [ ] Becoming a Substack sensation
