@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-04T15:10:46+05:30
+modified: 2026-01-08T17:19:59+05:30
 type: Checklist
 ---
 
@@ -36,6 +36,11 @@ Adverb: petulantly
 - [ ] Noun: chimera
 - [ ] Adjective: puerile
 - [ ] Adjective: derisive
+- [ ] Noun: termagant
+|tur-mu-gunt|
+Usage: archaic
+	A scolding, nagging, bad-tempered woman • His aunt had a reputation as a termagant, always criticizing and complaining
+=	shrew
 |di'rI-siv|
 	Abusing vocally; expressing contempt or ridicule • derisive laughter
 =	cynical, derisory, gibelike, jeering, mocking, taunting
