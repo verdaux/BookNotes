@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-08T17:20:45+05:30
+modified: 2026-01-08T17:28:10+05:30
 type: Checklist
 ---
 
@@ -38,6 +38,18 @@ Adverb: petulantly
 - [ ] Adjective: derisive
 - [ ] Noun: termagant
 - [ ] Noun: languor
+- [ ] Adjective: precocious
+|pri'kow-shus|
+	Characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude) • a precocious achievement • a precocious child
+≈	advanced, intelligent
+
+	(botany) appearing or developing early • precocious flowers appear before the leaves as in some species of magnolias
+≈	early
+Derived
+
+Noun: precociousness, precocity
+
+Adverb: precociously
 |lang-gur|
 	A feeling of lack of interest or energy • The summer heat induced a sense of languor in the entire town
 =	lassitude, listlessness
