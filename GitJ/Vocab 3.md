@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-08T17:19:59+05:30
+modified: 2026-01-08T17:20:45+05:30
 type: Checklist
 ---
 
@@ -37,6 +37,21 @@ Adverb: petulantly
 - [ ] Adjective: puerile
 - [ ] Adjective: derisive
 - [ ] Noun: termagant
+- [ ] Noun: languor
+|lang-gur|
+	A feeling of lack of interest or energy • The summer heat induced a sense of languor in the entire town
+=	lassitude, listlessness
+
+	Inactivity; showing an unusual lack of energy • the general appearance of languor alarmed his friends
+=	flatness, lethargy, phlegm, sluggishness
+
+	A relaxed comfortable feeling • A sense of languor overcame her as she lay in the hammock
+=	dreaminess
+
+	Oppressively still air • Summer shows all the languor of a hot, breezeless day as the dancer lazily brushes her hand over her brow • the afternoon was hot, quiet, and heavy with languor
+Derived
+
+Adjective: languorous
 |tur-mu-gunt|
 Usage: archaic
 	A scolding, nagging, bad-tempered woman • His aunt had a reputation as a termagant, always criticizing and complaining
