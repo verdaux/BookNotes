@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-09T07:29:40+05:30
+modified: 2026-01-09T22:02:59+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Motion picture buff
 - [ ] Peddling knowledge
 - [ ] Be less thirsty
+- [ ] Alchemy of defeat
