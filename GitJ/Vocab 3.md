@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T22:04:27+05:30
+modified: 2026-01-09T22:04:58+05:30
 type: Checklist
 ---
 
@@ -45,6 +45,13 @@ Adverb: petulantly
 - [ ] Verb: genuflect
 - [ ] Adjective: prostrate
 - [ ] Noun: censure
+- [ ] Verb: berate
+|bi'reyt|
+	Censure severely or angrily • The deputy berated the Prime Minister
+=	bawl out, call down, call on the carpet, chew out, chew up, chide, dress down, have words, jaw, lambast, lambaste, lecture, rag, ream, rebuke, reprimand, scold, take to task, trounce
+Derived
+
+Noun: berating
 |sen-shur|
 	Harsh criticism or disapproval • The book review was filled with censure, condemning the author's style
 =	animadversion
