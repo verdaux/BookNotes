@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T08:23:48+05:30
+modified: 2026-01-09T21:43:34+05:30
 type: Checklist
 ---
 
@@ -41,6 +41,16 @@ Adverb: petulantly
 - [ ] Adjective: precocious
 - [ ] Adjective: prescient
 - [ ] Noun: throng
+- [ ] Adjective: haughty
+|ho-tee|
+	Having or showing arrogant superiority to and disdain of those one views as unworthy • haughty aristocrats
+=	disdainful, fastuous, imperious, lordly, orgulous, overbearing, prideful, sniffy, supercilious, swaggering, toplofty
+≈	proud
+Derived
+
+Noun: haughtiness
+
+Adverb: haughtily
 |thróng|
 	A large gathering of people • A throng of fans waited outside the stadium
 =	concourse, multitude
