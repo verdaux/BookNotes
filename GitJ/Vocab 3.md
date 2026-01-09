@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T21:43:34+05:30
+modified: 2026-01-09T22:00:46+05:30
 type: Checklist
 ---
 
@@ -42,6 +42,14 @@ Adverb: petulantly
 - [ ] Adjective: prescient
 - [ ] Noun: throng
 - [ ] Adjective: haughty
+- [ ] Verb: genuflect
+|'jen-yû,flekt|
+	Bend the knees and bow in church or before a religious superior or image • The parishioners genuflected before the altar
+	Bend the knees and bow in a servile manner • He genuflected to his boss hoping for a promotion
+=	kowtow, scrape
+Derived
+
+Noun: genuflection, genuflector
 |ho-tee|
 	Having or showing arrogant superiority to and disdain of those one views as unworthy • haughty aristocrats
 =	disdainful, fastuous, imperious, lordly, orgulous, overbearing, prideful, sniffy, supercilious, swaggering, toplofty
