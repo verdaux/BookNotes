@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T08:05:43+05:30
+modified: 2026-01-09T08:23:48+05:30
 type: Checklist
 ---
 
@@ -40,6 +40,17 @@ Adverb: petulantly
 - [ ] Noun: languor
 - [ ] Adjective: precocious
 - [ ] Adjective: prescient
+- [ ] Noun: throng
+|thróng|
+	A large gathering of people • A throng of fans waited outside the stadium
+=	concourse, multitude
+Verb: throng
+|thróng|
+	Press tightly together or cram • The crowd thronged the auditorium
+=	jam, mob, pack, pile
+Derived
+
+Adjective: thronged
 |pre-sh(ee-)unt| |pree-see-unt|
 	Perceiving the significance of events before they occur • extraordinarily prescient memoranda on the probable course of postwar relations
 ≈	discerning
