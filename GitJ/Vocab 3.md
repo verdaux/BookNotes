@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T22:01:13+05:30
+modified: 2026-01-09T22:04:27+05:30
 type: Checklist
 ---
 
@@ -44,6 +44,22 @@ Adverb: petulantly
 - [ ] Adjective: haughty
 - [ ] Verb: genuflect
 - [ ] Adjective: prostrate
+- [ ] Noun: censure
+|sen-shur|
+	Harsh criticism or disapproval • The book review was filled with censure, condemning the author's style
+=	animadversion
+
+	The state of being excommunicated • The writer's censure by the literary community affected his career
+=	exclusion, excommunication
+Verb: censure
+|sen-shur|
+	Rebuke formally • The committee censured the senator for his unethical behavior
+=	criminate, reprimand
+Derived
+
+Noun: censurer
+
+Adjective: censurable
 |'pró,streyt|
 	Stretched out and lying at full length along the ground • found himself lying prostrate on the floor
 =	flat
