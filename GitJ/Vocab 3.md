@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T22:04:58+05:30
+modified: 2026-01-09T22:06:20+05:30
 type: Checklist
 ---
 
@@ -46,6 +46,17 @@ Adverb: petulantly
 - [ ] Adjective: prostrate
 - [ ] Noun: censure
 - [ ] Verb: berate
+- [ ] Noun: defiance
+|di'fI-un(t)s|
+	A hostile challenge • The protestor's act of defiance against the authorities inspired others
+	A defiant act • His refusal to comply was an act of defiance against authority
+	Intentionally contemptuous behavior or attitude • Her defiance of the dress code led to detention
+=	rebelliousness
+Derived
+
+Verb: defy
+
+Adjective: defiant
 |bi'reyt|
 	Censure severely or angrily • The deputy berated the Prime Minister
 =	bawl out, call down, call on the carpet, chew out, chew up, chide, dress down, have words, jaw, lambast, lambaste, lecture, rag, ream, rebuke, reprimand, scold, take to task, trounce
