@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-08T17:28:10+05:30
+modified: 2026-01-09T08:05:43+05:30
 type: Checklist
 ---
 
@@ -39,6 +39,15 @@ Adverb: petulantly
 - [ ] Noun: termagant
 - [ ] Noun: languor
 - [ ] Adjective: precocious
+- [ ] Adjective: prescient
+|pre-sh(ee-)unt| |pree-see-unt|
+	Perceiving the significance of events before they occur • extraordinarily prescient memoranda on the probable course of postwar relations
+≈	discerning
+Derived
+
+Noun: prescience
+
+Adverb: presciently
 |pri'kow-shus|
 	Characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude) • a precocious achievement • a precocious child
 ≈	advanced, intelligent
