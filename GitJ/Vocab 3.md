@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T22:00:46+05:30
+modified: 2026-01-09T22:01:13+05:30
 type: Checklist
 ---
 
@@ -43,6 +43,25 @@ Adverb: petulantly
 - [ ] Noun: throng
 - [ ] Adjective: haughty
 - [ ] Verb: genuflect
+- [ ] Adjective: prostrate
+|'pró,streyt|
+	Stretched out and lying at full length along the ground • found himself lying prostrate on the floor
+=	flat
+≈	unerect
+
+	Lying face downward • The prostrate figure on the ground wasn't moving
+=	prone
+≈	unerect
+Verb: prostrate
+|pró'streyt| |'pró,streyt|
+	Throw down flat, as on the ground • She prostrated herself with frustration
+	Get into a prostrate position, as in submission • The worshippers prostrated themselves before the idol
+=	bow down
+
+	Render helpless or defenseless • They prostrated the enemy
+Derived
+
+Noun: prostration
 |'jen-yû,flekt|
 	Bend the knees and bow in church or before a religious superior or image • The parishioners genuflected before the altar
 	Bend the knees and bow in a servile manner • He genuflected to his boss hoping for a promotion
