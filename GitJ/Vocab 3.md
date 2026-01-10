@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-10T21:50:19+05:30
+modified: 2026-01-10T22:10:48+05:30
 type: Checklist
 ---
 
@@ -50,6 +50,12 @@ Adverb: petulantly
 - [ ] Noun: exponent
 - [ ] Adjective: wily
 - [ ] Noun: kilter
+- [ ] Noun: gait
+|geyt|
+	A person's manner of walking • Her graceful gait caught everyone's attention
+	A horse's manner of moving • The horse's smooth gait made for a comfortable ride
+	The rate of moving (especially walking or running) • The horse's steady gait covered ground efficiently
+=	pace
 |kil-tur|
 	In working order • in good kilter • out of kilter
 =	kelter
