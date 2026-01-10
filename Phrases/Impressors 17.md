@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-10T18:20:53+05:30
+modified: 2026-01-10T18:25:23+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] That was the glamorous world of IT 
 - [ ] I'm world class at relief
 - [ ] I'm crazy about parentheses 
+- [ ] Her mortal soul is leagues behind her
