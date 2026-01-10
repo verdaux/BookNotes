@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-10T18:19:01+05:30
+modified: 2026-01-10T18:20:53+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,5 @@ type: Checklist
 - [ ] Trying to reinvent your entire life this month is unhinged behaviour invented by productivity bros and people who sell planners.
 - [ ] I won't have coffee with those people
 - [ ] That was the glamorous world of IT 
+- [ ] I'm world class at relief
+- [ ] I'm crazy about parentheses 
