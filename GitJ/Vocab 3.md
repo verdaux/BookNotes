@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-09T22:06:20+05:30
+modified: 2026-01-10T21:47:26+05:30
 type: Checklist
 ---
 
@@ -47,6 +47,19 @@ Adverb: petulantly
 - [ ] Noun: censure
 - [ ] Verb: berate
 - [ ] Noun: defiance
+- [ ] Noun: exponent
+|ik'spow-nunt|
+	A person who pleads for a cause or propounds an idea • The exponent passionately defended the rights of marginalized communities
+=	advocate, advocator, proponent
+
+	Someone who expounds and interprets or explains • He was a leading exponent of modern jazz in the 1950s
+	A mathematical notation indicating the number of times a quantity is multiplied by itself • In the expression 2³, the 3 is the exponent
+=	index, power
+Derived
+
+Verb: expound
+
+Adjective: exponential
 |di'fI-un(t)s|
 	A hostile challenge • The protestor's act of defiance against the authorities inspired others
 	A defiant act • His refusal to comply was an act of defiance against authority
