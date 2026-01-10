@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-10T18:09:13+05:30
+modified: 2026-01-10T18:23:08+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Generous with your time
 - [ ] I doff my hat to you
 - [ ] Free my hips from the chains of Indianness
+- [ ] Can't relax around that
