@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-10T18:23:08+05:30
+modified: 2026-01-10T18:30:49+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,5 @@ type: Checklist
 - [ ] I doff my hat to you
 - [ ] Free my hips from the chains of Indianness
 - [ ] Can't relax around that
+- [ ] Silence any doubters
+- [ ] Asked the unanswerable question. Why?
