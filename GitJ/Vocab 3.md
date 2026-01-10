@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-10T21:47:26+05:30
+modified: 2026-01-10T21:48:38+05:30
 type: Checklist
 ---
 
@@ -48,6 +48,16 @@ Adverb: petulantly
 - [ ] Verb: berate
 - [ ] Noun: defiance
 - [ ] Noun: exponent
+- [ ] Adjective: wily
+|wI-lee|
+	Marked by skill in deception • a wily old attorney
+=	crafty, cunning, foxy, guileful, knavish, sly, tricksy, tricky
+≈	artful
+Derived
+
+Noun: wile, wiliness
+
+Adverb: wilily
 |ik'spow-nunt|
 	A person who pleads for a cause or propounds an idea • The exponent passionately defended the rights of marginalized communities
 =	advocate, advocator, proponent
