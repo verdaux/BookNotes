@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-10T18:30:49+05:30
+modified: 2026-01-10T18:32:06+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,5 @@ type: Checklist
 - [ ] Can't relax around that
 - [ ] Silence any doubters
 - [ ] Asked the unanswerable question. Why?
+- [ ] There were other pleasures involved
+- [ ] In the most amusing Way
