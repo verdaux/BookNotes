@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-10T22:19:01+05:30
+modified: 2026-01-10T22:19:32+05:30
 type: Checklist
 ---
 
@@ -52,6 +52,19 @@ Adverb: petulantly
 - [ ] Noun: kilter
 - [ ] Noun: gait
 - [ ] Verb: confer
+- [ ] Verb: confabulate
+|kun'fab-yu,leyt|
+	(psychiatry) unconsciously replace fact with fantasy in one's memory • The patient confabulated, filling in memory gaps with imagined experiences
+	Talk socially without exchanging too much information • the men were sitting in the cafe and confabulating
+=	chaffer, chat, chatter, chew the fat, chew the rag, chit-chat, chitchat, confab, gab, gas, gossip, jaw, natter, shoot the breeze, visit
+
+	Have a discussion • We confabulated about a plan of action
+=	confab, confer, consult
+Derived
+
+Noun: confabulation
+
+Adjective: confabulatory
 (conferred, conferring)
 |kun'fur|
 	Have a discussion • We conferred about a plan of action
