@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-09T22:11:56+05:30
+modified: 2026-01-10T18:05:45+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] That is not the flex you think it is.
 - [ ] Dust drummed up by thousands of racing feet.
 - [ ] Trying to reinvent your entire life this month is unhinged behaviour invented by productivity bros and people who sell planners.
+- [ ] I won't have coffee with those people
