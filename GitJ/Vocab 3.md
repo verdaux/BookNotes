@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-10T21:48:38+05:30
+modified: 2026-01-10T21:50:19+05:30
 type: Checklist
 ---
 
@@ -49,6 +49,12 @@ Adverb: petulantly
 - [ ] Noun: defiance
 - [ ] Noun: exponent
 - [ ] Adjective: wily
+- [ ] Noun: kilter
+|kil-tur|
+	In working order • in good kilter • out of kilter
+=	kelter
+See also
+out of kilter, throw out of kilter
 |wI-lee|
 	Marked by skill in deception • a wily old attorney
 =	crafty, cunning, foxy, guileful, knavish, sly, tricksy, tricky
