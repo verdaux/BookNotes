@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-01-10T22:10:48+05:30
+modified: 2026-01-10T22:19:01+05:30
 type: Checklist
 ---
 
@@ -51,6 +51,22 @@ Adverb: petulantly
 - [ ] Adjective: wily
 - [ ] Noun: kilter
 - [ ] Noun: gait
+- [ ] Verb: confer
+(conferred, conferring)
+|kun'fur|
+	Have a discussion • We conferred about a plan of action
+=	confab, confabulate, consult
+
+	Grant a qualification, title, right, possession, etc. • The university conferred a degree on its most famous former student, who never graduated
+=	bestow
+Derived
+
+Noun: conferee, conference, conferment, conferral, conferrer
+
+Adjective: conferrable
+
+See also
+confer with
 |geyt|
 	A person's manner of walking • Her graceful gait caught everyone's attention
 	A horse's manner of moving • The horse's smooth gait made for a comfortable ride
