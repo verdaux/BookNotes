@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-10T18:25:23+05:30
+modified: 2026-01-11T13:50:24+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] I'm world class at relief
 - [ ] I'm crazy about parentheses 
 - [ ] Her mortal soul is leagues behind her
+- [ ] If you've decided to be insufferable, preface it by becoming a genius
