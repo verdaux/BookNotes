@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2025-12-31T01:23:27+05:30
+modified: 2026-01-13T22:30:17+05:30
 type: Checklist
 ---
 
@@ -70,4 +70,5 @@ type: Checklist
 - [ ] I'm sure you belive that's true
 - [ ] Bless your heart
 - [ ] Everyone who fails as a (role: father/ engineer) says that to me
-- [ ] Anybody who think this is missing a big idea
+- [ ] Anybody who thinks this is missing a big idea
+- [ ] I've never known a man so unaffected by constant failure
