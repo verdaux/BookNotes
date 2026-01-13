@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-13T15:20:37+05:30
+modified: 2026-01-13T15:21:49+05:30
 type: Checklist
 ---
 
@@ -34,4 +34,5 @@ type: Checklist
 - [ ] If you've decided to be insufferable, preface it by becoming a genius
 - [ ] Fancy is my second favourite f word
 - [ ] I met someone with frontal lobe capacity
-- [ ] Belief involves a level of giving a crap. 
+- [ ] Belief implies a level of giving a crap that I'm never gonna achieve.
+- [ ] We talked about this. Well I talked and you kept staring at me eerily 
