@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-13T15:21:49+05:30
+modified: 2026-01-13T15:32:50+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] I met someone with frontal lobe capacity
 - [ ] Belief implies a level of giving a crap that I'm never gonna achieve.
 - [ ] We talked about this. Well I talked and you kept staring at me eerily 
+- [ ] That's completely divorced from humanity. Well, me and humanity we got together too young.
