@@ -1,6 +1,6 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-01-14T21:21:29+05:30
+modified: 2026-01-14T21:23:00+05:30
 type: Checklist
 ---
 
@@ -8,6 +8,15 @@ type: Checklist
 
 - [ ] Adjective: impassive
 - [ ] Adjective: disconcerting
+- [ ] Noun: portent
+|'por,tent|
+	A sign of something about to happen • he looked for a portent before going into battle
+=	omen, presage, prodigy, prognostic, prognostication
+Derived
+
+Verb: portend
+
+Adjective: portentous
 |,dis-kun'sur-ting|
 	Causing an emotional disturbance • his disconcerting habit of greeting friends ferociously and strangers charmingly
 =	upsetting
