@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-13T15:32:50+05:30
+modified: 2026-01-15T11:06:12+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] Belief implies a level of giving a crap that I'm never gonna achieve.
 - [ ] We talked about this. Well I talked and you kept staring at me eerily 
 - [ ] That's completely divorced from humanity. Well, me and humanity we got together too young.
+- [ ] People seem to enjoy it. and by people I mean me.
