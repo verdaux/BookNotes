@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-15T11:06:12+05:30
+modified: 2026-01-17T09:51:11+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] We talked about this. Well I talked and you kept staring at me eerily 
 - [ ] That's completely divorced from humanity. Well, me and humanity we got together too young.
 - [ ] People seem to enjoy it. and by people I mean me.
+- [ ] I hope you find whatever your definition of success is.
