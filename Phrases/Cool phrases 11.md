@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-16T08:34:54+05:30
+modified: 2026-01-17T16:38:07+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] Borrowed enigma
 - [ ] Golden crown of sorrow
 - [ ] Grand self mythology
+- [ ] Sapna, sach,fasana
