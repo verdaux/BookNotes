@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-18T09:43:13+05:30
+modified: 2026-01-18T09:44:19+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] I hope you find whatever your definition of success is.
 - [ ] It is mystifying to feel close to the spectacle.
 - [ ] watch men orbit me like planets with credit cards.
+- [ ] what a pain in the fucking ass my depression is for everyone. it leaks. it stains furniture.
