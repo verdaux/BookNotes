@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-17T09:51:32+05:30
+modified: 2026-01-18T09:43:13+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] People seem to enjoy it. and by people I mean me.
 - [ ] I hope you find whatever your definition of success is.
 - [ ] It is mystifying to feel close to the spectacle.
+- [ ] watch men orbit me like planets with credit cards.
