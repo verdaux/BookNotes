@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-19T19:29:08+05:30
+modified: 2026-01-19T19:33:03+05:30
 type: Checklist
 ---
 
@@ -45,4 +45,5 @@ type: Checklist
 - [ ] One must take heed of that shit
 - [ ] First the greetings. Now, the sweet talk. What's next? A little hand release?
 - [ ] Peel your eyes open and look God damn it!
-- [ ] I'm here to be your heart laxative 
+- [ ] I'm here to be your heart laxative
+- [ ] The moon doesn't apologise for waning and neither should you.
