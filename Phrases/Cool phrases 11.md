@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-19T19:30:16+05:30
+modified: 2026-01-19T19:34:31+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] My favourite, sleep-deprived dreamer
 - [ ] Endocrine disruptors
 - [ ] Star-crossed haters
+- [ ] Making art during fascism 
