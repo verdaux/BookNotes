@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-19T19:33:03+05:30
+modified: 2026-01-19T19:36:10+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] Peel your eyes open and look God damn it!
 - [ ] I'm here to be your heart laxative
 - [ ] The moon doesn't apologise for waning and neither should you.
+- [ ] He’s always holding knives and telling me he’s feeling stabby. 
