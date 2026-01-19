@@ -1,6 +1,7 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-01-14T21:23:00+05:30
+modified: 2026-01-19T09:11:14+05:30
+type: Checklist
 ---
 
 # Vocab 4
@@ -8,6 +9,16 @@ modified: 2026-01-14T21:23:00+05:30
 - [ ] Adjective: impassive
 - [ ] Adjective: disconcerting
 - [ ] Noun: portent
+- [ ] Adjective: recondite
+|'re-kun,dIt|
+	Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge • some recondite problem in historiography
+=	abstruse, deep
+≈	esoteric
+Derived
+
+Noun: reconditeness
+
+Adverb: reconditely
 |'por,tent|
 	A sign of something about to happen • he looked for a portent before going into battle
 =	omen, presage, prodigy, prognostic, prognostication
