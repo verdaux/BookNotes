@@ -1,6 +1,6 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-01-19T09:11:14+05:30
+modified: 2026-01-19T09:11:49+05:30
 type: Checklist
 ---
 
@@ -10,6 +10,12 @@ type: Checklist
 - [ ] Adjective: disconcerting
 - [ ] Noun: portent
 - [ ] Adjective: recondite
+- [ ] Noun: sacrament
+|sa-kru-munt|
+	A formal religious ceremony conferring a specific grace on those who receive it • The priest administered the sacrament of baptism
+Derived
+
+Adjective: sacramental, sacramentary
 |'re-kun,dIt|
 	Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge • some recondite problem in historiography
 =	abstruse, deep
