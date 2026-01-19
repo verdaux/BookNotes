@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:57:22+05:30
-modified: 2026-01-18T09:40:51+05:30
+modified: 2026-01-19T19:25:49+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Grand self mythology
 - [ ] Sapna, sach,fasana
 - [ ] My favourite, sleep-deprived dreamer
+- [ ] Endocrine disruptors
