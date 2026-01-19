@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-19T07:37:10+05:30
+modified: 2026-01-19T15:03:25+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] watch men orbit me like planets with credit cards.
 - [ ] what a pain in the fucking ass my depression is for everyone. it leaks. it stains furniture.
 - [ ] One must take heed of that shit
+- [ ] First the greetings. Now, the sweet talk. What's next? A little hand release?
