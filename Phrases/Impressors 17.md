@@ -1,6 +1,6 @@
 ---
 created: 2026-01-01T21:56:24+05:30
-modified: 2026-01-19T15:03:25+05:30
+modified: 2026-01-19T19:28:06+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] what a pain in the fucking ass my depression is for everyone. it leaks. it stains furniture.
 - [ ] One must take heed of that shit
 - [ ] First the greetings. Now, the sweet talk. What's next? A little hand release?
+- [ ] Peel your eyes open and look God damn it!
