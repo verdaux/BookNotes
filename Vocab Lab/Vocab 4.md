@@ -1,6 +1,6 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-01-19T09:11:49+05:30
+modified: 2026-01-19T11:43:43+05:30
 type: Checklist
 ---
 
@@ -11,6 +11,15 @@ type: Checklist
 - [ ] Noun: portent
 - [ ] Adjective: recondite
 - [ ] Noun: sacrament
+- [ ] Adverb: invariably
+|in'veh-ree-u-blee|
+	Without variation or change, in every case • She invariably arrived late to meetings
+=	always, constantly
+Derived
+
+Adjective: invariable
+
+Adverb: variably
 |sa-kru-munt|
 	A formal religious ceremony conferring a specific grace on those who receive it • The priest administered the sacrament of baptism
 Derived
