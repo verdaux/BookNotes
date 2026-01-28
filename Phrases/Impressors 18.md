@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-28T13:51:17+08:00
+modified: 2026-01-28T13:54:48+08:00
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] I just need to get a car and classic Good looks
 - [ ] Stalking is an ugly word. I like to call it obsessively shadowing.
 - [ ] Who needs life savings anyways?
+- [ ] Stop worrying so much before you spontaneously combust.
