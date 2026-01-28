@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-28T14:02:52+08:00
+modified: 2026-01-28T14:09:56+08:00
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Wow. What an incredible honor!
 - [ ] There are some things that I'm not good at. Telekenisis, taxes, Not crying at the end of tare zamin par.
 - [ ] This is so cheesy in the greatest way.
+- [ ] Gotta up the gorgeous quotient
