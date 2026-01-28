@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-28T14:00:59+08:00
+modified: 2026-01-28T14:01:49+08:00
 type: Checklist
 ---
 
@@ -16,4 +16,4 @@ type: Checklist
 - [ ] Who needs life savings anyways?
 - [ ] Stop worrying so much before you spontaneously combust.
 - [ ] Wow. What an incredible honor!
-- [ ] There are some things that I'm not good at. Not crying at the end of tare zamin par.
+- [ ] There are some things that I'm not good at. Telekenisis, taxes, Not crying at the end of tare zamin par.
