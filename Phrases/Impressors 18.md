@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-29T14:58:08+05:30
+modified: 2026-01-29T14:59:36+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Gotta up the gorgeous quotient
 - [ ] I choose to listen to your actions more than your words. They are more honest
 - [ ] I will be teaching you my secret homey handshake
+- [ ] It's more interesting than whatever you're doing now
