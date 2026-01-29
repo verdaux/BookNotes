@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-29T17:18:31+05:30
+modified: 2026-01-29T18:03:49+05:30
 type: Checklist
 ---
 
@@ -16,7 +16,8 @@ type: Checklist
 - [ ] Who needs life savings anyways?
 - [ ] Stop worrying so much before you spontaneously combust.
 - [ ] Wow. What an incredible honor!
-- [ ] There are some things that I'm not good at. Telekenisis, taxes, Not crying at the end of tare zamin par.
+- [ ] There are some things that I'm not good at. Telekenisis, taxes, Not crying at the end of tare zamin par, lockpicking, tax evasion 
+- [ ] 
 - [ ] This is so cheesy in the greatest way.
 - [ ] Gotta up the gorgeous quotient
 - [ ] I choose to listen to your actions more than your words. They are more honest
