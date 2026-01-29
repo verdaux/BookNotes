@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-29T21:54:15+05:30
+modified: 2026-01-29T22:17:21+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] It's more interesting than whatever you're doing now
 - [ ] Don't threaten me with a good time.
 - [ ] What song opens the movie about you??
+- [ ] It's hard to watch someone else live your dream.
