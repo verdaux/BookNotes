@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-01-30T06:56:11+05:30
+modified: 2026-02-03T07:56:56+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] What song opens the movie about you??
 - [ ] It's hard to watch someone else live your dream.
 - [ ] Bali umariya but no patli kamariya
+- [ ] We haven't printed the formal announcements yet
