@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-04T15:08:21+05:30
+modified: 2026-02-04T22:47:34+05:30
 type: Checklist
 ---
 
@@ -16,4 +16,5 @@ type: Checklist
 - [ ] A username devoid of numbers
 - [ ] Idhar gun, udhar ganna
 - [ ] Goodish intentions
-- [ ] Fake pessimism 
+- [ ] Fake pessimism
+- [ ] A flaming pile of garbage
