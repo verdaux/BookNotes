@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-02-03T07:56:56+05:30
+modified: 2026-02-04T22:56:26+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] It's hard to watch someone else live your dream.
 - [ ] Bali umariya but no patli kamariya
 - [ ] We haven't printed the formal announcements yet
+- [ ] Your next favourite friend will look like this.
