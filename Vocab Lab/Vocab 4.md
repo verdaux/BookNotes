@@ -1,6 +1,6 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-01-19T11:43:43+05:30
+modified: 2026-02-04T14:52:01+05:30
 type: Checklist
 ---
 
@@ -12,6 +12,14 @@ type: Checklist
 - [ ] Adjective: recondite
 - [ ] Noun: sacrament
 - [ ] Adverb: invariably
+- [ ] Adjective: esoteric
+|,e-su'te-rik|
+	Intended for or understood by only a select few; requiring specialized knowledge • a compilation of esoteric philosophical theories
+≈	abstruse, arcane, cabalistic, cabbalistic, cryptic, cryptical, deep, kabbalistic, mysterious, mystic, mystical, occult, orphic, private, qabalistic, recondite, secret, sibylline
+◑	exoteric
+Derived
+
+Adverb: esoterically
 |in'veh-ree-u-blee|
 	Without variation or change, in every case • She invariably arrived late to meetings
 =	always, constantly
