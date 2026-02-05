@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-05T08:43:11+05:30
+modified: 2026-02-05T22:43:28+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Fake pessimism
 - [ ] A flaming pile of garbage
 - [ ] Labelled in my mental rolodex
+- [ ] dismissive hand-wave
