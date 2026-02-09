@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-02-09T13:17:52+05:30
+modified: 2026-02-09T13:22:04+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] We haven't printed the formal announcements yet
 - [ ] Your next favourite friend will look like this.
 - [ ] I'm an equal opportunity exploiter. I only help those who can help myself.
+- [ ] Patriotism is nothing but loyalty to real estate. Real estate that has been conquered and invaded by different regimes.
