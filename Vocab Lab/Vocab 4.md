@@ -1,6 +1,6 @@
 ---
 created: 2026-01-11T22:11:15+05:30
-modified: 2026-02-04T14:52:01+05:30
+modified: 2026-02-09T08:17:06+05:30
 type: Checklist
 ---
 
@@ -13,6 +13,16 @@ type: Checklist
 - [ ] Noun: sacrament
 - [ ] Adverb: invariably
 - [ ] Adjective: esoteric
+- [ ] Noun: virulence
+|vir-(y)u-lun(t)s|
+	(microorganism) extreme harmfulness (as the capacity of a microorganism to cause disease) • the virulence of the plague
+=	virulency
+
+	Extreme hostility • the virulence of the malicious old man
+=	virulency
+Derived
+
+Adjective: virulent
 |,e-su'te-rik|
 	Intended for or understood by only a select few; requiring specialized knowledge • a compilation of esoteric philosophical theories
 ≈	abstruse, arcane, cabalistic, cabbalistic, cryptic, cryptical, deep, kabbalistic, mysterious, mystic, mystical, occult, orphic, private, qabalistic, recondite, secret, sibylline
