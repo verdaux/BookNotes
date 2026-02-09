@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-02-09T15:13:06+05:30
+modified: 2026-02-09T15:16:21+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] I'm an equal opportunity exploiter. I only help those who can help myself.
 - [ ] Patriotism is nothing but loyalty to real estate. Real estate that has been conquered and invaded by different regimes.
 - [ ] Speaking as a quote poster. I feel seen in a way I'm not altogether happy with.
+- [ ] Why are you a Capricorn with aquarius traits?
