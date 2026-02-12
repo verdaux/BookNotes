@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:20+05:30
-modified: 2026-02-11T21:58:09+05:30
+modified: 2026-02-12T16:08:56+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Why are you a Capricorn with aquarius traits?
 - [ ] You're making my boy parts grow bigger
 - [ ] aware of the impending march of time
+- [ ] who made Starbucks their entire identity in 2013 and never evolved.
