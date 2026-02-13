@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-01-13T22:30:17+05:30
+modified: 2026-02-13T20:01:50+05:30
 type: Checklist
 ---
 
@@ -72,3 +72,4 @@ type: Checklist
 - [ ] Everyone who fails as a (role: father/ engineer) says that to me
 - [ ] Anybody who thinks this is missing a big idea
 - [ ] I've never known a man so unaffected by constant failure
+- [ ] Do you usually feel better about yourself after such remarks?
