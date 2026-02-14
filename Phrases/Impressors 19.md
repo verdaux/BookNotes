@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-02-13T22:15:16+05:30
+modified: 2026-02-14T09:50:08+05:30
 type: Checklist
 ---
 
@@ -11,4 +11,6 @@ type: Checklist
 - [ ] I just realised you are the most interesting thing on my screen today
 - [ ] You Popped in my head. I blame you
 - [ ] Desire is involuntary, metabolic, the thing that happens despite your better judgment, sometimes even despite your consent.
-- [ ] Real thirst is feral and unpredictable. 
+- [ ] Real thirst is feral and unpredictable.
+- [ ] I procrastinate at an Olympic level.
+- [ ] There are very few people who can handle that in an attractive way
