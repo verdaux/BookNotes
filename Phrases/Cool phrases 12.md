@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-16T07:35:11+05:30
+modified: 2026-02-16T07:40:21+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,5 @@ type: Checklist
 - [ ] Scary movie reference
 - [ ] poorly concealed
 - [ ] A letdown
+- [ ] Positively rhapsodic 
+- [ ] Hits all the pleasure centers
