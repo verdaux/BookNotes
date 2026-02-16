@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-02-14T09:50:08+05:30
+modified: 2026-02-16T07:33:52+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Real thirst is feral and unpredictable.
 - [ ] I procrastinate at an Olympic level.
 - [ ] There are very few people who can handle that in an attractive way
+- [ ] We're down the rabbit hole and I'm afraid we're never coming back.
