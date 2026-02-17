@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-16T09:55:49+05:30
+modified: 2026-02-17T16:05:01+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Positively rhapsodic 
 - [ ] Hits all the pleasure centers
 - [ ] Micro plastics in my head
+- [ ] Outwardly silent and internally loud.
