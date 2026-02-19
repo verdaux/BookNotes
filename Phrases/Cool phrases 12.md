@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-19T19:43:16+05:30
+modified: 2026-02-19T20:28:29+05:30
 type: Checklist
 ---
 
@@ -31,3 +31,4 @@ type: Checklist
 - [ ] Micro plastics in my head
 - [ ] Outwardly silent and internally loud.
 - [ ] Unholy alliance
+- [ ] Passionate shouter
