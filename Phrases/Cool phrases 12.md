@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-19T20:28:29+05:30
+modified: 2026-02-25T12:09:46+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] Outwardly silent and internally loud.
 - [ ] Unholy alliance
 - [ ] Passionate shouter
+- [ ] Nearmystical aura of glamour
