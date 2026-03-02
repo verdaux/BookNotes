@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-03-01T21:22:40+05:30
+modified: 2026-03-02T19:18:28+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] I’ll have to check with the officials - but that feels worthy of a drink
 - [ ] I look forward to the day where you are as wise as you are aggressive. Until then it's better to protect yourself from further embarrassment by saying nothing.
 - [ ] You're not gonna say anything that I've not said 6 inches away from the mirror
+- [ ] Mere khane wale haath ki taraf. Mere dhone wale haath ki taraf...
