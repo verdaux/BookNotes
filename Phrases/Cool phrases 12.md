@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-02-25T12:09:46+05:30
+modified: 2026-03-02T19:18:38+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Unholy alliance
 - [ ] Passionate shouter
 - [ ] Nearmystical aura of glamour
+- [ ] Behesi darinda
