@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-03-06T09:49:35+05:30
+modified: 2026-03-08T17:41:44+05:30
 type: Checklist
 ---
 
@@ -34,4 +34,6 @@ type: Checklist
 - [ ] Passionate shouter
 - [ ] Nearmystical aura of glamour
 - [ ] Behesi darinda
-- [ ] Inadequate admiration of reality 
+- [ ] Inadequate admiration of reality
+- [ ] Special satisfaction
+- [ ] Hypnotically pleasurable
