@@ -1,6 +1,6 @@
 ---
 created: 2026-03-09T21:17:52+05:30
-modified: 2026-03-09T21:20:29+05:30
+modified: 2026-03-09T21:21:17+05:30
 type: Checklist
 ---
 
@@ -9,3 +9,4 @@ type: Checklist
 - [ ] Born in Gori, Georgia
 - [ ] Birth name: Ioseb Dzhugashvili
 - [ ] Takes the name - Stal (Russian) for steel
+- [ ] Early 20s joined Bolsheviks - Marxist rebels looking to overthrow the Russian government
