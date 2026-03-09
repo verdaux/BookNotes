@@ -1,6 +1,6 @@
 ---
 created: 2026-03-09T21:17:52+05:30
-modified: 2026-03-09T21:37:41+05:30
+modified: 2026-03-09T21:39:50+05:30
 type: Checklist
 ---
 
@@ -14,5 +14,5 @@ type: Checklist
 - [ ] 1922 - Stalin named general secretary of the communist party
 - [ ] January 1924 - Lenin dies , Stalin takes charge of funeral
 - [ ] 1929 - becomes dictator, controls and censors all information
-- [ ] 1931 - famine
-- [ ] Bribes Walter Duranty (fake leg), new york times reporter in Moscow (since 1922) to sell leftist support and deflect from famine
+- [ ] 1931 - famine in Ukraine 
+- [ ] Bribes Walter Duranty (fake leg), new york times reporter in Moscow (since 1922) to sell leftist support and deflect from famine. Wins pulitzer prize
