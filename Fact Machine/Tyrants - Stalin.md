@@ -1,6 +1,6 @@
 ---
 created: 2026-03-09T21:17:52+05:30
-modified: 2026-03-09T21:42:31+05:30
+modified: 2026-03-09T21:45:06+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] 1929 - becomes dictator, controls and censors all information
 - [ ] 1931 - famine in Ukraine 
 - [ ] Bribes Walter Duranty (fake leg), new york times reporter in Moscow (since 1922) to sell leftist support and deflect from famine. Wins pulitzer prize
+- [ ] Invented the story of pavlik morozov - who ratted is greedy dad and then his family killed him 
