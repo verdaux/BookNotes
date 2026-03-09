@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-03-08T17:41:44+05:30
+modified: 2026-03-09T22:01:52+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] Inadequate admiration of reality
 - [ ] Special satisfaction
 - [ ] Hypnotically pleasurable
+- [ ] Forlornness in eyes
