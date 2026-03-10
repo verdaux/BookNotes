@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-03-09T22:01:52+05:30
+modified: 2026-03-10T16:12:01+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] Special satisfaction
 - [ ] Hypnotically pleasurable
 - [ ] Forlornness in eyes
+- [ ] Shower you with effusive external validation
