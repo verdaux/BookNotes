@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19T19:36:34+05:30
-modified: 2026-03-10T16:12:01+05:30
+modified: 2026-03-13T04:30:39+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Hypnotically pleasurable
 - [ ] Forlornness in eyes
 - [ ] Shower you with effusive external validation
+- [ ] Historically thickened power structure
