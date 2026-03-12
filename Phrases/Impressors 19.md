@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-03-13T04:35:05+05:30
+modified: 2026-03-13T04:35:55+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] They're enigma. They're mystery wrapped in a  riddle
 - [ ] Power is essentially domination. And it therefore, has a violent dimension
 - [ ] The threat and execution of violence compels others to do what they do not wish to do. And yet violence is often the tool of the weak.
+- [ ] Violence relies on weapons to compensate for a lack of legitimacy.
