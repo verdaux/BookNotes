@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-03-06T21:09:19+05:30
+modified: 2026-03-13T04:32:53+05:30
 type: Checklist
 ---
 
@@ -24,4 +24,5 @@ type: Checklist
 - [ ] Adding an element of succour to her unyielding presence.
 - [ ] Yeah. You help yourself with that leg.
 - [ ] Maybe I'll believe it in 5 years time when it starts to feel real
-- [ ] They're enigma. They're mystery wrapped in a  riddle 
+- [ ] They're enigma. They're mystery wrapped in a  riddle
+- [ ] Power is essentially domination. And therefore, has a violent dimension
