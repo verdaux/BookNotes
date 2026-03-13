@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-03-13T21:19:19+05:30
+modified: 2026-03-13T21:33:38+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Violence relies on weapons to compensate for a lack of legitimacy.
 - [ ] Power also has an economic dimension
 - [ ] I don't it for 3 reasons: 1. It's wrong. 2. It would ruin the fun 3. Et cetra
+- [ ] It's the most fun that doesn't hurt anyone
