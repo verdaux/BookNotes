@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-12T13:41:40+05:30
+modified: 2026-03-15T21:57:26+05:30
 type: Checklist
 ---
 
@@ -53,6 +53,19 @@ Adverb: petulantly
 - [ ] Noun: gait
 - [ ] Verb: confer
 - [ ] Verb: confabulate
+- [ ] Adjective: ribald
+|ri-buld| |'rI,bold|
+	Humorously vulgar • ribald language
+=	bawdy, off-color
+≈	dirty
+Noun: ribald
+|ri-buld| |'rI,bold|
+	A ribald person; someone who uses vulgar and offensive language • The ribald comedian's act was too crude for some audience members
+Derived
+
+Noun: ribaldness
+
+Adverb: ribaldly
 |kun'fab-yu,leyt|
 	(psychiatry) unconsciously replace fact with fantasy in one's memory • The patient confabulated, filling in memory gaps with imagined experiences
 	Talk socially without exchanging too much information • the men were sitting in the cafe and confabulating
