@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T17:27:16+05:30
-modified: 2026-03-15T22:03:17+05:30
+modified: 2026-03-16T15:59:15+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] It's the most fun that doesn't hurt anyone
 - [ ] We were fed the wrong heart throb for so long
 - [ ] Hope you will not take it amiss if I ask you to leave us for a minute.
+- [ ] Extrovert: Jo kam bolte hai hum unko kholte hai
