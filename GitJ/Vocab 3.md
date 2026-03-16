@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-15T21:57:26+05:30
+modified: 2026-03-16T21:25:58+05:30
 type: Checklist
 ---
 
@@ -54,6 +54,14 @@ Adverb: petulantly
 - [ ] Verb: confer
 - [ ] Verb: confabulate
 - [ ] Adjective: ribald
+- [ ] Noun: miscegenation
+|,mi-si-ju'ney-shun| |mi,se-ju'ney-shun|
+Usage: archaic
+	Reproduction by parents of different races (especially by white and non-white persons) • Laws against miscegenation were common in the United States until the mid-20th century
+=	crossbreeding, interbreeding
+Derived
+
+Verb: miscegenate
 |ri-buld| |'rI,bold|
 	Humorously vulgar • ribald language
 =	bawdy, off-color
