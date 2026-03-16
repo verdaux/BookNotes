@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-16T21:25:58+05:30
+modified: 2026-03-17T05:06:53+05:30
 type: Checklist
 ---
 
@@ -55,6 +55,15 @@ Adverb: petulantly
 - [ ] Verb: confabulate
 - [ ] Adjective: ribald
 - [ ] Noun: miscegenation
+- [ ] Verb: allude
+|u'lood|
+	Make a more or less disguised reference to • He alluded to the problem but did not mention it
+=	advert, touch
+Derived
+
+Noun: allusion
+
+Adjective: allusive
 |,mi-si-ju'ney-shun| |mi,se-ju'ney-shun|
 Usage: archaic
 	Reproduction by parents of different races (especially by white and non-white persons) • Laws against miscegenation were common in the United States until the mid-20th century
