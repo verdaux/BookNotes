@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-17T05:06:53+05:30
+modified: 2026-03-17T05:07:28+05:30
 type: Checklist
 ---
 
@@ -56,6 +56,18 @@ Adverb: petulantly
 - [ ] Adjective: ribald
 - [ ] Noun: miscegenation
 - [ ] Verb: allude
+- [ ] Adjective: preemptive
+|pree'em(p)-tiv|
+	Designed or having the power to deter or prevent an anticipated situation or occurrence • a preemptive business offer
+=	pre-emptive
+≈	preventative, preventive
+Derived
+
+Noun: preemption
+
+Verb: preempt
+
+Adverb: preemptively
 |u'lood|
 	Make a more or less disguised reference to • He alluded to the problem but did not mention it
 =	advert, touch
