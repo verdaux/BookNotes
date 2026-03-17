@@ -1,7 +1,6 @@
 ---
 created: 2025-06-11T16:38:50+05:30
-modified: 2025-07-29T14:31:45+05:30
-type: Checklist
+modified: 2026-03-17T06:37:19+05:30
 ---
 
 # Docker
