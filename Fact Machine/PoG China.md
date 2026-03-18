@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-17T06:57:28+05:30
+modified: 2026-03-18T21:46:57+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] By 1500 BCE out of many warring states emerged the earliest version of a Chinese state - the Shang dynasty
 - [ ] Protecting the motherland are Han people. 90% of China's population today are Han
 - [ ] By 200 BCE China had expanded towards, but not reached, Tibet in the south-west, North to the grasslands of Central Asia and South all the way down to South China sea.
+- [ ] 221 - 207 BCE The Great wall of China (locally called the long wall) was first built by Qin dynasty.
