@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-19T21:52:06+05:30
+modified: 2026-03-19T22:14:18+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] I support being a hater unless you're hating on something I love because then you need to stop. where is your sense of whimsy dude.
 - [ ] it’s something you could get into
 - [ ] Mutilated by the knowledge of the evil that is their enemy.
+- [ ] You're the nucleus. The straw that stirs the drink.
