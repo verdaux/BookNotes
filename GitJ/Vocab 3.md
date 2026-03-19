@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-19T21:50:24+05:30
+modified: 2026-03-19T21:50:52+05:30
 type: Checklist
 ---
 
@@ -58,6 +58,22 @@ Adverb: petulantly
 - [ ] Verb: allude
 - [ ] Adjective: preemptive
 - [ ] Adjective: replete
+- [ ] Noun: cloister
+|kloys-tur|
+	(religion) a courtyard with covered walks (as in religious institutions) • The monks paced silently through the peaceful cloister
+	Residence that is a place of religious seclusion (such as a monastery) • The nuns lived in a cloister secluded from the outside world
+=	religious residence
+Verb: cloister
+|kloys-tur|
+	Seclude from the world in or as if in a cloister • She cloistered herself in the office
+	Surround with a cloister • cloister the garden
+Derived
+
+Noun: cloisterer
+
+Verb: discloister
+
+Adjective: claustral, cloistered, cloistral
 |ri'pleet|
 	Filled to satisfaction with food or drink • a replete stomach
 =	full
