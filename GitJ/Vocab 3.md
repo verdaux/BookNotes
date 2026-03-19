@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-19T21:50:52+05:30
+modified: 2026-03-19T21:52:30+05:30
 type: Checklist
 ---
 
@@ -59,6 +59,20 @@ Adverb: petulantly
 - [ ] Adjective: preemptive
 - [ ] Adjective: replete
 - [ ] Noun: cloister
+- [ ] Adjective: inexorable
+|in'ek-s(u-)ru-bul|
+	Not to be placated, appeased or moved by entreaty • Russia's final hour, it seemed, approached with inexorable certainty
+=	grim, relentless, stern, unappeasable, unforgiving, unrelenting
+≈	implacable
+
+	Impervious to pleas, persuasion, requests, reason • Cynthia was inexorable: she would have none of him
+=	adamant, adamantine, intransigent, unbudgeable
+≈	inflexible
+Derived
+
+Noun: inexorability, inexorableness
+
+Adverb: inexorably
 |kloys-tur|
 	(religion) a courtyard with covered walks (as in religious institutions) • The monks paced silently through the peaceful cloister
 	Residence that is a place of religious seclusion (such as a monastery) • The nuns lived in a cloister secluded from the outside world
