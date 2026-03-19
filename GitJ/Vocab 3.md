@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-17T05:07:28+05:30
+modified: 2026-03-19T21:50:24+05:30
 type: Checklist
 ---
 
@@ -57,6 +57,24 @@ Adverb: petulantly
 - [ ] Noun: miscegenation
 - [ ] Verb: allude
 - [ ] Adjective: preemptive
+- [ ] Adjective: replete
+|ri'pleet|
+	Filled to satisfaction with food or drink • a replete stomach
+=	full
+≈	nourished
+
+	(followed by ‘with’) deeply filled or permeated • it is replete with misery
+=	imbued, instinct
+≈	full
+Verb: replete
+|ri'pleet|
+	Fill to satisfaction • The hearty meal repleted the hungry travelers
+=	fill, sate, satiate
+Derived
+
+Noun: repleteness, repletion
+
+Adverb: repletely
 |pree'em(p)-tiv|
 	Designed or having the power to deter or prevent an anticipated situation or occurrence • a preemptive business offer
 =	pre-emptive
