@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-21T05:25:47+05:30
+modified: 2026-03-21T05:27:04+05:30
 type: Checklist
 ---
 
@@ -15,4 +15,4 @@ type: Checklist
 - [ ] The canvas of a lifetime's connections would have acquired the patina of another generation.
 - [ ] He a creature of shadows, and she an animal that craved the spotlight
 - [ ] He can spend his life nurturing unuttered yearnings.
-- [ ] All neighbours use shared resources. They are not necessarily your enemy. They need neighbours to keep fighting so that they can keep them poor.
+- [ ] All neighbours use shared resources. They are not necessarily your enemy. They need neighbours to keep fighting so that they can keep them poor. The cat gets to eat the cake while the monkeys quarrel.
