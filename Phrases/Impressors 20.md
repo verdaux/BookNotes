@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-19T22:14:18+05:30
+modified: 2026-03-20T21:25:14+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] it’s something you could get into
 - [ ] Mutilated by the knowledge of the evil that is their enemy.
 - [ ] You're the nucleus. The straw that stirs the drink.
+- [ ] The canvas of a lifetime's connections would have acquired the patina of another generation.
