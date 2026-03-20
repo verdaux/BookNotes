@@ -1,6 +1,6 @@
 ---
 created: 2026-03-20T07:16:31+05:30
-modified: 2026-03-20T07:22:42+05:30
+modified: 2026-03-20T07:23:09+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,5 @@ type: Checklist
 - [ ] Characteristics are cross-cutting
 - [ ] Some come from domain (outside requirements)
 - [ ] Some are composites - combination 
+- [ ] Translate business speak
+- [ ] Limit to 7
