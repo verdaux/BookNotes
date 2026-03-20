@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-20T22:03:17+05:30
+modified: 2026-03-20T22:04:21+05:30
 type: Checklist
 ---
 
@@ -14,4 +14,5 @@ type: Checklist
 - [ ] By 200 BCE China had expanded towards, but not reached, Tibet in the south-west, North to the grasslands of Central Asia and South all the way down to South China sea.
 - [ ] 221 - 207 BCE The Great wall of China (locally called the long wall) was first built by Qin dynasty.
 - [ ] 581-618 CE Sui dynasty harnessed vast number of workers to connect the tributaries of 2 great rivers.
-- [ ] 605-609 CE the Grand canal linked yellow to yangtze, world's longest man-made waterway 
+- [ ] 605-609 CE the Grand canal linked yellow to yangtze, world's longest man-made waterway
+- [ ] 1279 Kublai Khan , 1st foreigner to rule all of China. Emperor of Mongol (Yuan) dynasty 
