@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-20T21:38:01+05:30
+modified: 2026-03-20T21:39:01+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] You're the nucleus. The straw that stirs the drink.
 - [ ] The canvas of a lifetime's connections would have acquired the patina of another generation.
 - [ ] He a creature of shadows, and she an animal that craved the spotlight
+- [ ] He can spend his life nurturing unuttered yearnings.
