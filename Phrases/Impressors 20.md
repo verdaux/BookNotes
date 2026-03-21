@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-21T05:27:04+05:30
+modified: 2026-03-21T20:37:08+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,6 @@ type: Checklist
 - [ ] He a creature of shadows, and she an animal that craved the spotlight
 - [ ] He can spend his life nurturing unuttered yearnings.
 - [ ] All neighbours use shared resources. They are not necessarily your enemy. They need neighbours to keep fighting so that they can keep them poor. The cat gets to eat the cake while the monkeys quarrel.
+- [ ] Sube sube gadha khake aaye ho? Gadhe jaisi baat karte ho.
+- [ ] Mr. Zero seconds till my last accident.
+- [ ] Looking to hug someone. How should I know?
