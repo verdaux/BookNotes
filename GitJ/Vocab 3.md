@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-19T21:52:30+05:30
+modified: 2026-03-21T21:56:50+05:30
 type: Checklist
 ---
 
@@ -60,6 +60,19 @@ Adverb: petulantly
 - [ ] Adjective: replete
 - [ ] Noun: cloister
 - [ ] Adjective: inexorable
+- [ ] Noun: rapacity
+|ru'pa-si-tee|
+	Extreme greed for wealth or material gain; one of the seven deadly sins in Christian teachings • His rapacity led him to sacrifice everything for money
+=	avarice, avaritia, covetousness, greed
+
+	The quality or characteristic of living by preying on other animals • The rapacity of carnivorous animals influences ecosystem dynamics
+=	predaceousness, predaciousness, rapaciousness
+
+	Extreme gluttony • The rapacity of the predator was terrifying
+=	edacity, esurience, rapaciousness, voraciousness, voracity
+Derived
+
+Adjective: rapacious
 |in'ek-s(u-)ru-bul|
 	Not to be placated, appeased or moved by entreaty • Russia's final hour, it seemed, approached with inexorable certainty
 =	grim, relentless, stern, unappeasable, unforgiving, unrelenting
