@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-21T21:50:08+05:30
+modified: 2026-03-21T22:20:56+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Mr. Zero seconds till my last accident.
 - [ ] Looking to hug someone. How should I know?
 - [ ] Don't thank me. I've done nothing for you.
+- [ ] Men have to do it. It's part of our lifestyle
