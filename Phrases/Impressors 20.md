@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-21T22:20:56+05:30
+modified: 2026-03-22T05:37:38+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Looking to hug someone. How should I know?
 - [ ] Don't thank me. I've done nothing for you.
 - [ ] Men have to do it. It's part of our lifestyle
+- [ ] Get a backward tattoo of it on your forehead so you'll see it in the mirror.
