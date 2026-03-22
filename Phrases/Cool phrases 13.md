@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-21T21:57:02+05:30
+modified: 2026-03-22T05:37:56+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Not closet sensitive
 - [ ] Radical idea
 - [ ] Inherent rapacity
+- [ ] Rear its head in the middle
