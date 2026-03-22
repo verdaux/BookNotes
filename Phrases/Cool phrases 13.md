@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-22T05:37:56+05:30
+modified: 2026-03-22T06:11:14+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Radical idea
 - [ ] Inherent rapacity
 - [ ] Rear its head in the middle
+- [ ] Distinguish fancy from fact
