@@ -1,7 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-21T21:56:50+05:30
-type: Checklist
+modified: 2026-03-22T18:26:03+05:30
 ---
 
 # Vocab 3
