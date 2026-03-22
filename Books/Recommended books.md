@@ -1,6 +1,6 @@
 ---
 created: 2022-07-25T12:14:24+05:30
-modified: 2026-03-08T22:25:48+05:30
+modified: 2026-03-22T05:51:08+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Independent people
 - [ ] The Trees by Percival Everett https://www.goodreads.com/book/show/56269278-the-trees
 - [ ] https://www.amazon.com/Persians-Great-Kings-Lloyd-Llewellyn-Jones-ebook/dp/B09BN3BSXF?ref_=ast_author_mpb
+- [ ] House of mirth - by Edith Wharton
