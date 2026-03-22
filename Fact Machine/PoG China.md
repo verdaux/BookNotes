@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-22T06:02:12+05:30
+modified: 2026-03-22T06:03:29+05:30
 type: Checklist
 ---
 
@@ -18,4 +18,4 @@ type: Checklist
 - [ ] 1279 Kublai Khan , 1st foreigner to rule all of China. Emperor of Mongol (Yuan) dynasty
 - [ ] It would be 90 years before the Han took charge with the Ming Dynasty
 - [ ] In 18th century, china reached into parts of Burma and Indochina to the south.
-- [ ] 18th century, Xinjiang in the north-west was conquered, becoming China's biggest province.
+- [ ] 18th century, Xinjiang (6.42k sq miles) in the north-west was conquered, becoming China's biggest province.
