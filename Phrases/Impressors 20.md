@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-22T06:12:33+05:30
+modified: 2026-03-23T10:42:14+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Get a backward tattoo of it on your forehead so you'll see it in the mirror.
 - [ ] Everything about her was at once vigorous and exquisite, at once strong and fine.
 - [ ] The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.
+- [ ] Keep talking. Love the sound of your voice. Even in texts
