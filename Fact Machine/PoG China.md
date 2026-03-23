@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-22T06:03:29+05:30
+modified: 2026-03-23T21:04:31+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] It would be 90 years before the Han took charge with the Ming Dynasty
 - [ ] In 18th century, china reached into parts of Burma and Indochina to the south.
 - [ ] 18th century, Xinjiang (6.42k sq miles) in the north-west was conquered, becoming China's biggest province.
+- [ ] 1932, 1937 Japan attacked and occupied China, inner Mongolia, and Manchuria. 1945 Soviet army replaced Japan and withdrew in 1946.
