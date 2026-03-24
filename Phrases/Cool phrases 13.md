@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-24T21:52:52+05:30
+modified: 2026-03-24T21:55:45+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Give voice to the unspoken
 - [ ] Look what you're losing
 - [ ] Confronted with a very different reality
+- [ ] An impossibly steep learning curve
