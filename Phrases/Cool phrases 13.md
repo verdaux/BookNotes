@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-23T21:34:05+05:30
+modified: 2026-03-24T21:52:52+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Unfamiliar yet painfully intimate.
 - [ ] Give voice to the unspoken
 - [ ] Look what you're losing
+- [ ] Confronted with a very different reality
