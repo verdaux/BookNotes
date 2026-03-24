@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-24T21:55:45+05:30
+modified: 2026-03-24T22:06:35+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Look what you're losing
 - [ ] Confronted with a very different reality
 - [ ] An impossibly steep learning curve
+- [ ] I wallow in ignorance 
