@@ -1,6 +1,7 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-22T18:26:03+05:30
+modified: 2026-03-24T22:06:15+05:30
+type: Checklist
 ---
 
 # Vocab 3
@@ -60,6 +61,15 @@ Adverb: petulantly
 - [ ] Noun: cloister
 - [ ] Adjective: inexorable
 - [ ] Noun: rapacity
+- [ ] Adjective: capacious
+|ku'pey-shus|
+	Having a lot of space; roomy • she carried a capacious bag
+≈	big, large
+Derived
+
+Noun: capaciousness, capacity
+
+Adverb: capaciously
 |ru'pa-si-tee|
 	Extreme greed for wealth or material gain; one of the seven deadly sins in Christian teachings • His rapacity led him to sacrifice everything for money
 =	avarice, avaritia, covetousness, greed
