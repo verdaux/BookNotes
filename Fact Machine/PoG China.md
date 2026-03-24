@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-24T21:34:04+05:30
+modified: 2026-03-24T21:34:56+05:30
 type: Checklist
 ---
 
@@ -21,4 +21,4 @@ type: Checklist
 - [ ] 18th century, Xinjiang (6.42k sq miles) in the north-west was conquered, becoming China's biggest province.
 - [ ] 1932, 1937 Japan attacked and occupied China, inner Mongolia, and Manchuria. 1945 Soviet army replaced Japan and withdrew in 1946.
 - [ ] Chiang Kai-shek and Mao fought till 1949, communists won. Nationalists withdrew to Taiwan.
-- [ ] 1951 annexed Tibet.
+- [ ] 1951 annexed Tibet. Extended influence to Mongolia
