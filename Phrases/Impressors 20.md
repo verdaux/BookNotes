@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-23T20:57:03+05:30
+modified: 2026-03-25T21:56:56+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Keep talking. Love the sound of your voice. Even in texts
 - [ ] It's as natural as a sunset and as fundamental as gravity.
 - [ ] From the time you take your first breath, you become eligible to die.
+- [ ] Baghtoy kaay raagane, overtake kelaay vaaghane.
