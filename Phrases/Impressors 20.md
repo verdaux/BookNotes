@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-25T21:56:56+05:30
+modified: 2026-03-25T22:05:06+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,5 @@ type: Checklist
 - [ ] It's as natural as a sunset and as fundamental as gravity.
 - [ ] From the time you take your first breath, you become eligible to die.
 - [ ] Baghtoy kaay raagane, overtake kelaay vaaghane.
+- [ ] Being a son is a footnote.
+- [ ] It's gone to the next galaxy.
