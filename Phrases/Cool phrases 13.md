@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-26T21:59:18+05:30
+modified: 2026-03-26T22:12:21+05:30
 type: Checklist
 ---
 
@@ -23,4 +23,5 @@ type: Checklist
 - [ ] An impossibly steep learning curve
 - [ ] I wallow in ignorance
 - [ ] Lullaby for insomniacs
-- [ ] Algorithm - fed audiences 
+- [ ] Algorithm - fed audiences
+- [ ] Instinctively hostile to devotion
