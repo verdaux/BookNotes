@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-25T22:05:06+05:30
+modified: 2026-03-26T22:12:50+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Baghtoy kaay raagane, overtake kelaay vaaghane.
 - [ ] Being a son is a footnote.
 - [ ] It's gone to the next galaxy.
+- [ ] Certainty is my enemy. I'm all about doubt 
