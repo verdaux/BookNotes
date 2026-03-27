@@ -1,6 +1,7 @@
 ---
 created: 2025-12-18T23:29:42+05:30
 modified: 2026-03-27T16:01:23+05:30
+type: Checklist
 ---
 
 # Paragraphs
