@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-27T15:59:35+05:30
+modified: 2026-03-27T15:59:50+05:30
 type: Checklist
 ---
 
@@ -32,4 +32,4 @@ type: Checklist
 - [ ] It's gone to the next galaxy.
 - [ ] Certainty is my enemy. I'm all about doubt
 - [ ] Tell me, what is it you plan to do with your one wild and precious life?”
-- [ ] We don’t dance to get to the end of the song. 
+- [ ] We don’t dance to get to the end of the song. When you’re really dancing, you’re there, playful, present.
