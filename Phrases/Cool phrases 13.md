@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:02:07+05:30
-modified: 2026-03-26T22:12:21+05:30
+modified: 2026-03-27T22:23:36+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,5 @@ type: Checklist
 - [ ] Lullaby for insomniacs
 - [ ] Algorithm - fed audiences
 - [ ] Instinctively hostile to devotion
+- [ ] That's what my wife calls me
+- [ ] Not as delightful as it could be
