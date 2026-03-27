@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-26T22:12:50+05:30
+modified: 2026-03-27T15:58:46+05:30
 type: Checklist
 ---
 
@@ -30,4 +30,5 @@ type: Checklist
 - [ ] Baghtoy kaay raagane, overtake kelaay vaaghane.
 - [ ] Being a son is a footnote.
 - [ ] It's gone to the next galaxy.
-- [ ] Certainty is my enemy. I'm all about doubt 
+- [ ] Certainty is my enemy. I'm all about doubt
+- [ ] Tell me, what is it you plan to do with your one wild and precious life?”
