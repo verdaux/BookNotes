@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-27T22:13:23+05:30
+modified: 2026-03-28T05:22:44+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Tell me, what is it you plan to do with your one wild and precious life?”
 - [ ] We don’t dance to get to the end of the song. When you’re really dancing, you’re there, playful, present.
 - [ ] Luckily I was born without a behind, so I fit perfectly.
+- [ ] We lost all that work just because someone got a little hasty with the eraser.
