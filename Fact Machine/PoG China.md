@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T22:14:13+05:30
-modified: 2026-03-24T21:54:14+05:30
+modified: 2026-03-28T05:40:23+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,5 @@ type: Checklist
 - [ ] Chiang Kai-shek and Mao fought till 1949, communists won. Nationalists withdrew to Taiwan.
 - [ ] 1951 annexed Tibet. Extended influence to Mongolia
 - [ ] Shanghai City is split by the huanpu river, a tributary of the yangtze
+- [ ] 1989 Tianamen Square Massacre, regained Hong Kong and Macau(from Portuguese)
+- [ ] In the north, 2906 mile-long border with Mongolia along is the Gobi desert.
