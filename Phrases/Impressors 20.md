@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-28T22:04:40+05:30
+modified: 2026-03-28T22:16:55+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] The morning sun shone through its ears, turning them pink
 - [ ] The glory of France is on your shoulders
 - [ ] She could sing the grocery list and it'd be amazing.
+- [ ] Social media makes me unhappy. I noticed Buddha didn't have a phone.
