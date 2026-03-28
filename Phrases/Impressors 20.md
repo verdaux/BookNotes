@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-28T06:03:47+05:30
+modified: 2026-03-28T21:38:28+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] Luckily I was born without a behind, so I fit perfectly.
 - [ ] We lost all that work just because someone got a little hasty with the eraser.
 - [ ] The morning sun shone through its ears, turning them pink
+- [ ] The glory of France is on your shoulders
