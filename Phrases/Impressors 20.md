@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-28T05:39:00+05:30
+modified: 2026-03-28T06:03:47+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] We don’t dance to get to the end of the song. When you’re really dancing, you’re there, playful, present.
 - [ ] Luckily I was born without a behind, so I fit perfectly.
 - [ ] We lost all that work just because someone got a little hasty with the eraser.
+- [ ] The morning sun shone through its ears, turning them pink
