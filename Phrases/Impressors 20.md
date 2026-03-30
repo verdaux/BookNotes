@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:01:25+05:30
-modified: 2026-03-28T22:32:54+05:30
+modified: 2026-03-30T22:02:44+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] She could sing the grocery list and it'd be amazing.
 - [ ] Social media makes me unhappy. I noticed Buddha didn't have a phone.
 - [ ] Brain matter comes oozing out of your ears.
+- [ ] Teach a man to fish, you then gotta teach him how to cook
