@@ -1,6 +1,6 @@
 ---
 created: 2025-12-11T22:56:46+05:30
-modified: 2026-03-24T22:06:15+05:30
+modified: 2026-03-30T15:44:21+05:30
 type: Checklist
 ---
 
@@ -62,6 +62,28 @@ Adverb: petulantly
 - [ ] Adjective: inexorable
 - [ ] Noun: rapacity
 - [ ] Adjective: capacious
+- [ ] Verb: lament
+|lu'ment|
+	Express grief verbally • we lamented the death of the child
+=	keen
+
+	Regret strongly • we lamented the loss of benefits
+=	bemoan, bewail, deplore
+Noun: lament
+|lu'ment|
+	A cry of sorrow and grief • their pitiful laments could be heard throughout the ward
+=	lamentation, plaint, wail
+
+	A song or hymn of mourning composed or performed as a memorial to a dead person • The choir sang a solemn lament at the funeral
+=	coronach, dirge, requiem, threnode, threnody
+
+	A mournful poem; a lament for the dead • Tennyson's 'In Memoriam A.H.H.' is a famous lament for his friend
+=	elegy
+Derived
+
+Noun: lamentation, lamenter
+
+Adjective: lamentable, lamented, lamenting, lamentful
 |ku'pey-shus|
 	Having a lot of space; roomy • she carried a capacious bag
 ≈	big, large
