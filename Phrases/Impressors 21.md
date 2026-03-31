@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-03-31T06:45:35+05:30
+modified: 2026-03-31T22:29:44+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] I'm lost and happy about it.
 - [ ] My name is .... And I'm a roadside Food addict
 - [ ] How will I benefit by comparing myself with him/her?
+- [ ] That's where we are right now. The answer is right beneath our feet.
