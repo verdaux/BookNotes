@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-03-31T06:45:13+05:30
+modified: 2026-03-31T06:45:35+05:30
 type: Checklist
 ---
 
@@ -10,4 +10,4 @@ type: Checklist
 - [ ] It hurts like hell. In a good way.
 - [ ] I'm lost and happy about it.
 - [ ] My name is .... And I'm a roadside Food addict
-- [ ] How will I benefit by comparison with him/her?
+- [ ] How will I benefit by comparing myself with him/her?
