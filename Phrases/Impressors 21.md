@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-03-31T22:34:33+05:30
+modified: 2026-04-01T21:30:08+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,5 @@ type: Checklist
 - [ ] How will I benefit by comparing myself with him/her?
 - [ ] That's where we are right now. The answer is right beneath our feet.
 - [ ] You got diversity here. Not in this room. But, generally there is diversity here.
+- [ ] This guy is serious about sleep. Let's hit those kpis.
+- [ ] One soap that covers all the realms of the body.
