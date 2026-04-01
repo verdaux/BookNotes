@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-01T21:30:08+05:30
+modified: 2026-04-01T21:30:59+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] You got diversity here. Not in this room. But, generally there is diversity here.
 - [ ] This guy is serious about sleep. Let's hit those kpis.
 - [ ] One soap that covers all the realms of the body.
+- [ ] We've got a skin care regime. And it is a regime. A very oppressive one.
