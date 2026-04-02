@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-02T15:13:03+05:30
+modified: 2026-04-02T15:13:40+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] That's why they pay me the medium bucks.
 - [ ] To catch a bus you've got to think like a bus.
 - [ ] As the prophecy foretold.
+- [ ] Pain is temporary but swag is forever
