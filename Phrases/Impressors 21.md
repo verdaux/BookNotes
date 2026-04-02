@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-02T15:18:18+05:30
+modified: 2026-04-02T15:20:42+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Your mind is my favourite place to wander. To get lost.
 - [ ] You see beauty in things most people miss.
 - [ ] You handle hard things with so much grace.
+- [ ] What's something you wish we'd talk about more?
