@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-02T15:09:16+05:30
+modified: 2026-04-02T15:10:06+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Instant coffee is a well deserved punishment for being in a hurry to reach the future.
 - [ ] Your ass must get jealous with all the shit that comes out of your mouth.
 - [ ] Is this why fate brought us together?
+- [ ] So... It has come to this?
