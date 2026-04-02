@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-02T15:14:26+05:30
+modified: 2026-04-02T15:14:56+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] As the prophecy foretold.
 - [ ] Pain is temporary but swag is forever
 - [ ] Low quality pics, low quality life.
+- [ ] My therapist knows all your names.
