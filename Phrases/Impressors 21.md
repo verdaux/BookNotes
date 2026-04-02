@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-01T21:57:17+05:30
+modified: 2026-04-02T15:04:14+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] We've got a skin care regime. And it is a regime. A very oppressive one.
 - [ ] Got her 2 things. Words of affirmation and pat on the head. Really spoiled my girl.
 - [ ] This beautiful dream will last forever. And then suddenly shoot gets real.
+- [ ] Instant coffee is a well deserved punishment to be in a hurry to reach the future.
