@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-02T22:21:09+05:30
+modified: 2026-04-03T11:39:04+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] What's something you wish we'd talk about more?
 - [ ] They would have loved COVID. Panic, medical equipments, and the works.
 - [ ] He does [°°°]. I know this because he told me.
+- [ ] I'm like hugh laurie. Without the wit or the sex appeal.
