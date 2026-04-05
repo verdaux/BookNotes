@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-01-29T08:43:14+05:30
+modified: 2026-04-05T06:26:34+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Antoine Vollon's Mound of Butter (c. 1875–1885)
 - [ ] the people in motion of Jan De Vliegher (b. 1964)
 - [ ] Dreamlike by D'lavigne
+- [ ] Contemporary Cubism by 
