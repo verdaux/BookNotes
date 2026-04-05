@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-05T16:34:01+05:30
+modified: 2026-04-05T16:40:03+05:30
 type: Checklist
 ---
 
@@ -44,4 +44,5 @@ type: Checklist
 - [ ] I like attention. Attention likes me too. We have an arrangement.©
 - [ ] As as society we are allergic to silence.
 - [ ] she had my emotions so tightly in her fist I broke into tears.
-- [ ] That’s true humiliation, but it’s the same for both parties. Equal fights equal rights. 
+- [ ] That’s true humiliation, but it’s the same for both parties. Equal fights equal rights.
+- [ ] Don’t try to blend in—try to look untouchably occupied.
