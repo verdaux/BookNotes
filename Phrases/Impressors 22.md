@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-05T22:04:27+05:30
+modified: 2026-04-05T22:05:37+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] Much as I'd like to kill you by dangerously lowering your blood sugar, murder violates my parole.
 - [ ] Sorry to mess with your world view but I'm not messed up.
 - [ ] Cause I'm stunned. And I have to look at something.
+- [ ] Liver failure explains everything. The question is "What explains the liver failure?"
