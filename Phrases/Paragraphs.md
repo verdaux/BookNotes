@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T23:29:42+05:30
-modified: 2026-03-27T16:01:23+05:30
+modified: 2026-04-05T22:52:52+05:30
 type: Checklist
 ---
 
@@ -11,6 +11,9 @@ type: Checklist
 - [ ] The sky was the kind of blue if blue could burn, blue on fire, lit by the sun blazing high above the hills in winter on a morning when there are no clouds. A sky like that makes it easier for a soldier to die. It's the last thing he sees, and there is comfort in knowing some things will live forever.
 - [ ] When she was excited, and she was excited a good deal of the time, her face flushed with gold. Her great-great-great grandmother had been burned as a witch.
 - [ ] The artist who never makes art becomes cynical about those who do. And yet, all of them suffer,
+- [ ] This quote by James Baldwin about sums it up:
+
+> You read something which you thought only happened to you, and you discover that it happened 100 years ago to Dostoyevsky. This is a very great liberation for the suffering, struggling person, who always thinks that he is alone. This is why art is important.
 because deep down they know:
 the life they mock is the life they were meant to live.
 The lover who never risks loving mocks romance.
