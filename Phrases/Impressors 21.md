@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T22:16:37+05:30
-modified: 2026-04-05T06:34:21+05:30
+modified: 2026-04-05T06:57:41+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] I must remain whimsical to survive the horrors.
 - [ ] I like attention. Attention likes me too. We have an arrangement.©
 - [ ] As as society we are allergic to silence.
+- [ ] she had my emotions so tightly in her fist I broke into tears.
