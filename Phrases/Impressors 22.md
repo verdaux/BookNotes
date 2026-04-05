@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-05T22:25:13+05:30
+modified: 2026-04-05T23:16:41+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Liver failure explains everything. The question is "What explains the liver failure?"
 - [ ] This is where you dazzle me with your contingency plan
 - [ ] Following your heart is easy. Following your brain is tough. Especially, after years of following that (much smaller) third organ.
+- [ ] You may also call me 'the voice of the generation'. Many thanks.
