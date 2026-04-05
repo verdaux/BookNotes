@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-05T21:42:52+05:30
+modified: 2026-04-05T22:27:42+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Intentions are unmistakeable
 - [ ] Verbal assailant
 - [ ] Screwed up squared
+- [ ] The details are just gravy
