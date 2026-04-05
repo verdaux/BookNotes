@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-05T21:45:01+05:30
+modified: 2026-04-05T21:46:08+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] The arrogance of flames for mistaking their brief light for greatness when their only legacy is ash.
 - [ ] Like, they can’t enter a room without trying to steal the entire plot.
 - [ ] The test also thinks you're a giant pain in the ass.
+- [ ] Much as I'd like to kill you by dangerously lowering your blood sugar, murder violates my parole.
