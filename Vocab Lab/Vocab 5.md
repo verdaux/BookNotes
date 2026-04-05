@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-04-05T18:34:59+05:30
+modified: 2026-04-05T18:38:03+05:30
 type: Checklist
 ---
 
@@ -9,6 +9,11 @@ type: Checklist
 - [ ] Noun: conundrum
 - [ ] Adjective: indecorous
 - [ ] Noun: clamor
+- [ ] Noun: thunderclap
+|'thún-dur,klap|
+	A single sharp crash of thunder • A loud thunderclap shook the windows
+	A shocking surprise • news of the attack came like a thunderclap
+=	bombshell, thunderbolt
 |kla-mur|
 Usage: American (elsewhere: clamour)
 	Loud and persistent outcry from many people • he ignored the clamor of the crowd
