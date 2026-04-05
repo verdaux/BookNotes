@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-05T22:08:19+05:30
+modified: 2026-04-05T22:24:34+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Cause I'm stunned. And I have to look at something.
 - [ ] Liver failure explains everything. The question is "What explains the liver failure?"
 - [ ] This is where you dazzle me with your contingency plan
+- [ ] Following your heart is easy. Following your brain is tough. Especially, after years of following your third organ.
