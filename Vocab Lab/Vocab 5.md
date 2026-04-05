@@ -1,6 +1,7 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-04-05T18:39:27+05:30
+modified: 2026-04-05T19:22:09+05:30
+type: Checklist
 ---
 
 # Vocab 5
@@ -9,6 +10,28 @@ modified: 2026-04-05T18:39:27+05:30
 - [ ] Adjective: indecorous
 - [ ] Noun: clamor
 - [ ] Noun: thunderclap
+- [ ] Noun: dandy
+|dan-dee|
+	A man who is much concerned with his dress and appearance • The dandy spent hours preening in front of the mirror before attending the social gathering
+=	beau, clotheshorse, dude, fashion plate, fop, gallant, swell
+
+	A sailing vessel with two masts; a small mizzen is aft of the rudderpost • The dandy sailed gracefully across the harbor
+=	yawl
+Adjective: dandy
+|dan-dee|
+Usage: informal
+	Excellent • he did a dandy job
+=	bang-up, bully, great, groovy, keen, lovely, neat, nifty, not bad, not half bad, old, peachy, slap-up, swell
+≈	good
+Derived
+
+Noun: dandyism
+
+Verb: dandify
+
+Adjective: dandyish
+
+Adverb: dandily
 |'thún-dur,klap|
 	A single sharp crash of thunder • A loud thunderclap shook the windows
 	A shocking surprise • news of the attack came like a thunderclap
