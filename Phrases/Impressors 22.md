@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-05T23:20:54+05:30
+modified: 2026-04-06T23:12:12+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Following your heart is easy. Following your brain is tough. Especially, after years of following that (much smaller) third organ.
 - [ ] You may also call me 'the voice of the generation'. Many thanks.
 - [ ] Why does every app think they can pause my music? You are nothing and no one.
+- [ ] Who knew Ricky had that in him? Not me.
