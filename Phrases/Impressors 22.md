@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-06T23:12:12+05:30
+modified: 2026-04-08T04:57:17+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] You may also call me 'the voice of the generation'. Many thanks.
 - [ ] Why does every app think they can pause my music? You are nothing and no one.
 - [ ] Who knew Ricky had that in him? Not me.
+- [ ] If I sent you food right now What would you pick?
