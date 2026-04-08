@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-05T22:27:42+05:30
+modified: 2026-04-08T09:30:44+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Verbal assailant
 - [ ] Screwed up squared
 - [ ] The details are just gravy
+- [ ] Untethered bundle of desire
