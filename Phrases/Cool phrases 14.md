@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-08T09:30:44+05:30
+modified: 2026-04-08T09:47:30+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Screwed up squared
 - [ ] The details are just gravy
 - [ ] Untethered bundle of desire
+- [ ] Attention whore
