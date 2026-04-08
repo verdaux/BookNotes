@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-08T21:16:58+05:30
+modified: 2026-04-08T21:23:24+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,5 @@ type: Checklist
 - [ ] I have no fucking clue what happened but it was beautiful and I was vibing.
 - [ ] You're tired of being a danger to yourself and others, so you accept his terms. He’s thirty-eight and his life looks like a reasonable enough cage for you to live in.
 - [ ] When was the last time you had an unexpressed thought?
+- [ ] Thanks you pointing that out. Being born and raised here I never would have known.
+- [ ] I like them from a distance. Like the sun. They are like the sun. Except, without the warmth.
