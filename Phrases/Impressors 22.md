@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-09T22:08:55+05:30
+modified: 2026-04-09T22:36:23+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] Meri aankhein kuchipudi karne lagi.
 - [ ] Dusri baar dekhne pe dusra laga.
 - [ ] I might scare you. Because I'm a man. And I know how to do things.
+- [ ] I wanna have a hot body because I'm tired of building my personality.
