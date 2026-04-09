@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-08T21:23:24+05:30
+modified: 2026-04-09T20:39:31+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,5 @@ type: Checklist
 - [ ] When was the last time you had an unexpressed thought?
 - [ ] Thanks you pointing that out. Being born and raised here I never would have known.
 - [ ] I like them from a distance. Like the sun. They are like the sun. Except, without the warmth.
+- [ ] Meri aankhein kuchipudi karne lagi.
+- [ ] Dusri baar dekhne pe dusra laga.
