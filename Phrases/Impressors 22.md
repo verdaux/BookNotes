@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-11T21:28:47+05:30
+modified: 2026-04-12T06:22:31+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Do you think you'll be a good leader. No I think I'll be adequate.
 - [ ] Bipolar means attracted to both male and female polar bears.
 - [ ] I can almost hear my left ventricle slamming shut as I speak.
+- [ ] The body learns it quickly, memorises it like a hymn
