@@ -1,6 +1,6 @@
 ---
 created: 2025-01-11T07:29:50+05:30
-modified: 2025-05-17T21:59:44+05:30
+modified: 2026-04-12T06:21:15+05:30
 type: Checklist
 ---
 
@@ -47,4 +47,5 @@ type: Checklist
 - [ ] Reckless immediacy
 - [ ] Hits all the pleasure centres
 - [ ] Positively rhapsodic
-- [ ] Yearly reminder that I'm hot 
+- [ ] Yearly reminder that I'm hot
+- [ ] clean hands and ironed collars
