@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-12T06:22:31+05:30
+modified: 2026-04-13T08:51:54+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,5 @@ type: Checklist
 - [ ] Bipolar means attracted to both male and female polar bears.
 - [ ] I can almost hear my left ventricle slamming shut as I speak.
 - [ ] The body learns it quickly, memorises it like a hymn
+- [ ] Can't spell aurat without aura.
+- [ ] Apsara Guava Glory > Tiramisu.
