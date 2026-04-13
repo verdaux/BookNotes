@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-13T08:51:54+05:30
+modified: 2026-04-13T22:36:05+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] The body learns it quickly, memorises it like a hymn
 - [ ] Can't spell aurat without aura.
 - [ ] Apsara Guava Glory > Tiramisu.
+- [ ] Hang on! What exactly are you saying I did?
