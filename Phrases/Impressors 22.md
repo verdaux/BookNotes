@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-13T22:36:05+05:30
+modified: 2026-04-13T22:56:24+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] Can't spell aurat without aura.
 - [ ] Apsara Guava Glory > Tiramisu.
 - [ ] Hang on! What exactly are you saying I did?
+- [ ] Men with deep bass in their natural voice makes me wanna be friends with them.
