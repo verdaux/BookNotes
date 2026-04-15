@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-08T09:47:30+05:30
+modified: 2026-04-15T21:09:30+05:30
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] The details are just gravy
 - [ ] Untethered bundle of desire
 - [ ] Attention whore
+- [ ] Crack spirit guide
