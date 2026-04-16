@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-04-16T06:56:59+05:30
+modified: 2026-04-16T13:30:09+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Dreamlike by D'lavigne
 - [ ] Contemporary Cubism by Georgy kurasov
 - [ ] Elena Wuest 1977
+- [ ] Frank Auerbach Primrose
