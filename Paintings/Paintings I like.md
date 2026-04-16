@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-04-05T06:26:54+05:30
+modified: 2026-04-16T06:56:59+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] the people in motion of Jan De Vliegher (b. 1964)
 - [ ] Dreamlike by D'lavigne
 - [ ] Contemporary Cubism by Georgy kurasov
+- [ ] Elena Wuest 1977
