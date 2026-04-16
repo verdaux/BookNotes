@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-15T21:17:25+05:30
+modified: 2026-04-16T13:27:09+05:30
 type: Checklist
 ---
 
@@ -20,4 +20,5 @@ type: Checklist
 - [ ] Untethered bundle of desire
 - [ ] Attention whore
 - [ ] Crack spirit guide
-- [ ] Inexplicably mutant strong 
+- [ ] Inexplicably mutant strong
+- [ ] That's reckless of me
