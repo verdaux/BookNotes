@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-16T13:27:09+05:30
+modified: 2026-04-16T13:36:14+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] Crack spirit guide
 - [ ] Inexplicably mutant strong
 - [ ] That's reckless of me
+- [ ] To a large degree
