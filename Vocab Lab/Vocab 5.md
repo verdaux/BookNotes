@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-04-05T19:22:09+05:30
+modified: 2026-04-16T20:59:51+05:30
 type: Checklist
 ---
 
@@ -11,6 +11,15 @@ type: Checklist
 - [ ] Noun: clamor
 - [ ] Noun: thunderclap
 - [ ] Noun: dandy
+- [ ] Adjective: lowbrow
+|'low,braw|
+	Characteristic of a person who is not cultivated or does not have intellectual tastes • lowbrow tastes
+=	lowbrowed, uncultivated
+≈	nonintellectual, unintellectual
+Noun: lowbrow
+|'low,braw|
+	A person who is uninterested in intellectual pursuits • He was regarded as a lowbrow by his more cultured colleagues
+=	anti-intellectual, philistine
 |dan-dee|
 	A man who is much concerned with his dress and appearance • The dandy spent hours preening in front of the mirror before attending the social gathering
 =	beau, clotheshorse, dude, fashion plate, fop, gallant, swell
