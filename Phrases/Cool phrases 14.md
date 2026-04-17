@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-17T09:12:11+05:30
+modified: 2026-04-17T09:12:53+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] That's reckless of me
 - [ ] To a large degree
 - [ ] I made a vow 
+- [ ] Irresistibly desirable
