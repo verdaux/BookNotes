@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T23:29:42+05:30
-modified: 2026-04-05T22:52:52+05:30
+modified: 2026-04-18T07:20:49+05:30
 type: Checklist
 ---
 
@@ -12,6 +12,9 @@ type: Checklist
 - [ ] When she was excited, and she was excited a good deal of the time, her face flushed with gold. Her great-great-great grandmother had been burned as a witch.
 - [ ] The artist who never makes art becomes cynical about those who do. And yet, all of them suffer,
 - [ ] This quote by James Baldwin about sums it up:
+- [ ] “You feel depressed and crazy because in every historical human culture known to anthropology, people sang together, danced together, and ate food together—and you don’t sing, you don’t dance, and you eat alone in the dark.
+You are a singing ape, and you are meant to know fifty dances by heart, which hilltops are sacred, and the names of every plant it is possible to eat.”
+— Jay LeSoleil
 
 > You read something which you thought only happened to you, and you discover that it happened 100 years ago to Dostoyevsky. This is a very great liberation for the suffering, struggling person, who always thinks that he is alone. This is why art is important.
 because deep down they know:
