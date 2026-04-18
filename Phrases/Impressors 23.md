@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-17T09:14:26+05:30
+modified: 2026-04-18T07:03:44+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] I say this with an Italian hand gesture punctuation.
 - [ ] There's no attractive reason for a third cup of coffee.
 - [ ] People who don't get out much and can't handle it when they do.
+- [ ] I have learned to code in python. World domination is not too far.
