@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-18T18:54:59+05:30
+modified: 2026-04-18T19:21:55+05:30
 type: Checklist
 ---
 
@@ -21,4 +21,5 @@ type: Checklist
 - [ ] the more you depend on something, the more power it has over you.
 - [ ] He knows where the bodies are buried because he dug half the graves.
 - [ ] “There is reason, after all, that some people wish to colonize the moon, and others dance before it as an ancient friend.”
+- [ ] When they were together it were as though a circuit had been completed, a symmetry restored.
 — James Baldwin
