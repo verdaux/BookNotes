@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-18T07:10:58+05:30
+modified: 2026-04-18T07:22:29+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] I have learned to code in python. World domination is not too far.
 - [ ] This fits in the gentle slope of your neck
 - [ ] unstoppable force meets an immovable object
+- [ ] please be patient with me, everything i learned in childhood was wrong
