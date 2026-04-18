@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-18T07:22:29+05:30
+modified: 2026-04-18T07:27:29+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] This fits in the gentle slope of your neck
 - [ ] unstoppable force meets an immovable object
 - [ ] please be patient with me, everything i learned in childhood was wrong
+- [ ] In a rich man’s house, there is nowhere to spit but his face.
