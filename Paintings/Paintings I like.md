@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-04-18T16:41:16+05:30
+modified: 2026-04-18T19:09:38+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Elena Wuest 1977
 - [ ] Frank Auerbach Primrose
 - [ ] Javier Mulio - 1957
+- [ ] David Hettinger
