@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T23:29:42+05:30
-modified: 2026-04-18T07:29:38+05:30
+modified: 2026-04-18T07:29:55+05:30
 type: Checklist
 ---
 
@@ -13,7 +13,7 @@ type: Checklist
 - [ ] The artist who never makes art becomes cynical about those who do. And yet, all of them suffer,
 - [ ] This quote by James Baldwin about sums it up:
 - [ ] “You feel depressed and crazy because in every historical human culture known to anthropology, people sang together, danced together, and ate food together—and you don’t sing, you don’t dance, and you eat alone in the dark.
-- [ ] The question is: what can you not live without?
+- [ ] The question is: what can you not live without?Approval, comfort, validation, routine, control. Each of these can quietly become a form of dependence. And once something becomes a necessity in your mind, it enslaves you. It begins to shape your choices, your behaviour, even your sense of self.
 You are a singing ape, and you are meant to know fifty dances by heart, which hilltops are sacred, and the names of every plant it is possible to eat.”
 — Jay LeSoleil
 
