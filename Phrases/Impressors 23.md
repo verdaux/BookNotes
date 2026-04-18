@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-18T07:09:27+05:30
+modified: 2026-04-18T07:10:58+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] People who don't get out much and can't handle it when they do.
 - [ ] I have learned to code in python. World domination is not too far.
 - [ ] This fits in the gentle slope of your neck
+- [ ] unstoppable force meets an immovable object
