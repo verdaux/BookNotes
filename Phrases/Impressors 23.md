@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-18T16:42:16+05:30
+modified: 2026-04-18T18:54:59+05:30
 type: Checklist
 ---
 
@@ -19,4 +19,6 @@ type: Checklist
 - [ ] please be patient with me, everything i learned in childhood was wrong
 - [ ] In a rich man’s house, there is nowhere to spit but his face.
 - [ ] the more you depend on something, the more power it has over you.
-- [ ] He knows where the bodies are buried because he dug half the graves. 
+- [ ] He knows where the bodies are buried because he dug half the graves.
+- [ ] “There is reason, after all, that some people wish to colonize the moon, and others dance before it as an ancient friend.”
+— James Baldwin
