@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-17T09:12:53+05:30
+modified: 2026-04-18T09:02:31+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] To a large degree
 - [ ] I made a vow 
 - [ ] Irresistibly desirable
+- [ ] Obdurately resistant 
