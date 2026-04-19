@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-18T19:52:52+05:30
+modified: 2026-04-19T07:08:17+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Irresistibly desirable
 - [ ] Obdurately resistant
 - [ ] A city fluent in spectacle
+- [ ] A strong desire to go out for dinner
