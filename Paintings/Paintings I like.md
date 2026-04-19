@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-04-19T09:50:53+05:30
+modified: 2026-04-19T09:56:48+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] David Hettinger
 - [ ] Dominika Hofman 1986
 - [ ] Mihail Zablodski - The Fatigue
+- [ ] Roses of Heliogoabulus 1888
