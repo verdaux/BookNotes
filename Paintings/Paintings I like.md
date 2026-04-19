@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-04-18T19:12:41+05:30
+modified: 2026-04-19T09:50:53+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Javier Mulio - 1957
 - [ ] David Hettinger
 - [ ] Dominika Hofman 1986
+- [ ] Mihail Zablodski - The Fatigue
