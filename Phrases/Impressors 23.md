@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-21T21:31:02+05:30
+modified: 2026-04-21T21:41:35+05:30
 type: Checklist
 ---
 
@@ -23,4 +23,5 @@ type: Checklist
 - [ ] “There is reason, after all, that some people wish to colonize the moon, and others dance before it as an ancient friend.”
 - [ ] When they were together it were as though a circuit had been completed, a symmetry restored.
 - [ ] Storing into my possible trivia memory box.
+- [ ] 'your name' cons himself into good behaviour
 — James Baldwin
