@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-22T20:58:39+05:30
+modified: 2026-04-22T23:08:57+05:30
 type: Checklist
 ---
 
@@ -25,4 +25,5 @@ type: Checklist
 - [ ] Storing into my possible trivia memory box.
 - [ ] 'your name' cons himself into good behaviour
 - [ ] Present a sanitized version of myself that's highly edited.
+- [ ] “You normally have to be bashed around a bit by life to see the point of daffodils, sunsets and uneventful nice days.”— Alain de Botton
 — James Baldwin
