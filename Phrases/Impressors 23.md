@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-21T21:41:35+05:30
+modified: 2026-04-22T20:58:39+05:30
 type: Checklist
 ---
 
@@ -24,4 +24,5 @@ type: Checklist
 - [ ] When they were together it were as though a circuit had been completed, a symmetry restored.
 - [ ] Storing into my possible trivia memory box.
 - [ ] 'your name' cons himself into good behaviour
+- [ ] Present a sanitized version of myself that's highly edited.
 — James Baldwin
