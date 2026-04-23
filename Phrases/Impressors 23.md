@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-22T23:14:04+05:30
+modified: 2026-04-23T22:21:22+05:30
 type: Checklist
 ---
 
@@ -29,6 +29,7 @@ type: Checklist
 - [ ] Self-improvement is a never-ending project.
 - [ ] Fame and fortune here I come
 - [ ] The human body was not meant to endure 2 trump terms in one lifetime.
+- [ ] If you live in the terminal. If you have opinions about the command line I'd love to talk to you.
 For you.
 I’m already perfect.
 — James Baldwin
