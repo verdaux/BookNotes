@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-24T22:26:34+05:30
+modified: 2026-04-24T22:35:36+05:30
 type: Checklist
 ---
 
@@ -31,6 +31,7 @@ type: Checklist
 - [ ] The human body was not meant to endure 2 trump terms in one lifetime.
 - [ ] If you live in the terminal. If you have opinions about the command line I'd love to talk to you.
 - [ ] Biggest fan of how the sun glitters on water.
+- [ ] 3 months ago I was obsessed with a soda can
 For you.
 I’m already perfect.
 — James Baldwin
