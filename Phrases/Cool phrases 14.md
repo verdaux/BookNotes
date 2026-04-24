@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-24T22:27:22+05:30
+modified: 2026-04-24T22:30:40+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] A strong desire to go out for dinner
 - [ ] Forging an identity
 - [ ] Obnoxious opinion haver
+- [ ] I adore the texture of your mind
