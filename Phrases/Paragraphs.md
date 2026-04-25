@@ -1,6 +1,7 @@
 ---
 created: 2025-12-18T23:29:42+05:30
-modified: 2026-04-25T17:18:22+05:30
+modified: 2026-04-25T17:18:35+05:30
+type: Checklist
 ---
 
 # Paragraphs
@@ -13,6 +14,7 @@ modified: 2026-04-25T17:18:22+05:30
 - [ ] This quote by James Baldwin about sums it up:
 - [ ] “You feel depressed and crazy because in every historical human culture known to anthropology, people sang together, danced together, and ate food together—and you don’t sing, you don’t dance, and you eat alone in the dark.
 - [ ] The question is: what can you not live without?Approval, comfort, validation, routine, control. Each of these can quietly become a form of dependence. And once something becomes a necessity in your mind, it enslaves you. It begins to shape your choices, your behaviour, even your sense of self.
+- [ ] The best decision I ever made was to be completely useless to a world that insisted all the wrong things were important. If the modern world makes you sick, remember – the heart is ancient and hasn’t had any updates.
 You are a singing ape, and you are meant to know fifty dances by heart, which hilltops are sacred, and the names of every plant it is possible to eat.”
 — Jay LeSoleil
 
