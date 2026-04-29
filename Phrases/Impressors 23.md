@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-26T00:38:29+05:30
+modified: 2026-04-29T17:17:59+05:30
 type: Checklist
 ---
 
@@ -34,6 +34,7 @@ type: Checklist
 - [ ] 3 months ago I was obsessed with a soda can
 - [ ]  "I am scrubbing your scent from my skin, only to find you’ve been stained into my bones."
 - [ ] walking (especially without your phone — I know, scandalous)
+- [ ] And I say this after several lived experiences.
 For you.
 I’m already perfect.
 — James Baldwin
