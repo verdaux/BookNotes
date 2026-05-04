@@ -1,6 +1,6 @@
 ---
 created: 2026-04-15T07:03:26+05:30
-modified: 2026-04-29T17:17:59+05:30
+modified: 2026-05-04T14:19:05+05:30
 type: Checklist
 ---
 
@@ -35,6 +35,7 @@ type: Checklist
 - [ ]  "I am scrubbing your scent from my skin, only to find you’ve been stained into my bones."
 - [ ] walking (especially without your phone — I know, scandalous)
 - [ ] And I say this after several lived experiences.
+- [ ] We have just discovered a new strain of upper East side Anal.
 For you.
 I’m already perfect.
 — James Baldwin
