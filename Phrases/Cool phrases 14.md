@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-04-30T21:41:13+05:30
+modified: 2026-05-04T08:26:59+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Tight-fisted cockmuncher
 - [ ] Wanna slit my wrist
 - [ ] Nature abhors a vacuum
+- [ ] Consistently at death's door.
