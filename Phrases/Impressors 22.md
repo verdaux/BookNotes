@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-04-15T06:05:12+05:30
+modified: 2026-05-08T06:16:53+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Men with deep bass in their natural voice makes me wanna be friends with them.
 - [ ] watched me melt, dripping my youth out onto the floor.
 - [ ] I'm from Mumbai. Therefore, I'm naturally interesting.
+- [ ] Fear doesn't prevent death, it prevents life.
