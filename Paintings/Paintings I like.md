@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-05-08T06:10:21+05:30
+modified: 2026-05-08T06:10:53+05:30
 type: Checklist
 ---
 
@@ -23,4 +23,4 @@ type: Checklist
 - [ ] Mihail Zablodski - The Fatigue
 - [ ] Roses of Heliogoabulus 1888
 - [ ] In the light of the morning by Jeffrey T. Larsen
-- [ ] Alena Shmyochnak
+- [ ] Alena Shymchonak
