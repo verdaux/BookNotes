@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-05-09T11:20:26+05:30
+modified: 2026-05-09T21:45:17+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] That’s a nice way to procrapstinate
 - [ ] I just spent 8 dollars on a crappuchino
 - [ ] You don’t get this close unless you’re prepared to be kept.
+- [ ] There's no reason to start now.
