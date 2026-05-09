@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-04-16T20:59:51+05:30
+modified: 2026-05-09T22:27:06+05:30
 type: Checklist
 ---
 
@@ -12,6 +12,19 @@ type: Checklist
 - [ ] Noun: thunderclap
 - [ ] Noun: dandy
 - [ ] Adjective: lowbrow
+- [ ] Adjective: poignant
+|poyn-yunt|
+	Arousing affect • poignant grief cannot endure forever
+=	affecting, touching
+≈	moving
+
+	Keenly distressing to the mind or feelings • poignant anxiety
+≈	painful
+Derived
+
+Noun: poignance, poignancy
+
+Adverb: poignantly
 |'low,braw|
 	Characteristic of a person who is not cultivated or does not have intellectual tastes • lowbrow tastes
 =	lowbrowed, uncultivated
