@@ -1,6 +1,6 @@
 ---
 created: 2025-12-18T23:29:42+05:30
-modified: 2026-05-04T07:14:24+05:30
+modified: 2026-05-09T22:22:09+05:30
 type: Checklist
 ---
 
@@ -17,6 +17,8 @@ type: Checklist
 - [ ] The best decision I ever made was to be completely useless to a world that insisted all the wrong things were important. If the modern world makes you sick, remember – the heart is ancient and hasn’t had any updates.
 - [ ] Some people are simply very good at holding their breath for an entire life before dying. Life is a game of who can stay in the dark long enough without turning on the lights, because the moment you do, that’s the life you’re stuck with. I don’t trust people who have life solved by 25. That’s where their story ends. By 30 they’re asleep, and they wake up briefly at 50 to go to the toilet in the middle of life’s night before heading back to the parking fines, committees, home renos, the family Christmases in their sleep until they die. I’m 50 and still have no idea what I’m doing, just following the old broken compass of my shoulder shrug. For a long time I wanted to feel everything. I didn’t want to just sit in the sun and stub my toe. I wanted to get hit by a bus and win the lotto on the same day! I wanted to be pushed sideways and punched in the heart, like a fish flapping on a pier, gasping for air, wide-eyed and amazed, staring up at the ghost of stars! For a long time I was too lazy to dig for the gold buried in boredom – you have to survive the vast tiresome parts of yourself. But now I like my free-range boredom… kicking a pebble down a slow street like I’m nudging the universe to do something, anything. Mostly I’m just out here in life, wandering parks and car parks in the golden hour, finding small pockets of unreasonable happiness between moments on a to-do list. But then a bird sang and I was rich. I lay on my bed and I was rich. I was the loveliest dickhead I knew and I was rich.
 - [ ] You are allowed to want a small life, a quiet life, a life that doesn't impress anyone at dinner parties or family reunions. You are allowed to choose tea and a book and a long walk over relentless ambition. You are 100% allowed to never watch the news again. That is also a life well lived. Maybe the most.
+- [ ] “In [fairy tales], power is rarely the right tool for survival anyway. Rather the powerless thrive on alliances, often in the form of reciprocated acts of kindness—from beehives that were not raided, birds that were not killed but set free or fed, old women who were saluted with respect. Kindness shown among the meek is harvested in crisis.”
+— Rebecca Solnit, The Faraway Nearby
 You are a singing ape, and you are meant to know fifty dances by heart, which hilltops are sacred, and the names of every plant it is possible to eat.”
 — Jay LeSoleil
 
