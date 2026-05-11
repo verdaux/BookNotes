@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-05-09T22:27:06+05:30
+modified: 2026-05-11T21:57:19+05:30
 type: Checklist
 ---
 
@@ -13,6 +13,11 @@ type: Checklist
 - [ ] Noun: dandy
 - [ ] Adjective: lowbrow
 - [ ] Adjective: poignant
+- [ ] Noun: codger
+|kó-jur|
+Usage: informal
+	(derogatory or affectionate) an amusingly eccentric, grumpy or old-fashioned old man • The old codger complained about kids these days
+=	old codger
 |poyn-yunt|
 	Arousing affect • poignant grief cannot endure forever
 =	affecting, touching
