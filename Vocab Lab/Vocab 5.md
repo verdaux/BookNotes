@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-05-11T21:57:19+05:30
+modified: 2026-05-11T21:57:56+05:30
 type: Checklist
 ---
 
@@ -14,6 +14,29 @@ type: Checklist
 - [ ] Adjective: lowbrow
 - [ ] Adjective: poignant
 - [ ] Noun: codger
+- [ ] Noun: deluge
+|del-yooj|
+	The rising of a body of water and its overflowing onto normally dry land • plains fertilized by annual deluges
+=	alluvion, flood, inundation
+
+	A heavy rainstorm • The clouds broke after the heavy deluge
+=	cloudburst, downpour, gullywasher, pelter, soaker, torrent, waterspout
+
+	An overwhelming number or amount • a deluge of requests
+=	flood, inundation, torrent
+Verb: deluge
+|del-yooj|
+	Fill or cover completely, usually with water • Melting snow deluged the valley
+=	inundate, submerge
+
+	Fill or become beyond capacity with too large a volume of something • The images deluged his mind
+=	flood, inundate, swamp
+
+	Charge someone with too many tasks • She was deluged by paperwork
+=	overload, overwhelm, snow under
+Derived
+
+Adjective: diluvial, diluvian
 |kó-jur|
 Usage: informal
 	(derogatory or affectionate) an amusingly eccentric, grumpy or old-fashioned old man • The old codger complained about kids these days
