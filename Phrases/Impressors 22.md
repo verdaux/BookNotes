@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T16:40:28+05:30
-modified: 2026-05-11T18:47:54+05:30
+modified: 2026-05-11T20:54:53+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] You don’t get this close unless you’re prepared to be kept.
 - [ ] There's no reason to start now.
 - [ ] “Two intelligent people can not fall in love. True love needs one idiot.” __Dostoevsky
+- [ ] Forget everything you know, kid. That shouldn't take you long.
