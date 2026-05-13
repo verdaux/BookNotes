@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-11T21:44:49+05:30
+modified: 2026-05-13T20:51:29+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,4 @@ type: Checklist
 - [ ] You seem pretty understanding For a girl who's been misunderstood.
 - [ ] “What does the money machine eat? It eats youth, spontaneity, life, beauty, and, above all, it eats creativity. It eats quality and shits quantity.”— William S. Burroughs
 - [ ] Marcus Aurelius wrote this over 1800 years ago:“What are you afraid of losing, when nothing in the world actually belongs to you?”
+- [ ] No one has ever accused me of being overly polite.
