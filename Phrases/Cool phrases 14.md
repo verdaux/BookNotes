@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-13T09:13:11+05:30
+modified: 2026-05-13T09:25:10+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] milf (movie i'd like to finish)
 - [ ] Haldi = turmeric - anointing
 - [ ] BILF (book I'd like to finish)
+- [ ] the tyranny of the ticking clock
