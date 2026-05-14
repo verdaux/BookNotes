@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-14T08:25:42+05:30
+modified: 2026-05-14T13:14:38+05:30
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Marcus Aurelius wrote this over 1800 years ago:“What are you afraid of losing, when nothing in the world actually belongs to you?”
 - [ ] No one has ever accused me of being overly polite.
 - [ ] having done a ctrl+c but not a ctrl+v feels like carrying a loaded gun
+- [ ] life is a rapid struggle to become employed and then a much slower, more painful struggle to become unemployed.
