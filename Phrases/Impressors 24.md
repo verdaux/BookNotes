@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-16T14:15:51+05:30
+modified: 2026-05-16T14:22:09+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] having done a ctrl+c but not a ctrl+v feels like carrying a loaded gun
 - [ ] life is a rapid struggle to become employed and then a much slower, more painful struggle to become unemployed.
 - [ ] Those are my principles, and if you don't like them... well, I have others.-- Groucho Marx
+- [ ] After years of hard work you have reached the pinnacle of mediocrity.
