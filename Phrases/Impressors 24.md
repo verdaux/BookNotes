@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-14T13:14:38+05:30
+modified: 2026-05-16T14:15:51+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] No one has ever accused me of being overly polite.
 - [ ] having done a ctrl+c but not a ctrl+v feels like carrying a loaded gun
 - [ ] life is a rapid struggle to become employed and then a much slower, more painful struggle to become unemployed.
+- [ ] Those are my principles, and if you don't like them... well, I have others.-- Groucho Marx
