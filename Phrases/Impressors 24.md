@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-17T23:43:43+05:30
+modified: 2026-05-18T18:10:20+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] After years of hard work you have reached the pinnacle of mediocrity.
 - [ ] Everyone wants what the other person has.
 - [ ] It's scary how fast moments become memories.
+- [ ] Why are you talking like a cunt? I'm in the habit of avoiding people who talk like cunts.
