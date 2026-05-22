@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-05-11T21:57:56+05:30
+modified: 2026-05-22T13:12:32+05:30
 type: Checklist
 ---
 
@@ -15,6 +15,19 @@ type: Checklist
 - [ ] Adjective: poignant
 - [ ] Noun: codger
 - [ ] Noun: deluge
+- [ ] Adjective: putrid
+|pyoo-trid|
+	In an advanced state of decomposition and having a foul odor • horrible like raw and putrid flesh
+≈	stale
+
+	Of or relating to or attended by putrefaction • putrid decomposition
+	Morally corrupt or evil • the putrid atmosphere of the court
+≈	corrupt
+Derived
+
+Noun: putrefaction, putridity, putridness
+
+Adverb: putridly
 |del-yooj|
 	The rising of a body of water and its overflowing onto normally dry land • plains fertilized by annual deluges
 =	alluvion, flood, inundation
