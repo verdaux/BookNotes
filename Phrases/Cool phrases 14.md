@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-22T09:09:59+05:30
+modified: 2026-05-22T09:11:42+05:30
 type: Checklist
 ---
 
@@ -39,4 +39,5 @@ type: Checklist
 - [ ] Haldi = turmeric - anointing
 - [ ] BILF (book I'd like to finish)
 - [ ] the tyranny of the ticking clock
-- [ ] Unique snowflake 
+- [ ] Unique snowflake
+- [ ] Mushroom haircut 
