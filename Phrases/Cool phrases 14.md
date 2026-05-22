@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-22T09:11:42+05:30
+modified: 2026-05-22T09:23:32+05:30
 type: Checklist
 ---
 
@@ -40,4 +40,5 @@ type: Checklist
 - [ ] BILF (book I'd like to finish)
 - [ ] the tyranny of the ticking clock
 - [ ] Unique snowflake
-- [ ] Mushroom haircut 
+- [ ] Mushroom haircut
+- [ ] Ambition exhausts me
