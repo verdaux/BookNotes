@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-22T13:11:55+05:30
+modified: 2026-05-23T18:51:54+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] Mushroom haircut
 - [ ] Ambition exhausts me
 - [ ] Born and bred
+- [ ] Untold eroticism
