@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-23T18:51:54+05:30
+modified: 2026-05-26T08:37:54+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,5 @@ type: Checklist
 - [ ] Ambition exhausts me
 - [ ] Born and bred
 - [ ] Untold eroticism
+- [ ] Curious illusion
+- [ ] Embarrassingly envious
