@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-26T08:37:33+05:30
+modified: 2026-05-26T17:12:12+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Why are you talking like a cunt? I'm in the habit of avoiding people who talk like cunts.
 - [ ] I'll introduce your face to your colon.
 - [ ] Nothing could be further from the truth
+- [ ] Wow! A completely candid shot of me reading a book.
