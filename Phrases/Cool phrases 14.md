@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-27T20:53:05+05:30
+modified: 2026-05-28T19:13:28+05:30
 type: Checklist
 ---
 
@@ -47,3 +47,4 @@ type: Checklist
 - [ ] Curious illusion
 - [ ] Embarrassingly envious
 - [ ] We weathered it
+- [ ] trusted my barber too much
