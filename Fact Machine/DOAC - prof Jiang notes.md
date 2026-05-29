@@ -1,6 +1,6 @@
 ---
 created: 2026-05-29T17:33:23+05:30
-modified: 2026-05-29T17:44:03+05:30
+modified: 2026-05-29T17:47:57+05:30
 type: Checklist
 ---
 
@@ -14,3 +14,7 @@ type: Checklist
 - [ ] SWIFT is society for worldwide internbank financial telecommunication. Started in 1973.
 - [ ] Swift is controlled by the US. It's only a messaging system. It doesn't actually transfer money. Many countries removed russia from their swift system based on US sanctions.
 - [ ] European Union -> indefinitely froze $247 Bn in Russian Central Bank assets held in Europe. This decision finalized in December 2025, ensures these funds remain immobilised until Russia ends its aggression and pays full war reparations to Ukraine.
+- [ ] Dollar as a global reserve currency is supposed to remain politically neutral.
+- [ ] If nothing is done by the US for the Russian aggression, then Russia takes over Ukraine.
+- [ ] Then Russia forms an alliance with China.
+- [ ] Then Russia and China together they build a rail network 
