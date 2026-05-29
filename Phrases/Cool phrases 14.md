@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-05-28T19:13:28+05:30
+modified: 2026-05-29T11:39:13+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] Embarrassingly envious
 - [ ] We weathered it
 - [ ] trusted my barber too much
+- [ ] Worryingly brilliant 
