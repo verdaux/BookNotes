@@ -1,6 +1,6 @@
 ---
 created: 2026-05-29T17:33:23+05:30
-modified: 2026-05-29T17:49:15+05:30
+modified: 2026-05-29T17:50:43+05:30
 type: Checklist
 ---
 
@@ -17,4 +17,4 @@ type: Checklist
 - [ ] Dollar as a global reserve currency is supposed to remain politically neutral.
 - [ ] If nothing is done by the US for the Russian aggression, then Russia takes over Ukraine.
 - [ ] Then Russia forms an alliance with China.
-- [ ] Then Russia, Iran and China together they build a rail network. If look at these 3 countries on a map, they border the entire Asian continent from the west.
+- [ ] Then Russia, Iran and China together they build a Euraisan rail network. If look at these 3 countries on a map, they border the entire Asian continent from the west. This negates the American sea power.
