@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-05-28T13:06:12+05:30
+modified: 2026-05-29T11:41:08+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Wow! A completely candid shot of me reading a book.
 - [ ] I don't know how to be anything else
 - [ ] "the place in which i'll fit will not exist until i make it." -James Baldwin
+- [ ] Is that all your imagination is capable of?
