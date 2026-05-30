@@ -1,6 +1,6 @@
 ---
 created: 2026-05-29T17:33:23+05:30
-modified: 2026-05-29T19:07:26+05:30
+modified: 2026-05-30T21:53:22+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Then Russia, Iran and China together they build a Euraisan rail network. If look at these 3 countries on a map, they border the entire Asian continent from the west. This negates the American sea power.
 - [ ] The BRICS nations would deal in Gold instead of USD. Because, gold is valuable, USD is just a currency. Not a real, tangible asset.
 - [ ] When US attacks Iran, it cuts China's fuel resources pathway. China's dependency on middle east for crude oil is 50-60%.
+- [ ] Since China is cut off from the middle East, its energy needs are unfulfilled. So it affects its long term aspirations for becoming a dominating superpower without the industrial produce that relies on energy.
