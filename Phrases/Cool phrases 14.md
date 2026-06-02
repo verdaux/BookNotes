@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-01T13:25:38+05:30
+modified: 2026-06-02T16:25:56+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] trusted my barber too much
 - [ ] Worryingly brilliant
 - [ ] Pre-galouti timeline and post
+- [ ] A veteran of losing socks
