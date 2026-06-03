@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-03T08:41:30+05:30
+modified: 2026-06-03T17:19:38+05:30
 type: Checklist
 ---
 
@@ -28,4 +28,5 @@ type: Checklist
 - [ ] I don't know how to be anything else
 - [ ] "the place in which i'll fit will not exist until i make it." -James Baldwin
 - [ ] Is that all your imagination is capable of?
-- [ ] The spirit of the times is that of joyless urgency.
+- [ ] The spirit of the times is one of joyless urgency.
+- [ ] If you don't know what a button does, don't push it.
