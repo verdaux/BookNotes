@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-03T17:19:38+05:30
+modified: 2026-06-03T18:33:08+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Is that all your imagination is capable of?
 - [ ] The spirit of the times is one of joyless urgency.
 - [ ] If you don't know what a button does, don't push it.
+- [ ] Capitalism is a poor way to determine self-worth.
