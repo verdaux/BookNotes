@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-05T23:26:20+05:30
+modified: 2026-06-05T23:27:29+05:30
 type: Checklist
 ---
 
@@ -33,4 +33,4 @@ type: Checklist
 - [ ] Capitalism is a poor way to determine self-worth.
 - [ ] Sab poora hoke khatam hua, jo adha hai woh zinda hai - irshad kamil
 - [ ] Kisipe ehsaan nahi kar rahe bhai khud ko dukh deke
-- [ ] Kyu nahi 
+- [ ] Aisi kya khaas baat hai aap mein? Kyu nahi tadpenge aap? Aapko bhi takleef honi chahiye
