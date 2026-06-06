@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-06T10:39:43+05:30
+modified: 2026-06-06T10:51:00+05:30
 type: Checklist
 ---
 
@@ -52,3 +52,4 @@ type: Checklist
 - [ ] Pre-galouti timeline and post
 - [ ] A veteran of losing socks
 - [ ] Delicious life
+- [ ] an escalating war against the human body
