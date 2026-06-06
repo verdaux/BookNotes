@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-06T10:39:05+05:30
+modified: 2026-06-06T10:51:38+05:30
 type: Checklist
 ---
 
@@ -35,3 +35,4 @@ type: Checklist
 - [ ] Kisipe ehsaan nahi kar rahe bhai khud ko dukh deke
 - [ ] Aisi kya khaas baat hai aap mein? Kyu nahi tadpenge aap? Aapko bhi takleef honi chahiye
 - [ ] My ideas are beautiful. I will honour them with execution.
+- [ ] The body and self become projects, not for health or flourishing, but for marketability within a sexualized economy.
