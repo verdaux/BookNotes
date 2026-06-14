@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-14T16:36:18+05:30
+modified: 2026-06-14T16:37:03+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] Mid-century legend
 - [ ] Every fibre in my body
 - [ ] Bedtime for democracy
+- [ ] Mind is starting to erode
