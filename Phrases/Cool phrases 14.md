@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-12T22:15:49+05:30
+modified: 2026-06-14T16:36:18+05:30
 type: Checklist
 ---
 
@@ -57,3 +57,4 @@ type: Checklist
 - [ ] River person
 - [ ] Mid-century legend
 - [ ] Every fibre in my body
+- [ ] Bedtime for democracy
