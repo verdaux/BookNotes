@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-15T10:50:56+05:30
+modified: 2026-06-15T10:52:19+05:30
 type: Checklist
 ---
 
@@ -38,4 +38,5 @@ type: Checklist
 - [ ] The body and self become projects, not for health or flourishing, but for marketability within a sexualized economy.
 - [ ] had a bad day but i’m badder
 - [ ] Kids are great. I used to be one.
-- [ ] the only time I beg is to differ 
+- [ ] the only time I beg is to differ
+- [ ] Take more chances, dance more dances.
