@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-15T10:52:19+05:30
+modified: 2026-06-16T09:06:43+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Kids are great. I used to be one.
 - [ ] the only time I beg is to differ
 - [ ] Take more chances, dance more dances.
+- [ ] You teach best what you most need to learn
