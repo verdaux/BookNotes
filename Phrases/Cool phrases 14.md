@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-14T16:37:28+05:30
+modified: 2026-06-17T22:03:34+05:30
 type: Checklist
 ---
 
@@ -59,4 +59,5 @@ type: Checklist
 - [ ] Every fibre in my body
 - [ ] Bedtime for democracy
 - [ ] Mind is starting to erode
-- [ ] Capitalist overlord 
+- [ ] Capitalist overlord
+- [ ] Adequately worshiped 
