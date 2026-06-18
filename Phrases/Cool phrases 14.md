@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-18T14:23:12+05:30
+modified: 2026-06-18T23:41:05+05:30
 type: Checklist
 ---
 
@@ -67,3 +67,4 @@ type: Checklist
 - [ ] Protein rush to the cortex
 - [ ] A serious body count of lobsters 
 - [ ] Lord it over the other junior men
+- [ ] This location, Happy occasion 
