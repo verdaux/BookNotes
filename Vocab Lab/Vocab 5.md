@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-06-18T14:25:21+05:30
+modified: 2026-06-18T14:32:58+05:30
 type: Checklist
 ---
 
@@ -17,6 +17,20 @@ type: Checklist
 - [ ] Noun: deluge
 - [ ] Adjective: putrid
 - [ ] Noun: hubris
+- [ ] Adjective: furtive
+|fur-tiv|
+	Marked by quiet and caution and secrecy; taking pains to avoid being observed • a furtive manner
+=	sneak, sneaky, stealthy, surreptitious
+≈	concealed
+
+	Secret and sly or sordid • furtive behavior
+=	backstair, backstairs
+≈	covert
+Derived
+
+Noun: furtiveness
+
+Adverb: furtively
 |hyoo-bris|
 	Overbearing pride or presumption • The CEO's hubris led him to make risky decisions that ultimately harmed the company
 Derived
