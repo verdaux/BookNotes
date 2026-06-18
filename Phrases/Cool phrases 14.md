@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-18T08:22:12+05:30
+modified: 2026-06-18T09:18:47+05:30
 type: Checklist
 ---
 
@@ -62,3 +62,4 @@ type: Checklist
 - [ ] Capitalist overlord
 - [ ] Adequately worshiped
 - [ ] Talk 90s to me
+- [ ] Categorical aversion
