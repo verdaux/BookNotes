@@ -1,6 +1,7 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-06-11T21:50:30+05:30
+modified: 2026-06-18T14:25:21+05:30
+type: Checklist
 ---
 
 # Vocab 5
@@ -15,6 +16,12 @@ modified: 2026-06-11T21:50:30+05:30
 - [ ] Noun: codger
 - [ ] Noun: deluge
 - [ ] Adjective: putrid
+- [ ] Noun: hubris
+|hyoo-bris|
+	Overbearing pride or presumption • The CEO's hubris led him to make risky decisions that ultimately harmed the company
+Derived
+
+Adjective: hubristic
 |pyoo-trid|
 	In an advanced state of decomposition and having a foul odor • horrible like raw and putrid flesh
 ≈	stale
