@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-18T09:36:32+05:30
+modified: 2026-06-18T14:13:08+05:30
 type: Checklist
 ---
 
@@ -64,3 +64,4 @@ type: Checklist
 - [ ] Talk 90s to me
 - [ ] Categorical aversion
 - [ ] Alleged author
+- [ ] Protein rush to the cortex 
