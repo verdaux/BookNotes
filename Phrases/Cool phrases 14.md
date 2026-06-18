@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T22:23:54+05:30
-modified: 2026-06-17T22:03:34+05:30
+modified: 2026-06-18T08:22:12+05:30
 type: Checklist
 ---
 
@@ -60,4 +60,5 @@ type: Checklist
 - [ ] Bedtime for democracy
 - [ ] Mind is starting to erode
 - [ ] Capitalist overlord
-- [ ] Adequately worshiped 
+- [ ] Adequately worshiped
+- [ ] Talk 90s to me
