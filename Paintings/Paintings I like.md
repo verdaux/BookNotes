@@ -1,6 +1,6 @@
 ---
 created: 2026-01-07T22:14:30+05:30
-modified: 2026-05-08T06:10:53+05:30
+modified: 2026-06-23T11:24:46+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Roses of Heliogoabulus 1888
 - [ ] In the light of the morning by Jeffrey T. Larsen
 - [ ] Alena Shymchonak
+- [ ] Leng Jun 1963 portrait of Xiao Jiang
