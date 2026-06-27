@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29T17:18:07+05:30
-modified: 2026-06-26T09:39:42+05:30
+modified: 2026-06-27T19:33:46+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] “I don’t chase, I attract” energy.
 - [ ] An ass-kicking, throat-slitting pirate stud.
 - [ ] Not a jack of all trades, but a hoe of all hobbies.
+- [ ] Who are we without our nationality/caste, interests, jobs/what we do for money?
