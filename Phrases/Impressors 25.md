@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-01T21:48:40+05:30
+modified: 2026-07-01T21:51:24+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] I'm mr. Right all the time and this is miss terrible miss
 - [ ] Ummm. Let me check. This just says no one likes you.
 - [ ] Is that some sort of unresolved childhood thing?
+- [ ] Why are my arms so weak? It's like I did that push up last year for nothing.
