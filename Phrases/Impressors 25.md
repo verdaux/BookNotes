@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-01T21:31:31+05:30
+modified: 2026-07-01T21:33:44+05:30
 type: Checklist
 ---
 
@@ -14,4 +14,5 @@ type: Checklist
 - [ ] I'd like to see someone stop me
 - [ ] Your entire life is garbage
 - [ ] I will slit you open from mouth to anus and wear you like jackets
-- [ ] I'm mr. Right all the time and this is miss terrible miss 
+- [ ] I'm mr. Right all the time and this is miss terrible miss
+- [ ] Ummm. Let me check. This just says no one likes you.
