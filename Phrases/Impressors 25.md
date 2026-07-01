@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-01T21:28:58+05:30
+modified: 2026-07-01T21:30:25+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Immediately, if not sooner
 - [ ] I'd like to see someone stop me
 - [ ] Your entire life is garbage
+- [ ] I will slit you open from mouth to anus and wear you like jackets
