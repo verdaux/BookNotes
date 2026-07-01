@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-01T21:51:24+05:30
+modified: 2026-07-01T22:04:13+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Ummm. Let me check. This just says no one likes you.
 - [ ] Is that some sort of unresolved childhood thing?
 - [ ] Why are my arms so weak? It's like I did that push up last year for nothing.
+- [ ] What are you trying to get me to say?
