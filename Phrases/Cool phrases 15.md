@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-01T21:25:26+05:30
+modified: 2026-07-02T08:36:56+05:30
 type: Checklist
 ---
 
@@ -9,4 +9,5 @@ type: Checklist
 - [ ] Journals are just my thoughts outside
 - [ ] I don't know how i feel about this.
 - [ ] I need time to process this
-- [ ] A stone cold atrocity 
+- [ ] A stone cold atrocity
+- [ ] Effortlessly striking
