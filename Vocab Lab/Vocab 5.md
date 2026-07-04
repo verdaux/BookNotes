@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T18:33:55+05:30
-modified: 2026-06-18T14:32:58+05:30
+modified: 2026-07-04T12:34:15+05:30
 type: Checklist
 ---
 
@@ -18,6 +18,11 @@ type: Checklist
 - [ ] Adjective: putrid
 - [ ] Noun: hubris
 - [ ] Adjective: furtive
+- [ ] Noun: limerence
+	Intense infatuation with another person, with the desire to have the feeling reciprocated • Just as love can strike at any time when we least suspect it, you can find yourself in a state of limerence with the most unlikely of people.
+Derived
+
+Adjective: limerent
 |fur-tiv|
 	Marked by quiet and caution and secrecy; taking pains to avoid being observed • a furtive manner
 =	sneak, sneaky, stealthy, surreptitious
