@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-04T12:31:54+05:30
+modified: 2026-07-04T12:32:46+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] I won’t allow myself to pee until I’ve finished.
 - [ ] Discomfort, confusion and rage are my faithful muses.
 - [ ] I believe you find your friends at the doorstep of your passions.
+- [ ] I truly believe that gods is just an inaccurate way of saying dogs.
