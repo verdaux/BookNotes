@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-04T12:31:14+05:30
+modified: 2026-07-04T12:31:54+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] I am largely reason based in making decisions, unless there is the option to make a choice from a place of vengeance.
 - [ ] I won’t allow myself to pee until I’ve finished.
 - [ ] Discomfort, confusion and rage are my faithful muses.
+- [ ] I believe you find your friends at the doorstep of your passions.
