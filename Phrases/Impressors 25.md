@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-03T14:01:51+05:30
+modified: 2026-07-04T12:29:01+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] I'm gonna give you the hug your dad never gave you.
 - [ ] I wasn’t being tempted to meet an untimely end by a bunch of gorgeous young mosquitos.
 - [ ] you decide you can engineer your way out of randomness
+- [ ] sense is no longer in the driving seat.
