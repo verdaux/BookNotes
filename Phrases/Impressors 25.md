@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-04T12:30:50+05:30
+modified: 2026-07-04T12:31:14+05:30
 type: Checklist
 ---
 
@@ -24,4 +24,5 @@ type: Checklist
 - [ ] you decide you can engineer your way out of randomness
 - [ ] sense is no longer in the driving seat.
 - [ ] I am largely reason based in making decisions, unless there is the option to make a choice from a place of vengeance.
-- [ ] I won’t allow myself to pee until I’ve finished. 
+- [ ] I won’t allow myself to pee until I’ve finished.
+- [ ] Discomfort, confusion and rage are my faithful muses.
