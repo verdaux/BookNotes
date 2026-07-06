@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-06T21:32:26+05:30
+modified: 2026-07-06T21:32:48+05:30
 type: Checklist
 ---
 
@@ -30,4 +30,4 @@ type: Checklist
 - [ ] I truly believe that gods is just an inaccurate way of saying dogs.
 - [ ] I am a gun to your head, deadline pervert.
 - [ ] May you find the courage to disappoint people who expect you to stay small
-- [ ] I'd say "God bless you." But I see he already did.
+- [ ] I'd say "God bless you." But it looks like he already did.
