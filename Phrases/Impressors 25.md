@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-04T12:35:01+05:30
+modified: 2026-07-06T21:30:23+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] I believe you find your friends at the doorstep of your passions.
 - [ ] I truly believe that gods is just an inaccurate way of saying dogs.
 - [ ] I am a gun to your head, deadline pervert.
+- [ ] May you find the courage to disappoint people who wish for you to remain small
