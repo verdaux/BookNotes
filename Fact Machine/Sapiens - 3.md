@@ -1,6 +1,6 @@
 ---
 created: 2026-07-09T21:21:19+05:30
-modified: 2026-07-10T16:50:34+05:30
+modified: 2026-07-10T16:52:13+05:30
 type: Checklist
 ---
 
@@ -12,3 +12,4 @@ type: Checklist
 - [ ] Mongols + Chinese = Yuan Empire 
 - [ ] Idea of after death soul isn't mentioned in the old testament. It's adopted from Greek philosophy
 - [ ] 1572, Catholics vs Protestants
+- [ ] 1291, Crusaders vs Mamelukes
