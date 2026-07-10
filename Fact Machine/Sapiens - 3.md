@@ -1,6 +1,6 @@
 ---
 created: 2026-07-09T21:21:19+05:30
-modified: 2026-07-09T21:25:57+05:30
+modified: 2026-07-10T16:50:34+05:30
 type: Checklist
 ---
 
@@ -10,4 +10,5 @@ type: Checklist
 - [ ] Alexander conquered Persia and created Hellenistic culture. Seleucid empire was greco-persian.
 - [ ] Germanic tribes conquered Western Roman Empire. Kingdom of Franks was part Germanic, part Roman.
 - [ ] Mongols + Chinese = Yuan Empire 
-- [ ] Idea of after death soul isn't mentioned in the old testament. It's adopted from Greek philosophy 
+- [ ] Idea of after death soul isn't mentioned in the old testament. It's adopted from Greek philosophy
+- [ ] 1572, Catholics vs Protestants
