@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-07T14:54:11+05:30
+modified: 2026-07-12T14:31:04+05:30
 type: Checklist
 ---
 
@@ -33,4 +33,5 @@ type: Checklist
 - [ ] I'd say "God bless you." But it looks like he already did.
 - [ ] What time do you have to be back in heaven?
 - [ ] Not good at playing it cool
-- [ ] I'm gonna get all kinds of incredible attention 
+- [ ] I'm gonna get all kinds of incredible attention
+- [ ] My mind caught on fire. Smoke came out of my ears.
