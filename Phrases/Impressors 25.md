@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-14T08:58:32+05:30
+modified: 2026-07-15T14:30:40+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] I'm gonna get all kinds of incredible attention
 - [ ] My mind caught on fire. Smoke came out of my ears.
 - [ ] The cat would welcome the mouse in its jaws.
+- [ ] Must be such a pleasure to live inside your head.
