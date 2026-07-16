@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-14T21:36:44+05:30
+modified: 2026-07-16T10:13:28+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Pass it off as
 - [ ] Hair coward
 - [ ] Inextinguishable fortitude
+- [ ] Calm authority 
