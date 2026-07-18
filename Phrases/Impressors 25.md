@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-18T15:23:36+05:30
+modified: 2026-07-18T15:36:24+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] I want to do with you what the spring does with cherry trees.
 - [ ] there is absolutely no fucking dashboard for desire.
 - [ ] Looking for someone to take couples therapy with and then see how long it takes the therapists to notice we don't know each other.
+- [ ] I hate your thinly veiled attempts to virtue signal
