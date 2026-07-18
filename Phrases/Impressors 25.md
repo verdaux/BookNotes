@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-18T15:17:37+05:30
+modified: 2026-07-18T15:21:04+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Must be such a pleasure to live inside your head.
 - [ ] Let's remember to smile. It costs us nothing.
 - [ ] I want to do with you what the spring does with cherry trees.
+- [ ] there is absolutely no fucking dashboard for desire.
