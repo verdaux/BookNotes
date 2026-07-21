@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-21T21:45:44+05:30
+modified: 2026-07-21T21:50:52+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] has already amassed several hundred subscribers with the speed of a caffeinated cheetah on rocket skates.
 - [ ] Her comments section makes me want to go out and murder the first middle aged balding man that enters my line of sight.
 - [ ] I'm smarter than I look
+- [ ] If I'd come for your advice, I'm sure I'd love the debate but I didn't.
