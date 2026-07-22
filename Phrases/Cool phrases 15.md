@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-16T10:13:28+05:30
+modified: 2026-07-22T13:23:04+05:30
 type: Checklist
 ---
 
@@ -15,4 +15,5 @@ type: Checklist
 - [ ] Pass it off as
 - [ ] Hair coward
 - [ ] Inextinguishable fortitude
-- [ ] Calm authority 
+- [ ] Calm authority
+- [ ] classic normie topics
