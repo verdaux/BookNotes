@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-22T13:23:04+05:30
+modified: 2026-07-22T13:24:45+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Inextinguishable fortitude
 - [ ] Calm authority
 - [ ] classic normie topics
+- [ ] tastefully proportioned
