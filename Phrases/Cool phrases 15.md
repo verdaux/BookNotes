@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-22T13:24:45+05:30
+modified: 2026-07-22T13:25:45+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] Calm authority
 - [ ] classic normie topics
 - [ ] tastefully proportioned
+- [ ] Shoot thick ropes
