@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-22T16:57:08+05:30
+modified: 2026-07-23T21:58:04+05:30
 type: Checklist
 ---
 
@@ -46,4 +46,5 @@ type: Checklist
 - [ ] Her comments section makes me want to go out and murder the first middle aged balding man that enters my line of sight.
 - [ ] I'm smarter than I look
 - [ ] If I'd come for your advice, I'm sure I'd love the debate but I didn't.
-- [ ] Sadly his plane didn’t crash and he arrived safely. 
+- [ ] Sadly his plane didn’t crash and he arrived safely.
+- [ ] That's a sweet dream to have
