@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-23T22:36:39+05:30
+modified: 2026-07-25T18:30:15+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Shoot thick ropes
 - [ ] clout chasers
 - [ ] veins popping out of his forehead.
+- [ ] Drinking unholy amounts of whiskey
