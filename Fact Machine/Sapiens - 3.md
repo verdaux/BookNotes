@@ -1,6 +1,6 @@
 ---
 created: 2026-07-09T21:21:19+05:30
-modified: 2026-07-10T16:52:13+05:30
+modified: 2026-07-26T15:33:54+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,5 @@ type: Checklist
 - [ ] Idea of after death soul isn't mentioned in the old testament. It's adopted from Greek philosophy
 - [ ] 1572, Catholics vs Protestants
 - [ ] 1291, Crusaders vs Mamelukes
+- [ ] In 1492, there where no horses in America.
+- [ ] Indigenous horsemen were actually a product of a military and political revolution across North America's western plain in 17th and 18th centuries 
