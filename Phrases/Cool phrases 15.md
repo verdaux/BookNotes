@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-25T18:30:15+05:30
+modified: 2026-07-26T19:09:45+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] clout chasers
 - [ ] veins popping out of his forehead.
 - [ ] Drinking unholy amounts of whiskey
+- [ ] Forgive me but...
