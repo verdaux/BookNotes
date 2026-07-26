@@ -15,3 +15,4 @@ type: Checklist
 - [ ] 1291, Crusaders vs Mamelukes
 - [ ] In 1492, there where no horses in America.
 - [ ] Indigenous horsemen were actually a product of a military and political revolution across North America's western plain in 17th and 18th centuries 
+- [ ] 378 -> Roman emperor Valens was defeated and killed by the Goths at battle of adrianople.
