@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-23T21:58:04+05:30
+modified: 2026-07-27T14:19:04+05:30
 type: Checklist
 ---
 
@@ -48,3 +48,4 @@ type: Checklist
 - [ ] If I'd come for your advice, I'm sure I'd love the debate but I didn't.
 - [ ] Sadly his plane didn’t crash and he arrived safely.
 - [ ] That's a sweet dream to have
+- [ ] She has the most charming smile when she remembers to use it.
