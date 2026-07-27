@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-26T19:09:45+05:30
+modified: 2026-07-27T08:48:05+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,5 @@ type: Checklist
 - [ ] veins popping out of his forehead.
 - [ ] Drinking unholy amounts of whiskey
 - [ ] Forgive me but...
+- [ ] Arrest my attention
+- [ ] Aesthetically unpleasing
