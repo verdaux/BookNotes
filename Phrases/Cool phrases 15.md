@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-07-27T08:52:05+05:30
+modified: 2026-07-29T17:00:40+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Arrest my attention
 - [ ] Aesthetically unpleasing
 - [ ] Maintain a spirit of play
+- [ ] Invisible and marginalized
