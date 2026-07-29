@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-07-26T14:20:49+05:30
+modified: 2026-07-29T18:10:59+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] This week's a full plate. But, I'm excited about what's cooking.
 - [ ] I really wish I could help. Or. I would love to help out. But this week isn't possible.
 - [ ] What do you think is your best quality?
+- [ ] I may disagree with what you have to say, but I shall defend, to the death, your right to say it
