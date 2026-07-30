@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-07-30T08:35:33+05:30
+modified: 2026-07-30T08:35:51+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] I may disagree with what you have to say, but I shall defend, to the death, your right to say it
 - [ ] How do you decide what deserves your attention?
 - [ ] Looking back, what accelerated your own career?
+- [ ] What's one challenge in APAC that most engineers don't fully appreciate?
