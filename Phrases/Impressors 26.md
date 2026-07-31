@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-07-30T08:35:51+05:30
+modified: 2026-07-31T22:10:13+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Looking back, what accelerated your own career?
 - [ ] What's one challenge in APAC that most engineers don't fully appreciate?
 - [ ] What catches me eye? Short people with umbrellas
+- [ ] You can face an orgasm but you can't fake a good mood 
