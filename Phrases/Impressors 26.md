@@ -14,3 +14,4 @@ type: Checklist
 - [ ] How do you decide what deserves your attention?
 - [ ] Looking back, what accelerated your own career?
 - [ ] What's one challenge in APAC that most engineers don't fully appreciate?
+- [ ] What catches me eye? Short people with umbrellas
