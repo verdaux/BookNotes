@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-04T12:00:30+05:30
+modified: 2026-08-05T15:35:50+05:30
 type: Checklist
 ---
 
@@ -16,4 +16,5 @@ type: Checklist
 - [ ] What's one challenge in APAC that most engineers don't fully appreciate?
 - [ ] What catches me eye? Short people with umbrellas
 - [ ] You can face an orgasm but you can't fake a good mood?
-- [ ] My humanity will transform shareholder value 
+- [ ] My humanity will transform shareholder value
+- [ ] It's my birthday. So you're legally required to read this
