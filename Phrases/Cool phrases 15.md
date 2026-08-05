@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-08-03T14:34:26+05:30
+modified: 2026-08-05T15:35:28+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Street pharmaceutical rep
 - [ ] Channel abilities in new directions
 - [ ] Happier outcomes
+- [ ] 30 male, No kids, no herpes, full head of hair
