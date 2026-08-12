@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-12T06:33:56+05:30
+modified: 2026-08-12T06:34:17+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] It's my birthday. So you're legally required to read this
 - [ ] I said I like myself the way I am
 - [ ] I wanted to come to you with results.
+- [ ] That's your problem. And I'm your solution 
