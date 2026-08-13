@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-13T16:22:39+05:30
+modified: 2026-08-13T16:25:18+05:30
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 - [ ] I wanted to come to you with results.
 - [ ] That's your problem. And I'm your solution
 - [ ] There are men she chews and swallows, and then there are men she holds in her mouth until they dissolve.
+- [ ] She is infinitely more talented in the things I most want to do
