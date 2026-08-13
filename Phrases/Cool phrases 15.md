@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-08-12T18:36:35+05:30
+modified: 2026-08-13T16:23:42+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] 30 male, No kids, no herpes, full head of hair
 - [ ] Go off-script
 - [ ] It centred me
+- [ ] Telegenic Bollywood lie
