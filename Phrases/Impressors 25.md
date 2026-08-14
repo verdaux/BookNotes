@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:17:23+05:30
-modified: 2026-07-27T22:26:25+05:30
+modified: 2026-08-14T09:11:45+05:30
 type: Checklist
 ---
 
@@ -8,7 +8,7 @@ type: Checklist
 
 - [ ] Someone's a clinical narcissist. They have a clinic now.
 - [ ] Everytime you reject some one they should turn on your front camera
-- [ ] Since how many years are you trying? Trying to be funny?
+- [ ] Since how many years are you trying? Trying to be funny? I can see your dedication but no results.
 - [ ] I don't believe in republican or democratic parties. I just believe in parties.
 - [ ] Immediately, if not sooner
 - [ ] I'd like to see someone stop me
