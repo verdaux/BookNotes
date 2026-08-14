@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-08-13T16:23:42+05:30
+modified: 2026-08-14T11:57:32+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Go off-script
 - [ ] It centred me
 - [ ] Telegenic Bollywood lie
+- [ ] Retired party girl
