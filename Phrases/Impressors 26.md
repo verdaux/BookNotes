@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-14T15:02:23+05:30
+modified: 2026-08-14T15:10:42+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] There are men she chews and swallows, and then there are men she holds in her mouth until they dissolve.
 - [ ] She is infinitely more talented in the things I most want to do
 - [ ] I noticed a pattern, not just this one situation.
+- [ ] The art of looking unedited 
