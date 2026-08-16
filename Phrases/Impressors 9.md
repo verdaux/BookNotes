@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T19:10:51+05:30
-modified: 2025-08-14T18:16:50+05:30
+modified: 2026-08-16T10:13:24+05:30
 type: Checklist
 ---
 
@@ -27,7 +27,7 @@ type: Checklist
 - [ ] Nothing makes a room feel emptier than wanting someone in it.
 - [ ] Gareebo ka aesthetic mat churao.
 - [ ] Mai decompose hona chahta hu.
-- [ ] Once I saw a bee drown and I understood.
+- [ ] Once I saw a bee drown in honey and I understood.
 - [ ] My soul comes from better worlds and I have an incurable homesickness for the stars.
 - [ ] What attracts you when you are broken will disgust you when you heal.
 - [ ] Do you understand the violence it took to become this gentle.
@@ -51,4 +51,4 @@ type: Checklist
 - [ ] This kind of profanity stops here.
 - [ ] The sajjan with the takleef.
 - [ ] Garnished at convenient intervals with profane expressions.
-- [ ] I'm kind of addicted to breathing 
+- [ ] I'm kind of addicted to breathing
