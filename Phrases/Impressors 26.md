@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-20T23:24:36+05:30
+modified: 2026-08-20T23:39:29+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] The art of looking unedited
 - [ ] Seafood diet: I see food, I eat it.
 - [ ] You don't want the truth. You want to be agreed with.
+- [ ] hot people are proud of being hot and want the gentler treatment that society awards The Fuckable.
