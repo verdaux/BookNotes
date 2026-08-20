@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-14T15:12:53+05:30
+modified: 2026-08-20T23:24:36+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] I noticed a pattern, not just this one situation.
 - [ ] The art of looking unedited
 - [ ] Seafood diet: I see food, I eat it.
+- [ ] You don't want the truth. You want to be agreed with.
