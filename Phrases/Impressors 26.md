@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-20T23:44:20+05:30
+modified: 2026-08-21T19:38:56+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] hot people are proud of being hot and want the gentler treatment that society awards The Fuckable.
 - [ ] Fuckable in an emergency
 - [ ] it’s a good self confidence boost to remember that you still have value in the sexual marketplace despite being tied down to some chump
+- [ ] Personal life? Best not to have one.
