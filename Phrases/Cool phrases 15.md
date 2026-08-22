@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-08-21T19:52:48+05:30
+modified: 2026-08-22T08:47:43+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] crazy, totally unique experience
 - [ ] Interpretor of mysteries
 - [ ] Bordering on profound
+- [ ] nonexistent reserves of testosterone
