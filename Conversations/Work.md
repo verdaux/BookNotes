@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-08-23T16:01:54+05:30
+modified: 2026-08-23T21:49:05+05:30
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] If you've got something professional to say please speak otherwise, we're done here.
 - [ ] Noted. Now, let's get back to the previous conversation.
 - [ ] Are you trying to impress someone with that or did you consider this meeting an outlet?
+- [ ] Can I offer another perspective?
