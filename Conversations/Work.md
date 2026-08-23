@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-08-23T21:49:35+05:30
+modified: 2026-08-23T21:49:50+05:30
 type: Checklist
 ---
 
@@ -13,3 +13,4 @@ type: Checklist
 - [ ] Are you trying to impress someone with that or did you consider this meeting an outlet?
 - [ ] Can I offer another perspective?
 - [ ] Let's hear from someone who hasn't had the chance to weigh in yet.
+- [ ] Let me clarify what I mean.
