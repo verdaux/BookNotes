@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-08-23T21:50:13+05:30
+modified: 2026-08-23T21:50:31+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Let's hear from someone who hasn't had the chance to weigh in yet.
 - [ ] Let me clarify what I mean.
 - [ ] At this stage, we are generating, not evaluating.
+- [ ] I'd just like to finish my thought
