@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-24T08:43:32+05:30
+modified: 2026-08-24T09:22:50+05:30
 type: Checklist
 ---
 
@@ -33,3 +33,4 @@ type: Checklist
 - [ ] Personal life? Best not to have one.
 - [ ] Audacity will get you so much further than talent ever will
 - [ ] How's work? I feel guilty taking their money.
+- [ ] Reanimation of what is dead, packaged as nostalgia.
