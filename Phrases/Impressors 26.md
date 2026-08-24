@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-23T15:11:00+05:30
+modified: 2026-08-24T08:43:32+05:30
 type: Checklist
 ---
 
@@ -31,4 +31,5 @@ type: Checklist
 - [ ] Fuckable in an emergency
 - [ ] it’s a good self confidence boost to remember that you still have value in the sexual marketplace despite being tied down to some chump
 - [ ] Personal life? Best not to have one.
-- [ ] Audacity will get you so much further than talent ever will 
+- [ ] Audacity will get you so much further than talent ever will
+- [ ] How's work? I feel guilty taking their money.
