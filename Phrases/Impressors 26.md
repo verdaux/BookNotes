@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-24T09:22:50+05:30
+modified: 2026-08-25T21:30:39+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] Audacity will get you so much further than talent ever will
 - [ ] How's work? I feel guilty taking their money.
 - [ ] Reanimation of what is dead, packaged as nostalgia.
+- [ ] At my age you have less patience for arrogance disguised as righteousness.
