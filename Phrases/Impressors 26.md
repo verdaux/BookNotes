@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-26T16:28:12+05:30
+modified: 2026-08-26T23:37:56+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] Reanimation of what is dead, packaged as nostalgia.
 - [ ] At my age you have less patience for arrogance disguised as righteousness.
 - [ ] Everyone has 2 lives. The second one begins when they realise they have only one.
+- [ ] Was it true? Or is it just more romantic to think of it that way?
