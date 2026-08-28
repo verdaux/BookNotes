@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-05-08T21:40:44+05:30
+modified: 2026-08-28T10:55:04+05:30
 type: Checklist
 ---
 
@@ -74,3 +74,5 @@ type: Checklist
 - [ ] I've never known a man so unaffected by constant failure
 - [ ] Do you usually feel better about yourself after such remarks?
 - [ ] With that face? I'd also be angry all the time.
+- [ ] Sharp as a circle.
+- [ ] You've got a face for the radio 
