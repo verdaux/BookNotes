@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-28T15:58:02+05:30
+modified: 2026-08-28T22:30:46+05:30
 type: Checklist
 ---
 
@@ -38,3 +38,4 @@ type: Checklist
 - [ ] Everyone has 2 lives. The second one begins when they realise they have only one.
 - [ ] Was it true? Or is it just more romantic to think of it that way?
 - [ ] Umar meri 20 hai karje mujhpe 30 hai
+- [ ] You create your own misery just so something feels familiar
