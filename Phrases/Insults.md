@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-08-28T10:55:04+05:30
+modified: 2026-08-29T09:31:27+05:30
 type: Checklist
 ---
 
@@ -75,4 +75,6 @@ type: Checklist
 - [ ] Do you usually feel better about yourself after such remarks?
 - [ ] With that face? I'd also be angry all the time.
 - [ ] Sharp as a circle.
-- [ ] You've got a face for the radio 
+- [ ] You've got a face for the radio
+- [ ] You have tremendous confidence
+- [ ] Catastrophically wrong 
