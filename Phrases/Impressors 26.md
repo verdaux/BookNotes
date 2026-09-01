@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-08-29T09:31:02+05:30
+modified: 2026-09-01T09:35:52+05:30
 type: Checklist
 ---
 
@@ -40,3 +40,4 @@ type: Checklist
 - [ ] Umar meri 20 hai karje mujhpe 30 hai
 - [ ] You create your own misery just so something feels familiar
 - [ ] You said that with conviction.
+- [ ] Main kahi bhi jau. Machhar mujhe hi kaat te hai
