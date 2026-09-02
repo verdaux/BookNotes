@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-02T08:48:42+05:30
+modified: 2026-09-02T09:01:41+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,5 @@ type: Checklist
 - [ ] You said that with conviction.
 - [ ] Main kahi bhi jau. Machhar mujhe hi kaat te hai
 - [ ] Ya toh laakho mein ya toh salakhon mein
+- [ ] Why do you ask?
+- [ ] I'm surprised you feel confident asking such a personal question
