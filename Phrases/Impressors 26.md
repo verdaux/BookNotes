@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-02T09:01:41+05:30
+modified: 2026-09-02T21:38:47+05:30
 type: Checklist
 ---
 
@@ -44,3 +44,4 @@ type: Checklist
 - [ ] Ya toh laakho mein ya toh salakhon mein
 - [ ] Why do you ask?
 - [ ] I'm surprised you feel confident asking such a personal question
+- [ ] Yuck someone's yum
