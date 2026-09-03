@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-02T21:38:47+05:30
+modified: 2026-09-03T18:07:56+05:30
 type: Checklist
 ---
 
@@ -45,3 +45,4 @@ type: Checklist
 - [ ] Why do you ask?
 - [ ] I'm surprised you feel confident asking such a personal question
 - [ ] Yuck someone's yum
+- [ ] I'm open if there's a constraint I'm missing
