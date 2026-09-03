@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-03T18:08:16+05:30
+modified: 2026-09-03T18:23:05+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] At this stage, we are generating, not evaluating.
 - [ ] I'd just like to finish my thought
 - [ ] I'm open if there's a constraint I'm missing
+- [ ] That tone won't get us anywhere. Let's find the one that will.
