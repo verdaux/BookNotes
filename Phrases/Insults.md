@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-09-03T21:58:20+05:30
+modified: 2026-09-03T23:38:20+05:30
 type: Checklist
 ---
 
@@ -80,3 +80,4 @@ type: Checklist
 - [ ] Catastrophically wrong
 - [ ] Nobody likes you. That's okay I like myself
 - [ ] I could explain how you're wrong but I suspect life has been trying that for years.
+- [ ] Ew! How insecure of you
