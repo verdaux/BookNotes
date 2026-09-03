@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-08-29T09:31:27+05:30
+modified: 2026-09-03T19:32:27+05:30
 type: Checklist
 ---
 
@@ -77,4 +77,5 @@ type: Checklist
 - [ ] Sharp as a circle.
 - [ ] You've got a face for the radio
 - [ ] You have tremendous confidence
-- [ ] Catastrophically wrong 
+- [ ] Catastrophically wrong
+- [ ] Nobody likes you. That's okay I like myself 
