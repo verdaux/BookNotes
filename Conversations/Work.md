@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-03T18:23:05+05:30
+modified: 2026-09-04T16:57:24+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,5 @@ type: Checklist
 - [ ] I'd just like to finish my thought
 - [ ] I'm open if there's a constraint I'm missing
 - [ ] That tone won't get us anywhere. Let's find the one that will.
+- [ ] Care more about than your inbox
+- [ ] Manufactured urgencies are a control mechanism
