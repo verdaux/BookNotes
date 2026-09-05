@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-05T21:26:12+05:30
+modified: 2026-09-05T21:27:27+05:30
 type: Checklist
 ---
 
@@ -47,4 +47,4 @@ type: Checklist
 - [ ] Yuck someone's yum
 - [ ] I'm open if there's a constraint I'm missing
 - [ ] Either the fear goes away or the opportunity does
-- [ ] Why is there a "D" in fridge but not in refrigerator.
+- [ ] Why is there a "D" in fridge but not in refrigerator? Frigidaire
