@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-09-08T21:40:05+05:30
+modified: 2026-09-08T21:49:12+05:30
 type: Checklist
 ---
 
@@ -83,3 +83,4 @@ type: Checklist
 - [ ] Ew! How insecure of you
 - [ ] Your mom loves it when I do that
 - [ ] If someone calls you ugly: I was trying to look like you today.
+- [ ] Well, aren't you a waste of billion years of evolution
