@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-09-08T16:06:53+05:30
+modified: 2026-09-08T16:07:34+05:30
 type: Checklist
 ---
 
@@ -58,3 +58,4 @@ type: Checklist
 - [ ] Slay, serve, survive
 - [ ] The universe has spoken
 - [ ] Live, laugh, and leave me alone
+- [ ] Have the day your deserve 
