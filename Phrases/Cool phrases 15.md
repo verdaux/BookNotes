@@ -1,6 +1,6 @@
 ---
 created: 2026-06-27T23:18:25+05:30
-modified: 2026-09-08T16:00:07+05:30
+modified: 2026-09-08T16:05:54+05:30
 type: Checklist
 ---
 
@@ -54,3 +54,5 @@ type: Checklist
 - [ ] Title of my autobiography
 - [ ] Feast on life's possibilities
 - [ ] Warmest possible regards
+- [ ] Crying but trying
+- [ ] Slay, serve, survive
