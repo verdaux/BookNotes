@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-04T16:57:24+05:30
+modified: 2026-09-08T16:00:54+05:30
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] That tone won't get us anywhere. Let's find the one that will.
 - [ ] Care more about than your inbox
 - [ ] Manufactured urgencies are a control mechanism
+- [ ] That sounds urgent. When did we first know about it?
