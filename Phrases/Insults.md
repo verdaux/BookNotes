@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-09-08T09:01:14+05:30
+modified: 2026-09-08T21:40:05+05:30
 type: Checklist
 ---
 
@@ -82,3 +82,4 @@ type: Checklist
 - [ ] I could explain how you're wrong but I suspect life has been trying that for years.
 - [ ] Ew! How insecure of you
 - [ ] Your mom loves it when I do that
+- [ ] If someone calls you ugly: I was trying to look like you today.
