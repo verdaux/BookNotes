@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-08T16:00:54+05:30
+modified: 2026-09-09T09:14:53+05:30
 type: Checklist
 ---
 
@@ -21,3 +21,4 @@ type: Checklist
 - [ ] Care more about than your inbox
 - [ ] Manufactured urgencies are a control mechanism
 - [ ] That sounds urgent. When did we first know about it?
+- [ ] A limitless reservoir for other people's expectations.
