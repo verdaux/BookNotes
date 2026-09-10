@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-09T21:18:02+05:30
+modified: 2026-09-10T13:57:42+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] That sounds urgent. When did we first know about it?
 - [ ] A limitless reservoir for other people's expectations.
 - [ ] Let's table that for now and revisit once we have more visibility
+- [ ] Updating the leadership about timeline today. Just thought I'd inform you first
