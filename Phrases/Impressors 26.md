@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-09T14:47:11+05:30
+modified: 2026-09-10T13:55:34+05:30
 type: Checklist
 ---
 
@@ -49,3 +49,4 @@ type: Checklist
 - [ ] Either the fear goes away or the opportunity does
 - [ ] Why is there a "D" in fridge but not in refrigerator? Frigidaire
 - [ ] As pico iyer once said "wherever you go becomes a part of you". That's why I'm 80% Mumbai.
+- [ ] You are a little soul carrying around a corpse.
