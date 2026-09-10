@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-10T13:57:42+05:30
+modified: 2026-09-10T21:28:31+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] A limitless reservoir for other people's expectations.
 - [ ] Let's table that for now and revisit once we have more visibility
 - [ ] Updating the leadership about timeline today. Just thought I'd inform you first
+- [ ] You're probably right.
