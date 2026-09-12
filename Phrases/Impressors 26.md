@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-10T13:55:34+05:30
+modified: 2026-09-12T22:53:47+05:30
 type: Checklist
 ---
 
@@ -50,3 +50,4 @@ type: Checklist
 - [ ] Why is there a "D" in fridge but not in refrigerator? Frigidaire
 - [ ] As pico iyer once said "wherever you go becomes a part of you". That's why I'm 80% Mumbai.
 - [ ] You are a little soul carrying around a corpse.
+- [ ] The closest we've ever been to world peace
