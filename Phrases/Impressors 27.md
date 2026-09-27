@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-09-26T23:31:39+05:30
+modified: 2026-09-27T11:18:02+05:30
 type: Checklist
 ---
 
@@ -10,3 +10,4 @@ type: Checklist
 - [ ] Now imagine how your life would look like if you gave yourself the attention you deserve.
 - [ ] They spoke in colour
 - [ ] You're acting like you just split the atom.
+- [ ] I don't move in those circles.
