@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-09-29T12:17:31+05:30
+modified: 2026-09-29T12:22:47+05:30
 type: Checklist
 ---
 
@@ -18,4 +18,7 @@ type: Checklist
 - [ ] Sacrosanct 
 - [ ] Break the spell
 - [ ] Perfect specimen of femininity
-- [ ] Substack celebrity 
+- [ ] Substack celebrity
+- [ ] Early indicators are promising
+- [ ] I'll alert the media
+- [ ] Handled that with grace 
