@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-09-29T22:07:07+05:30
+modified: 2026-09-29T22:07:42+05:30
 type: Checklist
 ---
 
@@ -15,3 +15,4 @@ type: Checklist
 - [ ] Middle age: when you can’t turn your television off or your wife on.
 - [ ] Settle an argument for me
 - [ ] “They caught me with my pants down and slapped my bare ass” in lieu of threw me under the bus.
+- [ ] We are pissing when we should be shitting.
