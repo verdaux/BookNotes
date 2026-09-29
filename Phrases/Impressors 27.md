@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-09-29T22:16:53+05:30
+modified: 2026-09-29T22:18:20+05:30
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] “They caught me with my pants down and slapped my bare ass” in lieu of threw me under the bus.
 - [ ] We are pissing when we should be shitting.
 - [ ] He has the appeal of a burnt taco shell or pizza with a pineapple.
+- [ ] How much did you pay for those pants? Because at my house they're 100% off
