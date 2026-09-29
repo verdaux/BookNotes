@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-09-27T15:51:44+05:30
+modified: 2026-09-29T12:17:31+05:30
 type: Checklist
 ---
 
@@ -17,4 +17,5 @@ type: Checklist
 - [ ] Open the floodgates
 - [ ] Sacrosanct 
 - [ ] Break the spell
-- [ ] Perfect specimen of femininity 
+- [ ] Perfect specimen of femininity
+- [ ] Substack celebrity 
