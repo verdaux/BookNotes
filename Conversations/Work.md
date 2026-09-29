@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-10T21:28:31+05:30
+modified: 2026-09-29T13:43:48+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Let's table that for now and revisit once we have more visibility
 - [ ] Updating the leadership about timeline today. Just thought I'd inform you first
 - [ ] You're probably right.
+- [ ] Are we comfortable having this conversation with everyone here?
