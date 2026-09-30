@@ -1,6 +1,6 @@
 ---
 created: 2020-09-13T12:48:19+05:30
-modified: 2026-09-11T01:59:15+05:30
+modified: 2026-09-30T18:33:26+05:30
 type: Checklist
 ---
 
@@ -85,3 +85,4 @@ type: Checklist
 - [ ] If someone calls you ugly: I was trying to look like you today.
 - [ ] Well, aren't you a waste of billion years of evolution
 - [ ] A face only a mother could love
+- [ ] You look like someone who swallows mouthwash.
