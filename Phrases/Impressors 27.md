@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-09-29T22:18:20+05:30
+modified: 2026-09-30T16:28:44+05:30
 type: Checklist
 ---
 
@@ -18,3 +18,4 @@ type: Checklist
 - [ ] We are pissing when we should be shitting.
 - [ ] He has the appeal of a burnt taco shell or pizza with a pineapple.
 - [ ] How much did you pay for those pants? Because at my house they're 100% off
+- [ ] Your neck is an unfair place for me to be expected to behave.
