@@ -1,6 +1,6 @@
 ---
 created: 2026-07-23T21:58:15+05:30
-modified: 2026-09-12T22:53:47+05:30
+modified: 2026-10-02T13:56:40+05:30
 type: Checklist
 ---
 
@@ -15,7 +15,7 @@ type: Checklist
 - [ ] Looking back, what accelerated your own career?
 - [ ] What's one challenge in APAC that most engineers don't fully appreciate?
 - [ ] What catches me eye? Short people with umbrellas
-- [ ] You can face an orgasm but you can't fake a good mood?
+- [ ] You can fake an orgasm but you can't fake a good mood?
 - [ ] My humanity will transform shareholder value
 - [ ] It's my birthday. So you're legally required to read this
 - [ ] I said I like myself the way I am
