@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-10-20T22:17:55+05:30
+modified: 2026-10-21T14:44:52+05:30
 type: Checklist
 ---
 
@@ -23,3 +23,4 @@ type: Checklist
 - [ ] Samajdar ko ishara kaafi. Isliye mai tujhe puri baat batata hu.
 - [ ] Education is the amount of reality you can withstand without going insane
 - [ ] Kaunse yug ka hai yeh?
+- [ ] Resist the urge to spit in their face.
