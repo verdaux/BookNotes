@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-10-21T14:44:52+05:30
+modified: 2026-10-24T00:08:27+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Education is the amount of reality you can withstand without going insane
 - [ ] Kaunse yug ka hai yeh?
 - [ ] Resist the urge to spit in their face.
+- [ ] Was free that weekend. So I decided to fall in love.
