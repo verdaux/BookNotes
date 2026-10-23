@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-09-29T13:43:48+05:30
+modified: 2026-10-23T13:53:16+05:30
 type: Checklist
 ---
 
@@ -26,3 +26,4 @@ type: Checklist
 - [ ] Updating the leadership about timeline today. Just thought I'd inform you first
 - [ ] You're probably right.
 - [ ] Are we comfortable having this conversation with everyone here?
+- [ ] I'm willing to accept a different version of your response.
