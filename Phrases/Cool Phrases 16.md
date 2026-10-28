@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-09-30T16:48:06+05:30
+modified: 2026-10-28T22:09:09+05:30
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Handled that with grace
 - [ ] Unpretzel your brain
 - [ ] Un-jalebize your brain
+- [ ] Humiliation ritual
