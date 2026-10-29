@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-10-28T22:09:09+05:30
+modified: 2026-10-29T08:24:43+05:30
 type: Checklist
 ---
 
@@ -25,3 +25,4 @@ type: Checklist
 - [ ] Unpretzel your brain
 - [ ] Un-jalebize your brain
 - [ ] Humiliation ritual
+- [ ] Caring out loud
