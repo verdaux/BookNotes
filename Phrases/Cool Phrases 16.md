@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-10-29T08:35:03+05:30
+modified: 2026-10-30T06:58:38+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Humiliation ritual
 - [ ] Caring out loud
 - [ ] Weakening my resolve
+- [ ] Scary smart
