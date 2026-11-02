@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-10-29T08:37:45+05:30
+modified: 2026-11-02T17:21:45+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] Was free that weekend. So I decided to fall in love.
 - [ ] I'm not in the habit of making empty accusations.
 - [ ] That bed is too big without you
+- [ ] With great power comes great micromanaging. And great suits
