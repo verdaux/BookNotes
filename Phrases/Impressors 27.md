@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-03T07:20:00+05:30
+modified: 2026-11-03T13:57:27+05:30
 type: Checklist
 ---
 
@@ -29,6 +29,4 @@ type: Checklist
 - [ ] That bed is too big without you
 - [ ] With great power comes great micromanaging. And great suits
 - [ ] The woods would be very silent if no birds sang except the best
-- [ ] I've never seen someone light up the room quite like you do.
-- [ ] I can't get over how beautiful your smile is.
-- [ ] How is it that you always look this good?
+- [ ] An idiot in motion will go further than a genius at rest
