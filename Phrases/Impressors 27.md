@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-02T21:06:01+05:30
+modified: 2026-11-03T07:18:43+05:30
 type: Checklist
 ---
 
@@ -29,3 +29,4 @@ type: Checklist
 - [ ] That bed is too big without you
 - [ ] With great power comes great micromanaging. And great suits
 - [ ] The woods would be very silent if no birds sang except the best
+- [ ] I've never seen someone light up the room quite like you do.
