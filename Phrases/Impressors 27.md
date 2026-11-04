@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-03T21:58:56+05:30
+modified: 2026-11-04T13:10:26+05:30
 type: Checklist
 ---
 
@@ -30,4 +30,5 @@ type: Checklist
 - [ ] With great power comes great micromanaging. And great suits
 - [ ] The woods would be very silent if no birds sang except the best
 - [ ] An idiot in motion will go further than a genius at rest
-- [ ] Are you an organ trafficker? Then why you stole my heart
+- [x] Are you an organ trafficker? Then why you stole my heart
+- [ ] "you dont have to monetize your vulnerability to be interesting" oof
