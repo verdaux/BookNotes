@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-04T13:10:26+05:30
+modified: 2026-11-06T22:29:56+05:30
 type: Checklist
 ---
 
@@ -32,3 +32,4 @@ type: Checklist
 - [ ] An idiot in motion will go further than a genius at rest
 - [x] Are you an organ trafficker? Then why you stole my heart
 - [ ] "you dont have to monetize your vulnerability to be interesting" oof
+- [ ] Do you think manliness is something that you're trying to sell or something that you're trying to be
