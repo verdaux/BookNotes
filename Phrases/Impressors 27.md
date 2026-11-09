@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-08T17:57:00+05:30
+modified: 2026-11-09T06:24:22+05:30
 type: Checklist
 ---
 
@@ -34,3 +34,4 @@ type: Checklist
 - [ ] "you dont have to monetize your vulnerability to be interesting" oof
 - [ ] Do you think manliness is something that you're trying to sell or something that you're trying to be
 - [ ] I didn't know. That's why I told you.
+- [ ] I spent all week thinking about what you said on Saturday
