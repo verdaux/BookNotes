@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-09T15:15:49+05:30
+modified: 2026-11-14T11:27:47+05:30
 type: Checklist
 ---
 
@@ -36,3 +36,4 @@ type: Checklist
 - [ ] I didn't know. That's why I told you.
 - [ ] I spent all week thinking about what you said on Saturday
 - [ ] The less Joy you find at home, the more the world can sell you
+- [ ] Jitna bada pet, utna bada seth
