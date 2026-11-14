@@ -1,6 +1,6 @@
 ---
 created: 2026-09-08T21:51:02+05:30
-modified: 2026-11-07T23:59:52+05:30
+modified: 2026-11-14T11:39:44+05:30
 type: Checklist
 ---
 
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Scary smart
 - [ ] Solvem probler
 - [ ] Ready to combust
+- [ ] Doomscrolling nature
