@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-10-23T13:53:16+05:30
+modified: 2026-11-14T11:47:12+05:30
 type: Checklist
 ---
 
@@ -27,3 +27,4 @@ type: Checklist
 - [ ] You're probably right.
 - [ ] Are we comfortable having this conversation with everyone here?
 - [ ] I'm willing to accept a different version of your response.
+- [ ] I'm not going to debate how I feel
