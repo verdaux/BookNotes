@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-14T11:27:47+05:30
+modified: 2026-11-17T23:03:08+05:30
 type: Checklist
 ---
 
@@ -37,3 +37,4 @@ type: Checklist
 - [ ] I spent all week thinking about what you said on Saturday
 - [ ] The less Joy you find at home, the more the world can sell you
 - [ ] Jitna bada pet, utna bada seth
+- [ ] When your head gets mean to you come stay in mine. You've only ever been loved there.
