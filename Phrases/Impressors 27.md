@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-17T23:44:02+05:30
+modified: 2026-11-18T22:36:35+05:30
 type: Checklist
 ---
 
@@ -39,3 +39,4 @@ type: Checklist
 - [ ] Jitna bada pet, utna bada seth
 - [ ] When your head gets mean to you come stay in mine. You've only ever been loved in here.
 - [ ] Anger is the part of you that loves you the most
+- [ ] When someone farts: " better out than in "
