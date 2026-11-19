@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T09:50:20+05:30
-modified: 2026-11-14T11:47:12+05:30
+modified: 2026-11-19T12:54:21+05:30
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Are we comfortable having this conversation with everyone here?
 - [ ] I'm willing to accept a different version of your response.
 - [ ] I'm not going to debate how I feel
+- [ ] I feel you are having a bad day
