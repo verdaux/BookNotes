@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-22T18:24:56+05:30
+modified: 2026-11-22T22:43:34+05:30
 type: Checklist
 ---
 
@@ -41,3 +41,4 @@ type: Checklist
 - [ ] Anger is the part of you that loves you the most
 - [ ] When someone farts: " better out than in "
 - [ ] Jaha vlookup karte hai, wahan hookup nahi karte
+- [ ] Every nap is a gamble
