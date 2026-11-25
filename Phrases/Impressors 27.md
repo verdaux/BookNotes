@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-22T22:43:34+05:30
+modified: 2026-11-25T16:32:25+05:30
 type: Checklist
 ---
 
@@ -42,3 +42,4 @@ type: Checklist
 - [ ] When someone farts: " better out than in "
 - [ ] Jaha vlookup karte hai, wahan hookup nahi karte
 - [ ] Every nap is a gamble
+- [ ] He's a butcher masquerading as a surgeon.
