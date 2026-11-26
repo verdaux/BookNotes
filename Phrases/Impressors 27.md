@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-25T16:32:25+05:30
+modified: 2026-11-26T22:43:22+05:30
 type: Checklist
 ---
 
@@ -43,3 +43,4 @@ type: Checklist
 - [ ] Jaha vlookup karte hai, wahan hookup nahi karte
 - [ ] Every nap is a gamble
 - [ ] He's a butcher masquerading as a surgeon.
+- [ ] I googled the word kind and your name came up 
