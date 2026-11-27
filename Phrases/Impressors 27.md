@@ -1,6 +1,6 @@
 ---
 created: 2026-09-19T21:51:28+05:30
-modified: 2026-11-27T10:31:30+05:30
+modified: 2026-11-27T10:33:19+05:30
 type: Checklist
 ---
 
@@ -46,3 +46,4 @@ type: Checklist
 - [ ] I googled the word kind and your name came up
 - [ ] Have a theory about you but I may be wrong. I'd like to find out.
 - [ ] 2 things stood out to me. I'll tell you the second if you ask nicely. 
+- [ ] I'm going to skip the part where I pretend I'm not interested in what you said and just say it out right. You got my attention.
